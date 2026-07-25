@@ -1,0 +1,1630 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Undersea Expedition",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/0.png"
+			}
+		},
+		{
+			"name": "Soulsear Amulet",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/1.png"
+			}
+		},
+		{
+			"name": "Treetop Scout",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/2.png"
+			}
+		},
+		{
+			"name": "Magmir's Wrath",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/3.png"
+			}
+		},
+		{
+			"name": "Expedition Leader",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Merfolk",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/4.png"
+			}
+		},
+		{
+			"name": "Razing of the Flatlands",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/5.png"
+			}
+		},
+		{
+			"name": "Dreadful Lurker",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Horror Leviathan",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/6.png"
+			}
+		},
+		{
+			"name": "Delve too Deep",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/7.png"
+			}
+		},
+		{
+			"name": "Undersea Cuthroat",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Merfolk Rogue",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/8.png"
+			}
+		},
+		{
+			"name": "Undersea Scribe",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Merfolk",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/9.png"
+			}
+		},
+		{
+			"name": "Stream Sorcerer",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Merfolk Wizard",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/10.png"
+			}
+		},
+		{
+			"name": "Undersea Explorers",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Merfolk",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/11.png"
+			}
+		},
+		{
+			"name": "Forgotten Guardian",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/12.png"
+			}
+		},
+		{
+			"name": "Relic Slash",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/13.png"
+			}
+		},
+		{
+			"name": "Fabled Tutor",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/14.png"
+			}
+		},
+		{
+			"name": "History's Custodian",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/15.png"
+			}
+		},
+		{
+			"name": "Famished Rat",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Rat",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/16.png"
+			}
+		},
+		{
+			"name": "Feasting Goblin",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Goblin",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/17.png"
+			}
+		},
+		{
+			"name": "Ravenous Treefolk",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Treefolk",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/18.png"
+			}
+		},
+		{
+			"name": "Stormsweeper Champion",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/19.png"
+			}
+		},
+		{
+			"name": "Stormsurge Intimidator",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/20.png"
+			}
+		},
+		{
+			"name": "Tempest Banisher",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/21.png"
+			}
+		},
+		{
+			"name": "Tempest Navigator",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/22.png"
+			}
+		},
+		{
+			"name": "Stormsurge Brawler",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/23.png"
+			}
+		},
+		{
+			"name": "Repository Guard",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/24.png"
+			}
+		},
+		{
+			"name": "Stalwart Fighters",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/25.png"
+			}
+		},
+		{
+			"name": "Worn Scythe",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/26.png"
+			}
+		},
+		{
+			"name": "Voracious Devourers",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Goblin Rogue",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/27.png"
+			}
+		},
+		{
+			"name": "Painful Remnant",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/28.png"
+			}
+		},
+		{
+			"name": "Resolute Reserves",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/29.png"
+			}
+		},
+		{
+			"name": "Treetop Shaman",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/30.png"
+			}
+		},
+		{
+			"name": "Magmir's Servant",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/31.png"
+			}
+		},
+		{
+			"name": "Treetop Hunter",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/32.png"
+			}
+		},
+		{
+			"name": "Magmir's Aspirant",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/33.png"
+			}
+		},
+		{
+			"name": "Volcanic Fault",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/34.png"
+			}
+		},
+		{
+			"name": "Overgrowth Sentinel",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Treefolk",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/35.png"
+			}
+		},
+		{
+			"name": "Embervine Shaman",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/36.png"
+			}
+		},
+		{
+			"name": "Imacculate Duplication",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/37.png"
+			}
+		},
+		{
+			"name": "Magmir, Scorching Overlord",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}{G}",
+			"type": "Legendary Creature — Elemental Noble",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/38.png"
+			}
+		},
+		{
+			"name": "Varan, Storm's Edge",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/39.png"
+			}
+		},
+		{
+			"name": "Banishing Winds",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Instant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/40.png"
+			}
+		},
+		{
+			"name": "Alaric, King of Humanity",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/41.png"
+			}
+		},
+		{
+			"name": "Despot of the Flatlands",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Giant Noble",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/42.png"
+			}
+		},
+		{
+			"name": "Monarch of the Deep",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Creature — Merfolk Noble",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/43.png"
+			}
+		},
+		{
+			"name": "Stalker of the Bog",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Spirit Noble",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/44.png"
+			}
+		},
+		{
+			"name": "Ruler of the Storms",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Legendary Creature — Elemental Noble",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/45.png"
+			}
+		},
+		{
+			"name": "Tyrant of the Forest",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Creature — Goblin Noble",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/46.png"
+			}
+		},
+		{
+			"name": "The Wind Blade",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "15",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://coolcockatoo.github.io/sets/LOT-files/img/47_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/47_front.png"
+			}
+		},
+		{
+			"name": "The Sea Blade",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "25",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://coolcockatoo.github.io/sets/LOT-files/img/48_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/48_front.png"
+			}
+		},
+		{
+			"name": "Crown of Hubris",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "38",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://coolcockatoo.github.io/sets/LOT-files/img/49_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/49_front.png"
+			}
+		},
+		{
+			"name": "The Life Blade",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "79",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://coolcockatoo.github.io/sets/LOT-files/img/50_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/50_front.png"
+			}
+		},
+		{
+			"name": "The Fire Blade",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "57",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://coolcockatoo.github.io/sets/LOT-files/img/51_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/51_front.png"
+			}
+		},
+		{
+			"name": "Lord Ego, Virtue's Ruin",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}{B}",
+			"type": "Legendary Creature — Human Demon Noble",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/52.png"
+			}
+		},
+		{
+			"name": "Sudden Strike",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/53.png"
+			}
+		},
+		{
+			"name": "Royal Vanguard",
+			"rarity": "common",
+			"mana_cost": "{6}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/54.png"
+			}
+		},
+		{
+			"name": "Virtuous Defender",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/55.png"
+			}
+		},
+		{
+			"name": "Stormbrewer Mage",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/56.png"
+			}
+		},
+		{
+			"name": "Galeseeker Glider",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/57.png"
+			}
+		},
+		{
+			"name": "Seaside Village",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/58.png"
+			}
+		},
+		{
+			"name": "Battleflow Mage",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/59.png"
+			}
+		},
+		{
+			"name": "Merfolk Submerger",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Merfolk Wizard",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/60.png"
+			}
+		},
+		{
+			"name": "Diresight Seer",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/61.png"
+			}
+		},
+		{
+			"name": "Doomed Voyager",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/62.png"
+			}
+		},
+		{
+			"name": "Deep Sea Spearhead",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Merfolk Rogue",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/63.png"
+			}
+		},
+		{
+			"name": "Storm Lieutenant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/64.png"
+			}
+		},
+		{
+			"name": "Stormaxe Duo",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/65.png"
+			}
+		},
+		{
+			"name": "Reign of the Storm King",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/66.png"
+			}
+		},
+		{
+			"name": "Shield of Civilization",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/67.png"
+			}
+		},
+		{
+			"name": "Lorewander Bard",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Bard",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/68.png"
+			}
+		},
+		{
+			"name": "City Caretaker",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/69.png"
+			}
+		},
+		{
+			"name": "Reign of the Goblin King",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/70.png"
+			}
+		},
+		{
+			"name": "Experimental Overseer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Human Scientist",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/71.png"
+			}
+		},
+		{
+			"name": "Obsidian Fiend",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Elemental Beast",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/72.png"
+			}
+		},
+		{
+			"name": "Treetop Warpainter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/73.png"
+			}
+		},
+		{
+			"name": "Merfolk Corpsediver",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Merfolk Rogue",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/74.png"
+			}
+		},
+		{
+			"name": "Stormsurge Brawler",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/75.png"
+			}
+		},
+		{
+			"name": "Star, the Transmigrator",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/76.png"
+			}
+		},
+		{
+			"name": "Bastion Defender",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/77.png"
+			}
+		},
+		{
+			"name": "Flatlands Warmage",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Giant Wizard",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/78.png"
+			}
+		},
+		{
+			"name": "Flatlands Smith",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Giant",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/79.png"
+			}
+		},
+		{
+			"name": "Volcanic Agressor",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/80.png"
+			}
+		},
+		{
+			"name": "Lavafist Guardian",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/81.png"
+			}
+		},
+		{
+			"name": "Moltenspire Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/82.png"
+			}
+		},
+		{
+			"name": "Tangleweed Bruiser",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/83.png"
+			}
+		},
+		{
+			"name": "Molten Overgrowth",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/84.png"
+			}
+		},
+		{
+			"name": "Lava Strike",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/85.png"
+			}
+		},
+		{
+			"name": "Life Spirit's Wrath",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/86.png"
+			}
+		},
+		{
+			"name": "Rampant Growth",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/87.png"
+			}
+		},
+		{
+			"name": "Wind Spirit's Wrath",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/88.png"
+			}
+		},
+		{
+			"name": "Lord Ego's Wrath",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/89.png"
+			}
+		},
+		{
+			"name": "Sea Spirit's Wrath",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/90.png"
+			}
+		},
+		{
+			"name": "Fire Spirit's Wrath",
+			"rarity": "common",
+			"mana_cost": "{X}{R}",
+			"type": "Instant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/91.png"
+			}
+		},
+		{
+			"name": "Veteran Researcher",
+			"rarity": "common",
+			"mana_cost": "{1}{G/U}",
+			"type": "Creature — Human Scientist",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/92.png"
+			}
+		},
+		{
+			"name": "Experimental Abomination",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Beast Horror",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/93.png"
+			}
+		},
+		{
+			"name": "Genegrafted Charger",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Beast Mutant",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/94.png"
+			}
+		},
+		{
+			"name": "Genegrafted Wyvern",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Beast Mutant",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/95.png"
+			}
+		},
+		{
+			"name": "Head Experimenter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Scientist",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/96.png"
+			}
+		},
+		{
+			"name": "Warding Modification",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/97.png"
+			}
+		},
+		{
+			"name": "Aspiring Researcher",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Scientist",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/98.png"
+			}
+		},
+		{
+			"name": "Cleansing Priest",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/99.png"
+			}
+		},
+		{
+			"name": "Purifier Exarch",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Wizard Cleric",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/100.png"
+			}
+		},
+		{
+			"name": "Thirsting Remnant",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Horror",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/101.png"
+			}
+		},
+		{
+			"name": "High Cultist Elacloni",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Human Warlock",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/102.png"
+			}
+		},
+		{
+			"name": "Psyche Intruder",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Merfolk Rogue",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/103.png"
+			}
+		},
+		{
+			"name": "Star, Rising Hero",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/104.png"
+			}
+		},
+		{
+			"name": "Adaptive Dismissal",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/105.png"
+			}
+		},
+		{
+			"name": "Wild Nurturer",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/106.png"
+			}
+		},
+		{
+			"name": "Breach the Outerverse",
+			"rarity": "mythic",
+			"mana_cost": "{6}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/107.png"
+			}
+		},
+		{
+			"name": "Decipher the Ravings",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/108.png"
+			}
+		},
+		{
+			"name": "Hidden Cultist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/109.png"
+			}
+		},
+		{
+			"name": "Coastal Bandit",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/110.png"
+			}
+		},
+		{
+			"name": "Canopy Healer",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/111.png"
+			}
+		},
+		{
+			"name": "Wings of Frost",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/112.png"
+			}
+		},
+		{
+			"name": "Bog Ambush",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/113.png"
+			}
+		},
+		{
+			"name": "Herald of Disorder",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Demon Rogue",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/114.png"
+			}
+		},
+		{
+			"name": "Anguished Warbringer",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/115.png"
+			}
+		},
+		{
+			"name": "Vengeful Phantom",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/116.png"
+			}
+		},
+		{
+			"name": "Pain Manifestor",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Demon Warlock",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/117.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Soulsear Amulet
+	2 Razing of the Flatlands
+	2 Fabled Tutor
+	2 Imacculate Duplication
+	2 Magmir, Scorching Overlord
+	2 Varan, Storm's Edge
+	2 Banishing Winds
+	1 Alaric, King of Humanity
+	2 Despot of the Flatlands
+	2 Monarch of the Deep
+	2 Stalker of the Bog
+	2 Ruler of the Storms
+	2 Tyrant of the Forest
+	1 The Wind Blade
+	1 The Sea Blade
+	1 Crown of Hubris
+	1 The Life Blade
+	1 The Fire Blade
+	1 Lord Ego, Virtue's Ruin
+	2 Stormbrewer Mage
+	2 Diresight Seer
+	2 Molten Overgrowth
+	2 High Cultist Elacloni
+	2 Psyche Intruder
+	2 Star, Rising Hero
+	1 Breach the Outerverse
+	2 Canopy Healer
+	2 Pain Manifestor
+[uncommon(3)]
+	4 Undersea Expedition
+	4 Expedition Leader
+	4 Relic Slash
+	4 Stalwart Fighters
+	4 Painful Remnant
+	4 Treetop Shaman
+	4 Magmir's Servant
+	4 Volcanic Fault
+	4 Seaside Village
+	4 Battleflow Mage
+	4 Deep Sea Spearhead
+	4 Storm Lieutenant
+	4 Stormaxe Duo
+	4 Reign of the Storm King
+	4 Shield of Civilization
+	4 Lorewander Bard
+	4 Reign of the Goblin King
+	4 Experimental Overseer
+	4 Obsidian Fiend
+	4 Treetop Warpainter
+	4 Merfolk Corpsediver
+	4 Stormsurge Brawler
+	4 Star, the Transmigrator
+	4 Flatlands Warmage
+	4 Lavafist Guardian
+	4 Moltenspire Dragon
+	4 Tangleweed Bruiser
+	4 Experimental Abomination
+	4 Genegrafted Wyvern
+	4 Head Experimenter
+	4 Cleansing Priest
+	4 Purifier Exarch
+	4 Thirsting Remnant
+	4 Adaptive Dismissal
+	4 Hidden Cultist
+	4 Coastal Bandit
+	4 Bog Ambush
+	4 Herald of Disorder
+	4 Vengeful Phantom
+[common(6)]
+	8 Treetop Scout
+	8 Magmir's Wrath
+	8 Dreadful Lurker
+	8 Delve too Deep
+	8 Undersea Cuthroat
+	8 Undersea Scribe
+	8 Stream Sorcerer
+	8 Undersea Explorers
+	8 Forgotten Guardian
+	8 History's Custodian
+	8 Famished Rat
+	8 Feasting Goblin
+	8 Ravenous Treefolk
+	8 Stormsweeper Champion
+	8 Stormsurge Intimidator
+	8 Tempest Banisher
+	8 Tempest Navigator
+	8 Stormsurge Brawler
+	8 Repository Guard
+	8 Worn Scythe
+	8 Voracious Devourers
+	8 Resolute Reserves
+	8 Treetop Hunter
+	8 Magmir's Aspirant
+	8 Overgrowth Sentinel
+	8 Embervine Shaman
+	8 Sudden Strike
+	8 Royal Vanguard
+	8 Virtuous Defender
+	8 Galeseeker Glider
+	8 Merfolk Submerger
+	8 Doomed Voyager
+	8 City Caretaker
+	8 Bastion Defender
+	8 Flatlands Smith
+	8 Volcanic Agressor
+	8 Lava Strike
+	8 Life Spirit's Wrath
+	8 Rampant Growth
+	8 Wind Spirit's Wrath
+	8 Lord Ego's Wrath
+	8 Sea Spirit's Wrath
+	8 Fire Spirit's Wrath
+	8 Veteran Researcher
+	8 Genegrafted Charger
+	8 Warding Modification
+	8 Aspiring Researcher
+	8 Wild Nurturer
+	8 Decipher the Ravings
+	8 Wings of Frost
+	8 Anguished Warbringer
+[common | masterpiece(1)]
+	8 Treetop Scout
+	8 Magmir's Wrath
+	8 Dreadful Lurker
+	8 Delve too Deep
+	8 Undersea Cuthroat
+	8 Undersea Scribe
+	8 Stream Sorcerer
+	8 Undersea Explorers
+	8 Forgotten Guardian
+	8 History's Custodian
+	8 Famished Rat
+	8 Feasting Goblin
+	8 Ravenous Treefolk
+	8 Stormsweeper Champion
+	8 Stormsurge Intimidator
+	8 Tempest Banisher
+	8 Tempest Navigator
+	8 Stormsurge Brawler
+	8 Repository Guard
+	8 Worn Scythe
+	8 Voracious Devourers
+	8 Resolute Reserves
+	8 Treetop Hunter
+	8 Magmir's Aspirant
+	8 Overgrowth Sentinel
+	8 Embervine Shaman
+	8 Sudden Strike
+	8 Royal Vanguard
+	8 Virtuous Defender
+	8 Galeseeker Glider
+	8 Merfolk Submerger
+	8 Doomed Voyager
+	8 City Caretaker
+	8 Bastion Defender
+	8 Flatlands Smith
+	8 Volcanic Agressor
+	8 Lava Strike
+	8 Life Spirit's Wrath
+	8 Rampant Growth
+	8 Wind Spirit's Wrath
+	8 Lord Ego's Wrath
+	8 Sea Spirit's Wrath
+	8 Fire Spirit's Wrath
+	8 Veteran Researcher
+	8 Genegrafted Charger
+	8 Warding Modification
+	8 Aspiring Researcher
+	8 Wild Nurturer
+	8 Decipher the Ravings
+	8 Wings of Frost
+	8 Anguished Warbringer
+[foil(1)]
+	6 Undersea Expedition
+	2 Soulsear Amulet
+	12 Treetop Scout
+	12 Magmir's Wrath
+	6 Expedition Leader
+	2 Razing of the Flatlands
+	12 Dreadful Lurker
+	12 Delve too Deep
+	12 Undersea Cuthroat
+	12 Undersea Scribe
+	12 Stream Sorcerer
+	12 Undersea Explorers
+	12 Forgotten Guardian
+	6 Relic Slash
+	2 Fabled Tutor
+	12 History's Custodian
+	12 Famished Rat
+	12 Feasting Goblin
+	12 Ravenous Treefolk
+	12 Stormsweeper Champion
+	12 Stormsurge Intimidator
+	12 Tempest Banisher
+	12 Tempest Navigator
+	12 Stormsurge Brawler
+	12 Repository Guard
+	6 Stalwart Fighters
+	12 Worn Scythe
+	12 Voracious Devourers
+	6 Painful Remnant
+	12 Resolute Reserves
+	6 Treetop Shaman
+	6 Magmir's Servant
+	12 Treetop Hunter
+	12 Magmir's Aspirant
+	6 Volcanic Fault
+	12 Overgrowth Sentinel
+	12 Embervine Shaman
+	2 Imacculate Duplication
+	2 Magmir, Scorching Overlord
+	2 Varan, Storm's Edge
+	2 Banishing Winds
+	1 Alaric, King of Humanity
+	2 Despot of the Flatlands
+	2 Monarch of the Deep
+	2 Stalker of the Bog
+	2 Ruler of the Storms
+	2 Tyrant of the Forest
+	1 The Wind Blade
+	1 The Sea Blade
+	1 Crown of Hubris
+	1 The Life Blade
+	1 The Fire Blade
+	1 Lord Ego, Virtue's Ruin
+	12 Sudden Strike
+	12 Royal Vanguard
+	12 Virtuous Defender
+	2 Stormbrewer Mage
+	12 Galeseeker Glider
+	6 Seaside Village
+	6 Battleflow Mage
+	12 Merfolk Submerger
+	2 Diresight Seer
+	12 Doomed Voyager
+	6 Deep Sea Spearhead
+	6 Storm Lieutenant
+	6 Stormaxe Duo
+	6 Reign of the Storm King
+	6 Shield of Civilization
+	6 Lorewander Bard
+	12 City Caretaker
+	6 Reign of the Goblin King
+	6 Experimental Overseer
+	6 Obsidian Fiend
+	6 Treetop Warpainter
+	6 Merfolk Corpsediver
+	6 Stormsurge Brawler
+	6 Star, the Transmigrator
+	12 Bastion Defender
+	6 Flatlands Warmage
+	12 Flatlands Smith
+	12 Volcanic Agressor
+	6 Lavafist Guardian
+	6 Moltenspire Dragon
+	6 Tangleweed Bruiser
+	2 Molten Overgrowth
+	12 Lava Strike
+	12 Life Spirit's Wrath
+	12 Rampant Growth
+	12 Wind Spirit's Wrath
+	12 Lord Ego's Wrath
+	12 Sea Spirit's Wrath
+	12 Fire Spirit's Wrath
+	12 Veteran Researcher
+	6 Experimental Abomination
+	12 Genegrafted Charger
+	6 Genegrafted Wyvern
+	6 Head Experimenter
+	12 Warding Modification
+	12 Aspiring Researcher
+	6 Cleansing Priest
+	6 Purifier Exarch
+	6 Thirsting Remnant
+	2 High Cultist Elacloni
+	2 Psyche Intruder
+	2 Star, Rising Hero
+	6 Adaptive Dismissal
+	12 Wild Nurturer
+	1 Breach the Outerverse
+	12 Decipher the Ravings
+	6 Hidden Cultist
+	6 Coastal Bandit
+	2 Canopy Healer
+	12 Wings of Frost
+	6 Bog Ambush
+	6 Herald of Disorder
+	12 Anguished Warbringer
+	6 Vengeful Phantom
+	2 Pain Manifestor
+[wildcard(1)]
+	15 Undersea Expedition
+	7 Soulsear Amulet
+	6 Treetop Scout
+	6 Magmir's Wrath
+	15 Expedition Leader
+	7 Razing of the Flatlands
+	6 Dreadful Lurker
+	6 Delve too Deep
+	6 Undersea Cuthroat
+	6 Undersea Scribe
+	6 Stream Sorcerer
+	6 Undersea Explorers
+	6 Forgotten Guardian
+	15 Relic Slash
+	7 Fabled Tutor
+	6 History's Custodian
+	6 Famished Rat
+	6 Feasting Goblin
+	6 Ravenous Treefolk
+	6 Stormsweeper Champion
+	6 Stormsurge Intimidator
+	6 Tempest Banisher
+	6 Tempest Navigator
+	6 Stormsurge Brawler
+	6 Repository Guard
+	15 Stalwart Fighters
+	6 Worn Scythe
+	6 Voracious Devourers
+	15 Painful Remnant
+	6 Resolute Reserves
+	15 Treetop Shaman
+	15 Magmir's Servant
+	6 Treetop Hunter
+	6 Magmir's Aspirant
+	15 Volcanic Fault
+	6 Overgrowth Sentinel
+	6 Embervine Shaman
+	7 Imacculate Duplication
+	7 Magmir, Scorching Overlord
+	7 Varan, Storm's Edge
+	7 Banishing Winds
+	4 Alaric, King of Humanity
+	7 Despot of the Flatlands
+	7 Monarch of the Deep
+	7 Stalker of the Bog
+	7 Ruler of the Storms
+	7 Tyrant of the Forest
+	4 The Wind Blade
+	4 The Sea Blade
+	4 Crown of Hubris
+	4 The Life Blade
+	4 The Fire Blade
+	4 Lord Ego, Virtue's Ruin
+	6 Sudden Strike
+	6 Royal Vanguard
+	6 Virtuous Defender
+	7 Stormbrewer Mage
+	6 Galeseeker Glider
+	15 Seaside Village
+	15 Battleflow Mage
+	6 Merfolk Submerger
+	7 Diresight Seer
+	6 Doomed Voyager
+	15 Deep Sea Spearhead
+	15 Storm Lieutenant
+	15 Stormaxe Duo
+	15 Reign of the Storm King
+	15 Shield of Civilization
+	15 Lorewander Bard
+	6 City Caretaker
+	15 Reign of the Goblin King
+	15 Experimental Overseer
+	15 Obsidian Fiend
+	15 Treetop Warpainter
+	15 Merfolk Corpsediver
+	15 Stormsurge Brawler
+	15 Star, the Transmigrator
+	6 Bastion Defender
+	15 Flatlands Warmage
+	6 Flatlands Smith
+	6 Volcanic Agressor
+	15 Lavafist Guardian
+	15 Moltenspire Dragon
+	15 Tangleweed Bruiser
+	7 Molten Overgrowth
+	6 Lava Strike
+	6 Life Spirit's Wrath
+	6 Rampant Growth
+	6 Wind Spirit's Wrath
+	6 Lord Ego's Wrath
+	6 Sea Spirit's Wrath
+	6 Fire Spirit's Wrath
+	6 Veteran Researcher
+	15 Experimental Abomination
+	6 Genegrafted Charger
+	15 Genegrafted Wyvern
+	15 Head Experimenter
+	6 Warding Modification
+	6 Aspiring Researcher
+	15 Cleansing Priest
+	15 Purifier Exarch
+	15 Thirsting Remnant
+	7 High Cultist Elacloni
+	7 Psyche Intruder
+	7 Star, Rising Hero
+	15 Adaptive Dismissal
+	6 Wild Nurturer
+	4 Breach the Outerverse
+	6 Decipher the Ravings
+	15 Hidden Cultist
+	15 Coastal Bandit
+	7 Canopy Healer
+	6 Wings of Frost
+	15 Bog Ambush
+	15 Herald of Disorder
+	6 Anguished Warbringer
+	15 Vengeful Phantom
+	7 Pain Manifestor

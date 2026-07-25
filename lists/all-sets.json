@@ -1,3 +1,9 @@
 ﻿{
-    "sets": []
+    "sets": [
+        {
+            "set_code": "LOT",
+            "set_name": "Legends Of Tenebrous",
+            "formats": ""
+        }
+    ]
 }

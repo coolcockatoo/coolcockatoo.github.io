@@ -1,4 +1,11 @@
 ﻿{
+    "name": "Legends Of Tenebrous",
+    "formats": "",
+    "image_type": "png",
+    "draft_structure": "play booster",
+    "unpreviewed": "card back",
+    "image_name": "position",
+    "v_mana": "",
     "cards": [
         {
             "card_name": "Undersea Expedition",
@@ -19,9 +26,7 @@
             "alias": "",
             "position": "0",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Soulsear Amulet",
@@ -42,19 +47,17 @@
             "alias": "",
             "position": "1",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Treetop Scout",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Human",
+            "type": "Creature \u2014 Human",
             "number": 89,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Reach\n[i]Landfall[/i] \u2013 Whenever a land you control enters, scry 1.\nAs long as you control five or more lands, this creature gets +1/+1 and has vigilance.",
+            "rules_text": "Reach\n[i]Landfall[/i] \u2014 Whenever a land you control enters, scry 1.\nAs long as you control five or more lands, this creature gets +1/+1 and has vigilance.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -65,9 +68,7 @@
             "alias": "",
             "position": "2",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Magmir's Wrath",
@@ -88,15 +89,13 @@
             "alias": "",
             "position": "3",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Expedition Leader",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Merfolk",
+            "type": "Creature \u2014 Merfolk",
             "number": 20,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
@@ -111,22 +110,20 @@
             "alias": "",
             "position": "4",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Razing of the Flatlands",
             "color": "W",
             "rarity": "rare",
-            "type": "Enchantment \u2013 Saga",
+            "type": "Enchantment \u2014 Saga",
             "number": 8,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2013 Tap any number of untapped creatures you control. Draw that many cards.\nII \u2013 Put a +1/+1 counter on target creature you control. It gains indestructible until the end of your next turn.\nIII \u2013 Destroy all creatures.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Tap any number of untapped creatures you control. Draw that many cards.\nII \u2014 Put a +1/+1 counter on target creature you control. It gains indestructible until the end of your next turn.\nIII \u2014 Destroy all creatures.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2013 Tap any number of untapped creatures you control. Draw that many cards.\nII \u2013 Put a +1/+1 counter on target creature you control. It gains indestructible until the end of your next turn.\nIII \u2013 Destroy all creatures.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Tap any number of untapped creatures you control. Draw that many cards.\nII \u2014 Put a +1/+1 counter on target creature you control. It gains indestructible until the end of your next turn.\nIII \u2014 Destroy all creatures.",
             "shape": "saga",
             "set": "LOT",
             "loyalty": "",
@@ -134,19 +131,17 @@
             "alias": "",
             "position": "5",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Dreadful Lurker",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Horror Leviathan",
+            "type": "Creature \u2014 Horror Leviathan",
             "number": 44,
             "color_identity": "B",
             "cost": "{4}{B}{B}",
-            "rules_text": "[i]Unworldly 3[/i] \u2013 This spell costs {3} less to cast if you own three or more cards in exile.\nWhen this creature enters, exile the top three cards of your library. Choose a card exiled this way. For as long as it remains exiled, you may cast it.",
+            "rules_text": "[i]Unworldly 3[/i] \u2014 This spell costs {3} less to cast if you own three or more cards in exile.\nWhen this creature enters, exile the top three cards of your library. Choose a card exiled this way. For as long as it remains exiled, you may cast it.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -157,9 +152,7 @@
             "alias": "",
             "position": "6",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Delve too Deep",
@@ -180,15 +173,13 @@
             "alias": "",
             "position": "7",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Undersea Cuthroat",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Merfolk Rogue",
+            "type": "Creature \u2014 Merfolk Rogue",
             "number": 53,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -203,15 +194,13 @@
             "alias": "",
             "position": "8",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Undersea Scribe",
             "color": "UB",
             "rarity": "common",
-            "type": "Creature \u2013 Merfolk",
+            "type": "Creature \u2014 Merfolk",
             "number": 115,
             "color_identity": "UB",
             "cost": "{1}{U}{B}",
@@ -226,15 +215,13 @@
             "alias": "",
             "position": "9",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Stream Sorcerer",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Merfolk Wizard",
+            "type": "Creature \u2014 Merfolk Wizard",
             "number": 28,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -249,15 +236,13 @@
             "alias": "",
             "position": "10",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Undersea Explorers",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Merfolk",
+            "type": "Creature \u2014 Merfolk",
             "number": 32,
             "color_identity": "U",
             "cost": "{3}{U}{U}",
@@ -272,15 +257,13 @@
             "alias": "",
             "position": "11",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Forgotten Guardian",
             "color": "W",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Golem",
+            "type": "Artifact Creature \u2014 Golem",
             "number": 6,
             "color_identity": "W",
             "cost": "{4}{W}",
@@ -295,9 +278,7 @@
             "alias": "",
             "position": "12",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Relic Slash",
@@ -318,9 +299,7 @@
             "alias": "",
             "position": "13",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Fabled Tutor",
@@ -341,15 +320,13 @@
             "alias": "",
             "position": "14",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "History's Custodian",
             "color": "WG",
             "rarity": "common",
-            "type": "Creature \u2013 Human Warrior",
+            "type": "Creature \u2014 Human Warrior",
             "number": 101,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
@@ -364,15 +341,13 @@
             "alias": "",
             "position": "15",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Famished Rat",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Rat",
+            "type": "Creature \u2014 Rat",
             "number": 45,
             "color_identity": "B",
             "cost": "{B}",
@@ -387,15 +362,13 @@
             "alias": "",
             "position": "16",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Feasting Goblin",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Goblin",
+            "type": "Creature \u2014 Goblin",
             "number": 76,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -410,15 +383,13 @@
             "alias": "",
             "position": "17",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Ravenous Treefolk",
             "color": "BG",
             "rarity": "common",
-            "type": "Creature \u2013 Treefolk",
+            "type": "Creature \u2014 Treefolk",
             "number": 109,
             "color_identity": "BG",
             "cost": "{2}{B}{G}",
@@ -433,19 +404,17 @@
             "alias": "",
             "position": "18",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Stormsweeper Champion",
             "color": "UR",
             "rarity": "common",
-            "type": "Creature \u2013 Human Warrior",
+            "type": "Creature \u2014 Human Warrior",
             "number": 113,
             "color_identity": "UR",
             "cost": "{3}{U}{R}",
-            "rules_text": "Haste\nBoast \u2013 {U}{R}: Tap target creature. This creature deals 1 damage to that creature's controller. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]",
+            "rules_text": "Haste\nBoast \u2014 {U}{R}: Tap target creature. This creature deals 1 damage to that creature's controller. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -456,19 +425,17 @@
             "alias": "",
             "position": "19",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Stormsurge Intimidator",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Human Warrior",
+            "type": "Creature \u2014 Human Warrior",
             "number": 71,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "Trample.\nBoast \u2013 {2}{R}: Target creature can't block this turn. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]",
+            "rules_text": "Trample.\nBoast \u2014 {2}{R}: Target creature can't block this turn. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -479,19 +446,17 @@
             "alias": "",
             "position": "20",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Tempest Banisher",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Human Wizard",
+            "type": "Creature \u2014 Human Wizard",
             "number": 29,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Boast \u2013 {2}{U}: Exile another target creature you control, then return it to the battlefield tapped under its owner's control. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]",
+            "rules_text": "Boast \u2014 {2}{U}: Exile another target creature you control, then return it to the battlefield tapped under its owner's control. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/3",
             "special_text": "",
@@ -502,19 +467,17 @@
             "alias": "",
             "position": "21",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Tempest Navigator",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Human Wizard",
+            "type": "Creature \u2014 Human Wizard",
             "number": 30,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "Flying\nBoast \u2013 {1}{U}: This creature gets +1/+1 until end of turn. Untap it. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]",
+            "rules_text": "Flying\nBoast \u2014 {1}{U}: This creature gets +1/+1 until end of turn. Untap it. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -525,19 +488,17 @@
             "alias": "",
             "position": "22",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Stormsurge Brawler",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Human Warrior",
+            "type": "Creature \u2014 Human Warrior",
             "number": 70,
             "color_identity": "R",
             "cost": "{1}{R}{R}",
-            "rules_text": "Boast \u2013 {1}{R}: This creature gets +1/+1 and menace until end of turn. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]",
+            "rules_text": "Boast \u2014 {1}{R}: This creature gets +1/+1 and menace until end of turn. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -548,15 +509,13 @@
             "alias": "",
             "position": "23",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Repository Guard",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Human",
+            "type": "Creature \u2014 Human",
             "number": 85,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -571,15 +530,13 @@
             "alias": "",
             "position": "24",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Stalwart Fighters",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Warrior",
+            "type": "Creature \u2014 Human Warrior",
             "number": 12,
             "color_identity": "W",
             "cost": "{3}{W}",
@@ -594,9 +551,7 @@
             "alias": "",
             "position": "25",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Worn Scythe",
@@ -617,15 +572,13 @@
             "alias": "",
             "position": "26",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Voracious Devourers",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Goblin Rogue",
+            "type": "Creature \u2014 Goblin Rogue",
             "number": 55,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -640,15 +593,13 @@
             "alias": "",
             "position": "27",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Painful Remnant",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Spirit",
+            "type": "Creature \u2014 Spirit",
             "number": 49,
             "color_identity": "B",
             "cost": "{B}{B}",
@@ -663,15 +614,13 @@
             "alias": "",
             "position": "28",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Resolute Reserves",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Human Warrior",
+            "type": "Creature \u2014 Human Warrior",
             "number": 10,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -686,19 +635,17 @@
             "alias": "",
             "position": "29",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Treetop Shaman",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Shaman",
+            "type": "Creature \u2014 Human Shaman",
             "number": 90,
             "color_identity": "G",
             "cost": "{1}{G}{G}",
-            "rules_text": "[i]Landfall[/i] \u2013 Whenever a land you control enters, put a +1/+1 counter on target creature.\nModified creatures you control have Ward {1}. [i](Equipment, Auras you control, and counters are modifications. Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, put a +1/+1 counter on target creature.\nModified creatures you control have Ward {1}. [i](Equipment, Auras you control, and counters are modifications. Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -709,19 +656,17 @@
             "alias": "",
             "position": "30",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Magmir's Servant",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elemental",
+            "type": "Creature \u2014 Elemental",
             "number": 63,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
-            "rules_text": "Trample\n[i]Landfall[/i] \u2013 Whenever a land you control enters, exile the top card of your library. You may play it until the end of your next turn.",
+            "rules_text": "Trample\n[i]Landfall[/i] \u2014 Whenever a land you control enters, exile the top card of your library. You may play it until the end of your next turn.",
             "flavor_text": "[i][/i]",
             "pt": "5/4",
             "special_text": "",
@@ -732,19 +677,17 @@
             "alias": "",
             "position": "31",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Treetop Hunter",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Human Warrior",
+            "type": "Creature \u2014 Human Warrior",
             "number": 88,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Reach\n[i]Landfall[/i] \u2013 Whenever a land you control enters, create a Food token. [i](It's an artifact with \u201c{2}, {T}, Sacrifice this token: You gain 3 life.\u201d)[/i]",
+            "rules_text": "Reach\n[i]Landfall[/i] \u2014 Whenever a land you control enters, create a Food token. [i](It's an artifact with \u201c{2}, {T}, Sacrifice this token: You gain 3 life.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -755,19 +698,17 @@
             "alias": "",
             "position": "32",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Magmir's Aspirant",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Elemental",
+            "type": "Creature \u2014 Elemental",
             "number": 62,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Reach\n[i]Landfall[/i] \u2013 Whenever a land you control enters, this creature deals 1 damage to each opponent.",
+            "rules_text": "Reach\n[i]Landfall[/i] \u2014 Whenever a land you control enters, this creature deals 1 damage to each opponent.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -778,9 +719,7 @@
             "alias": "",
             "position": "33",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Volcanic Fault",
@@ -801,15 +740,13 @@
             "alias": "",
             "position": "34",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Overgrowth Sentinel",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Treefolk",
+            "type": "Creature \u2014 Treefolk",
             "number": 82,
             "color_identity": "G",
             "cost": "{4}{G}",
@@ -824,19 +761,17 @@
             "alias": "",
             "position": "35",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Embervine Shaman",
             "color": "RG",
             "rarity": "common",
-            "type": "Creature \u2013 Human Shaman",
+            "type": "Creature \u2014 Human Shaman",
             "number": 96,
             "color_identity": "RG",
             "cost": "{2}{R}{G}",
-            "rules_text": "[i]Landfall[/i] \u2013 Whenever a land you control enters, choose target creature you don't control. If that creature has flying, it loses flying until end of turn. Otherwise, it can't block until end of turn.",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, choose target creature you don't control. If that creature has flying, it loses flying until end of turn. Otherwise, it can't block until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -847,9 +782,7 @@
             "alias": "",
             "position": "36",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Imacculate Duplication",
@@ -870,19 +803,17 @@
             "alias": "",
             "position": "37",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Magmir, Scorching Overlord",
             "color": "BRG",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Elemental Noble",
+            "type": "Legendary Creature \u2014 Elemental Noble",
             "number": 103,
             "color_identity": "BRG",
             "cost": "{1}{B}{R}{G}",
-            "rules_text": "[i]Landfall[/i] \u2013 Whenever a land you control enters, this creature deals 1 damage to each opponent. If this is the second time this ability has triggered this turn, each opponent sacrifices a creature at random unless they discard a card.\nWhenever an opponent discards a land card, draw a card.",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, this creature deals 1 damage to each opponent. If this is the second time this ability has triggered this turn, each opponent sacrifices a creature at random unless they discard a card.\nWhenever an opponent discards a land card, draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -893,19 +824,17 @@
             "alias": "",
             "position": "38",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Varan, Storm's Edge",
             "color": "UR",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Human Warrior",
+            "type": "Legendary Creature \u2014 Human Warrior",
             "number": 116,
             "color_identity": "UR",
             "cost": "{2}{U}{R}",
-            "rules_text": "Menace\nWhenever this creature attacks, add X {U} or {R} in any combination of colors, where X is its power. This mana can't be spent to cast spells.\nBoast \u2013 {X}{U}{R}: Target creature gets +X/+0 until end of turn. Scry 2. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]",
+            "rules_text": "Menace\nWhenever this creature attacks, add X {U} or {R} in any combination of colors, where X is its power. This mana can't be spent to cast spells.\nBoast \u2014 {X}{U}{R}: Target creature gets +X/+0 until end of turn. Scry 2. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -916,9 +845,7 @@
             "alias": "",
             "position": "39",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Banishing Winds",
@@ -939,15 +866,13 @@
             "alias": "",
             "position": "40",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Alaric, King of Humanity",
             "color": "W",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Human Noble",
+            "type": "Legendary Creature \u2014 Human Noble",
             "number": 1,
             "color_identity": "W",
             "cost": "{4}{W}",
@@ -962,15 +887,13 @@
             "alias": "",
             "position": "41",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Despot of the Flatlands",
             "color": "W",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Giant Noble",
+            "type": "Legendary Creature \u2014 Giant Noble",
             "number": 4,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
@@ -985,15 +908,13 @@
             "alias": "",
             "position": "42",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Monarch of the Deep",
             "color": "U",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Merfolk Noble",
+            "type": "Legendary Creature \u2014 Merfolk Noble",
             "number": 24,
             "color_identity": "U",
             "cost": "{3}{U}{U}",
@@ -1008,15 +929,13 @@
             "alias": "",
             "position": "43",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Stalker of the Bog",
             "color": "B",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Spirit Noble",
+            "type": "Legendary Creature \u2014 Spirit Noble",
             "number": 51,
             "color_identity": "B",
             "cost": "{4}{B}{B}",
@@ -1031,19 +950,17 @@
             "alias": "",
             "position": "44",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Ruler of the Storms",
             "color": "R",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Elemental Noble",
+            "type": "Legendary Creature \u2014 Elemental Noble",
             "number": 67,
             "color_identity": "R",
             "cost": "{R}{R}",
-            "rules_text": "Whenever a Mountain you control enters, add {R}. Until end of turn, you don't lose this mana as steps and phases end.\nCreatures you control have \u201cBoast \u2013 {1}{R}: Deal 2 damage to each opponent\u201d [i](Activate only if this creature attacked this turn and only once each turn.)[/i] [i](Activate only if this creature attacked this turn and only once each turn.)[/i]",
+            "rules_text": "Whenever a Mountain you control enters, add {R}. Until end of turn, you don't lose this mana as steps and phases end.\nCreatures you control have \u201cBoast \u2014 {1}{R}: Deal 2 damage to each opponent\u201d [i](Activate only if this creature attacked this turn and only once each turn.)[/i] [i](Activate only if this creature attacked this turn and only once each turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -1054,15 +971,13 @@
             "alias": "",
             "position": "45",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Tyrant of the Forest",
             "color": "G",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Goblin Noble",
+            "type": "Legendary Creature \u2014 Goblin Noble",
             "number": 91,
             "color_identity": "G",
             "cost": "{1}{G}{G}",
@@ -1077,15 +992,13 @@
             "alias": "",
             "position": "46",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "The Wind Blade",
             "color": "W",
             "rarity": "mythic",
-            "type": "Legendary Artifact \u2013 Equipment",
+            "type": "Legendary Artifact \u2014 Equipment",
             "number": 15,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -1101,7 +1014,7 @@
             "position": "47",
             "card_name2": "The Wind Spirit",
             "color2": "W",
-            "type2": "Legendary Creature \u2013 Elder Elemental",
+            "type2": "Legendary Creature \u2014 Elder Elemental",
             "cost2": "",
             "rules_text2": "Flying\nAt the beginning of your end step, exile any number of other target nonland permanents you control, then return them to the battlefield under their owners control.",
             "flavor_text2": "[i][/i]",
@@ -1112,15 +1025,13 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "The Sea Blade",
             "color": "U",
             "rarity": "mythic",
-            "type": "Legendary Artifact \u2013 Equipment",
+            "type": "Legendary Artifact \u2014 Equipment",
             "number": 25,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -1136,7 +1047,7 @@
             "position": "48",
             "card_name2": "The Sea Spirit",
             "color2": "U",
-            "type2": "Legendary Creature \u2013 Elder Elemental",
+            "type2": "Legendary Creature \u2014 Elder Elemental",
             "cost2": "",
             "rules_text2": "During your turn, each instant and sorcery spells in your graveyard have flashback. The flashback cost is equal to it's mana cost.\nWhenever you cast an instant or sorcery spell, target player mills five cards.",
             "flavor_text2": "[i][/i]",
@@ -1147,15 +1058,13 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Crown of Hubris",
             "color": "B",
             "rarity": "mythic",
-            "type": "Legendary Artifact \u2013 Equipment",
+            "type": "Legendary Artifact \u2014 Equipment",
             "number": 38,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -1171,9 +1080,9 @@
             "position": "49",
             "card_name2": "Outer Hubris",
             "color2": "B",
-            "type2": "Legendary Creature \u2013 Elder Horror",
+            "type2": "Legendary Creature \u2014 Elder Horror",
             "cost2": "",
-            "rules_text2": "Flying, menace, lifelink\nWard\u2013 Exile two nontoken, nonland permanents.\nWhenever an opponent loses life, put that many +1/+1 counters on this creature.",
+            "rules_text2": "Flying, menace, lifelink\nWard\u2014 Exile two nontoken, nonland permanents.\nWhenever an opponent loses life, put that many +1/+1 counters on this creature.",
             "flavor_text2": "[i][/i]",
             "pt2": "1/1",
             "special_text2": "",
@@ -1182,15 +1091,13 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "The Life Blade",
             "color": "G",
             "rarity": "mythic",
-            "type": "Legendary Artifact \u2013 Equipment",
+            "type": "Legendary Artifact \u2014 Equipment",
             "number": 79,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -1206,7 +1113,7 @@
             "position": "50",
             "card_name2": "The Life Spirit",
             "color2": "G",
-            "type2": "Legendary Creature \u2013 Elder Elemental",
+            "type2": "Legendary Creature \u2014 Elder Elemental",
             "cost2": "",
             "rules_text2": "Trample, reach\nPermanents you control have \u201c{T}: Add two mana of any one color\u201d\nWhenever you cast a spell with mana value 4 or greater, you gain 3 life and draw a card.",
             "flavor_text2": "[i][/i]",
@@ -1217,15 +1124,13 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "The Fire Blade",
             "color": "R",
             "rarity": "mythic",
-            "type": "Legendary Artifact \u2013 Equipment",
+            "type": "Legendary Artifact \u2014 Equipment",
             "number": 57,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -1241,7 +1146,7 @@
             "position": "51",
             "card_name2": "The Fire Spirit",
             "color2": "R",
-            "type2": "Legendary Creature \u2013 Elder Elemental",
+            "type2": "Legendary Creature \u2014 Elder Elemental",
             "cost2": "",
             "rules_text2": "When this card transforms into The Fire Spirit, discard any number of cards and draw that many cards.\nWhenever you discard a card, deal 1 damage to each opponent, then exile the top card of your library. Until the end of your next turn, you may play it.",
             "flavor_text2": "[i][/i]",
@@ -1252,15 +1157,13 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Lord Ego, Virtue's Ruin",
             "color": "B",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Human Demon Noble",
+            "type": "Legendary Creature \u2014 Human Demon Noble",
             "number": 47,
             "color_identity": "B",
             "cost": "{1}{B}{B}{B}",
@@ -1275,9 +1178,7 @@
             "alias": "",
             "position": "52",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Sudden Strike",
@@ -1298,15 +1199,13 @@
             "alias": "",
             "position": "53",
             "rotated": false,
-            "notes": "S",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": "S"
         },
         {
             "card_name": "Royal Vanguard",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Human Warrior",
+            "type": "Creature \u2014 Human Warrior",
             "number": 11,
             "color_identity": "W",
             "cost": "{6}{W}",
@@ -1321,15 +1220,13 @@
             "alias": "",
             "position": "54",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Virtuous Defender",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Human Warrior",
+            "type": "Creature \u2014 Human Warrior",
             "number": 14,
             "color_identity": "W",
             "cost": "{1}{W}{W}",
@@ -1344,19 +1241,17 @@
             "alias": "",
             "position": "55",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Stormbrewer Mage",
             "color": "U",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Wizard",
+            "type": "Creature \u2014 Human Wizard",
             "number": 27,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Flying\nThis creature can only block creatures with flying.\nBoast \u2013 {1}{U}: Target instant or sorcery spell in your graveyard gains flashback until end of turn. The flashback cost is equal to it's mana cost. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]",
+            "rules_text": "Flying\nThis creature can only block creatures with flying.\nBoast \u2014 {1}{U}: Target instant or sorcery spell in your graveyard gains flashback until end of turn. The flashback cost is equal to it's mana cost. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -1367,19 +1262,17 @@
             "alias": "",
             "position": "56",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Galeseeker Glider",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Human",
+            "type": "Creature \u2014 Human",
             "number": 21,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "Boast \u2013 {1}{U}: Put your choice of a +1/+1 or flying counter on this creature. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]",
+            "rules_text": "Boast \u2014 {1}{U}: Put your choice of a +1/+1 or flying counter on this creature. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -1390,9 +1283,7 @@
             "alias": "",
             "position": "57",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Seaside Village",
@@ -1413,19 +1304,17 @@
             "alias": "",
             "position": "58",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Battleflow Mage",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Wizard",
+            "type": "Creature \u2014 Human Wizard",
             "number": 19,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
-            "rules_text": "Vigilance\nWhenever you activate the boast ability of a creature, draw a card.\nBoast \u2013 {3}{U}: Scry 1 [i](Activate only if this creature attacked this turn and only once each turn.)[/i]",
+            "rules_text": "Vigilance\nWhenever you activate the boast ability of a creature, draw a card.\nBoast \u2014 {3}{U}: Scry 1 [i](Activate only if this creature attacked this turn and only once each turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/4",
             "special_text": "",
@@ -1436,15 +1325,13 @@
             "alias": "",
             "position": "59",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Merfolk Submerger",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Merfolk Wizard",
+            "type": "Creature \u2014 Merfolk Wizard",
             "number": 23,
             "color_identity": "U",
             "cost": "{3}{U}",
@@ -1459,15 +1346,13 @@
             "alias": "",
             "position": "60",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Diresight Seer",
             "color": "B",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Warlock",
+            "type": "Creature \u2014 Human Warlock",
             "number": 42,
             "color_identity": "B",
             "cost": "{B}",
@@ -1482,15 +1367,13 @@
             "alias": "",
             "position": "61",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Doomed Voyager",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Human",
+            "type": "Creature \u2014 Human",
             "number": 43,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -1505,15 +1388,13 @@
             "alias": "",
             "position": "62",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Deep Sea Spearhead",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Merfolk Rogue",
+            "type": "Creature \u2014 Merfolk Rogue",
             "number": 40,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -1528,19 +1409,17 @@
             "alias": "",
             "position": "63",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Storm Lieutenant",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elemental",
+            "type": "Creature \u2014 Elemental",
             "number": 68,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Haste, Trample\nAt the beginning of your end step, sacrifice this creature.\nBoast \u2013 {R}: Return this creature to its owner's hand. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]\nWhenever you activate a boast ability, this creature deals 1 damage to each opponent.",
+            "rules_text": "Haste, Trample\nAt the beginning of your end step, sacrifice this creature.\nBoast \u2014 {R}: Return this creature to its owner's hand. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]\nWhenever you activate a boast ability, this creature deals 1 damage to each opponent.",
             "flavor_text": "[i][/i]",
             "pt": "4/1",
             "special_text": "",
@@ -1551,19 +1430,17 @@
             "alias": "",
             "position": "64",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Stormaxe Duo",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Warrior",
+            "type": "Creature \u2014 Human Warrior",
             "number": 69,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
-            "rules_text": "Double strike\nBoast \u2013 {2}{R}: Put a +1/+1 counter on this creature. It deals 2 damage to each opponent. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]",
+            "rules_text": "Double strike\nBoast \u2014 {2}{R}: Put a +1/+1 counter on this creature. It deals 2 damage to each opponent. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1574,22 +1451,20 @@
             "alias": "",
             "position": "65",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Reign of the Storm King",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Enchantment \u2013 Saga",
+            "type": "Enchantment \u2014 Saga",
             "number": 66,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2013 Reign of the Storm King deals 2 damage to any target.\nII \u2013 Add {R}{R}. Until end of turn, you don't lose this mana as steps and phases end.\nIII \u2013 Exile the top card of your library. Until the end of your next turn, you may play it.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Reign of the Storm King deals 2 damage to any target.\nII \u2014 Add {R}{R}. Until end of turn, you don't lose this mana as steps and phases end.\nIII \u2014 Exile the top card of your library. Until the end of your next turn, you may play it.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2013 Reign of the Storm King deals 2 damage to any target.\nII \u2013 Add {R}{R}. Until end of turn, you don't lose this mana as steps and phases end.\nIII \u2013 Exile the top card of your library. Until the end of your next turn, you may play it.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Reign of the Storm King deals 2 damage to any target.\nII \u2014 Add {R}{R}. Until end of turn, you don't lose this mana as steps and phases end.\nIII \u2014 Exile the top card of your library. Until the end of your next turn, you may play it.",
             "shape": "saga",
             "set": "LOT",
             "loyalty": "",
@@ -1597,15 +1472,13 @@
             "alias": "",
             "position": "66",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Shield of Civilization",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Warrior",
+            "type": "Creature \u2014 Human Warrior",
             "number": 86,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
@@ -1620,15 +1493,13 @@
             "alias": "",
             "position": "67",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Lorewander Bard",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Bard",
+            "type": "Creature \u2014 Human Bard",
             "number": 81,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -1643,15 +1514,13 @@
             "alias": "",
             "position": "68",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "City Caretaker",
             "color": "G",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Golem",
+            "type": "Artifact Creature \u2014 Golem",
             "number": 74,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -1666,22 +1535,20 @@
             "alias": "",
             "position": "69",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Reign of the Goblin King",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Enchantment \u2013 Saga",
+            "type": "Enchantment \u2014 Saga",
             "number": 84,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2013 Create a 1/1 green Goblin creature token and a Food token.\nII \u2013 Put a +1/+1 counter on each creature you control.\nIII \u2013 Search your library for a basic Forest card, put it onto the battlefield tapped, then shuffle your library.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Create a 1/1 green Goblin creature token and a Food token.\nII \u2014 Put a +1/+1 counter on each creature you control.\nIII \u2014 Search your library for a basic Forest card, put it onto the battlefield tapped, then shuffle your library.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2013 Create a 1/1 green Goblin creature token and a Food token.\nII \u2013 Put a +1/+1 counter on each creature you control.\nIII \u2013 Search your library for a basic Forest card, put it onto the battlefield tapped, then shuffle your library.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Create a 1/1 green Goblin creature token and a Food token.\nII \u2014 Put a +1/+1 counter on each creature you control.\nIII \u2014 Search your library for a basic Forest card, put it onto the battlefield tapped, then shuffle your library.",
             "shape": "saga",
             "set": "LOT",
             "loyalty": "",
@@ -1689,15 +1556,13 @@
             "alias": "",
             "position": "70",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Experimental Overseer",
             "color": "UG",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Scientist",
+            "type": "Creature \u2014 Human Scientist",
             "number": 97,
             "color_identity": "UG",
             "cost": "{1}{G}{U}",
@@ -1712,19 +1577,17 @@
             "alias": "",
             "position": "71",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Obsidian Fiend",
             "color": "RG",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elemental Beast",
+            "type": "Creature \u2014 Elemental Beast",
             "number": 106,
             "color_identity": "RG",
             "cost": "{2}{R}{G}",
-            "rules_text": "[i]Landfall[/i] \u2013 Whenever a land you control enters, put a +1/+1 counter on this creature. It deals 1 damage to each opponent.\nAs long as you control eight or more lands, creatures you control get +1/+1 and trample.",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, put a +1/+1 counter on this creature. It deals 1 damage to each opponent.\nAs long as you control eight or more lands, creatures you control get +1/+1 and trample.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -1735,15 +1598,13 @@
             "alias": "",
             "position": "72",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Treetop Warpainter",
             "color": "BG",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Warrior",
+            "type": "Creature \u2014 Human Warrior",
             "number": 114,
             "color_identity": "BG",
             "cost": "{2}{B}{G}",
@@ -1758,15 +1619,13 @@
             "alias": "",
             "position": "73",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Merfolk Corpsediver",
             "color": "UB",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Merfolk Rogue",
+            "type": "Creature \u2014 Merfolk Rogue",
             "number": 104,
             "color_identity": "UB",
             "cost": "{2}{U}{B}",
@@ -1781,19 +1640,17 @@
             "alias": "",
             "position": "74",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Stormsurge Brawler",
             "color": "UR",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Warrior",
+            "type": "Creature \u2014 Human Warrior",
             "number": 112,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
-            "rules_text": "Boast abilities of other creatures you control cost {X} less to activate, where X is this creature's power.\nBoast \u2013 {1}{UR}: Put a +1/+1 counter on this creature. Scry 1. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]",
+            "rules_text": "Boast abilities of other creatures you control cost {X} less to activate, where X is this creature's power.\nBoast \u2014 {1}{UR}: Put a +1/+1 counter on this creature. Scry 1. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/3",
             "special_text": "",
@@ -1804,15 +1661,13 @@
             "alias": "",
             "position": "75",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Star, the Transmigrator",
             "color": "WG",
             "rarity": "uncommon",
-            "type": "Legendary Creature \u2013 Human",
+            "type": "Legendary Creature \u2014 Human",
             "number": 111,
             "color_identity": "WG",
             "cost": "{G}{W}",
@@ -1827,15 +1682,13 @@
             "alias": "",
             "position": "76",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Bastion Defender",
             "color": "W",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Golem",
+            "type": "Artifact Creature \u2014 Golem",
             "number": 3,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -1850,15 +1703,13 @@
             "alias": "",
             "position": "77",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Flatlands Warmage",
             "color": "WR",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Giant Wizard",
+            "type": "Creature \u2014 Giant Wizard",
             "number": 98,
             "color_identity": "WR",
             "cost": "{2}{R}{W}",
@@ -1873,15 +1724,13 @@
             "alias": "",
             "position": "78",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Flatlands Smith",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Giant",
+            "type": "Creature \u2014 Giant",
             "number": 59,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -1896,19 +1745,17 @@
             "alias": "",
             "position": "79",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Volcanic Agressor",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Elemental",
+            "type": "Creature \u2014 Elemental",
             "number": 72,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "[i]Landfall[/i] \u2013 Whenever a land you control enters, target creature gets +1/+1 and menace until end of turn.",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, target creature gets +1/+1 and menace until end of turn.",
             "flavor_text": "[i]\u201cThe volcanic hordes of Magmir seek to burn all.\u201d \u2014 Evergreen[/i]",
             "pt": "4/3",
             "special_text": "",
@@ -1919,19 +1766,17 @@
             "alias": "",
             "position": "80",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Lavafist Guardian",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Warrior",
+            "type": "Creature \u2014 Human Warrior",
             "number": 61,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "As long as a land you control entered this turn, this creature has double strike.\n[i]Landfall[/i] \u2013 Whenever a land you control enters, if you control four or more lands, this creature gets +1/+1 until end of turn. Otherwise it deals 1 damage to target opponent.",
+            "rules_text": "As long as a land you control entered this turn, this creature has double strike.\n[i]Landfall[/i] \u2014 Whenever a land you control enters, if you control four or more lands, this creature gets +1/+1 until end of turn. Otherwise it deals 1 damage to target opponent.",
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
@@ -1942,15 +1787,13 @@
             "alias": "",
             "position": "81",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Moltenspire Dragon",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Dragon",
+            "type": "Creature \u2014 Dragon",
             "number": 65,
             "color_identity": "R",
             "cost": "{4}{R}{R}",
@@ -1965,19 +1808,17 @@
             "alias": "",
             "position": "82",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Tangleweed Bruiser",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elemental",
+            "type": "Creature \u2014 Elemental",
             "number": 87,
             "color_identity": "G",
             "cost": "{4}{G}{G}",
-            "rules_text": "When this creature enters, it fights up to one target creature you don't control.\n[i]Landfall[/i] \u2013 Whenever a land you control enters, put a +1/+1 counter on this creature.",
+            "rules_text": "When this creature enters, it fights up to one target creature you don't control.\n[i]Landfall[/i] \u2014 Whenever a land you control enters, put a +1/+1 counter on this creature.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -1988,9 +1829,7 @@
             "alias": "",
             "position": "83",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Molten Overgrowth",
@@ -2011,9 +1850,7 @@
             "alias": "",
             "position": "84",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Lava Strike",
@@ -2034,9 +1871,7 @@
             "alias": "",
             "position": "85",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Life Spirit's Wrath",
@@ -2057,9 +1892,7 @@
             "alias": "",
             "position": "86",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Rampant Growth",
@@ -2080,9 +1913,7 @@
             "alias": "",
             "position": "87",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Wind Spirit's Wrath",
@@ -2103,9 +1934,7 @@
             "alias": "",
             "position": "88",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Lord Ego's Wrath",
@@ -2115,7 +1944,7 @@
             "number": 48,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "Each opponent sacrifices a nontoken creature. \n[i]Unworldly 3[/i] \u2013 You may exile a nonland card from your graveyard. If you do and you own three or more cards in exile, put up to one target creature card from your graveyard to your hand.",
+            "rules_text": "Each opponent sacrifices a nontoken creature. \n[i]Unworldly 3[/i] \u2014 You may exile a nonland card from your graveyard. If you do and you own three or more cards in exile, put up to one target creature card from your graveyard to your hand.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2126,9 +1955,7 @@
             "alias": "",
             "position": "89",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Sea Spirit's Wrath",
@@ -2149,9 +1976,7 @@
             "alias": "",
             "position": "90",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Fire Spirit's Wrath",
@@ -2172,15 +1997,13 @@
             "alias": "",
             "position": "91",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Veteran Researcher",
             "color": "UG",
             "rarity": "common",
-            "type": "Creature \u2013 Human Scientist",
+            "type": "Creature \u2014 Human Scientist",
             "number": 117,
             "color_identity": "UG",
             "cost": "{1}{GU}",
@@ -2195,15 +2018,13 @@
             "alias": "",
             "position": "92",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Experimental Abomination",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Beast Horror",
+            "type": "Creature \u2014 Beast Horror",
             "number": 75,
             "color_identity": "G",
             "cost": "{4}{G}{G}",
@@ -2218,15 +2039,13 @@
             "alias": "",
             "position": "93",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Genegrafted Charger",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Beast Mutant",
+            "type": "Creature \u2014 Beast Mutant",
             "number": 77,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -2241,15 +2060,13 @@
             "alias": "",
             "position": "94",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Genegrafted Wyvern",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Beast Mutant",
+            "type": "Creature \u2014 Beast Mutant",
             "number": 22,
             "color_identity": "U",
             "cost": "{3}{U}",
@@ -2264,15 +2081,13 @@
             "alias": "",
             "position": "95",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Head Experimenter",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Scientist",
+            "type": "Creature \u2014 Human Scientist",
             "number": 78,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -2287,9 +2102,7 @@
             "alias": "",
             "position": "96",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Warding Modification",
@@ -2310,15 +2123,13 @@
             "alias": "",
             "position": "97",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Aspiring Researcher",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Human Scientist",
+            "type": "Creature \u2014 Human Scientist",
             "number": 18,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -2333,15 +2144,13 @@
             "alias": "",
             "position": "98",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Cleansing Priest",
             "color": "WB",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Cleric",
+            "type": "Creature \u2014 Human Cleric",
             "number": 95,
             "color_identity": "WB",
             "cost": "{W}{B}",
@@ -2356,15 +2165,13 @@
             "alias": "",
             "position": "99",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Purifier Exarch",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Wizard Cleric",
+            "type": "Creature \u2014 Human Wizard Cleric",
             "number": 7,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -2379,15 +2186,13 @@
             "alias": "",
             "position": "100",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Thirsting Remnant",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Horror",
+            "type": "Creature \u2014 Horror",
             "number": 52,
             "color_identity": "B",
             "cost": "{B}",
@@ -2402,19 +2207,17 @@
             "alias": "",
             "position": "101",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "High Cultist Elacloni",
             "color": "WB",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Human Warlock",
+            "type": "Legendary Creature \u2014 Human Warlock",
             "number": 100,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
-            "rules_text": "At the beginning of your end step, you may exile a nonland card from your graveyard. If you do, create a 1/1 white and black Human Warlock creature token.\n[i]Unworldly 3[/i] \u2013 {T}, Sacrifice a creature: The next spell you cast this turn has affinity for creatures and cards you own in exile. Only activate as a sorcery and if you own three or more cards in exile.",
+            "rules_text": "At the beginning of your end step, you may exile a nonland card from your graveyard. If you do, create a 1/1 white and black Human Warlock creature token.\n[i]Unworldly 3[/i] \u2014 {T}, Sacrifice a creature: The next spell you cast this turn has affinity for creatures and cards you own in exile. Only activate as a sorcery and if you own three or more cards in exile.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -2425,15 +2228,13 @@
             "alias": "",
             "position": "102",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Psyche Intruder",
             "color": "UB",
             "rarity": "rare",
-            "type": "Creature \u2013 Merfolk Rogue",
+            "type": "Creature \u2014 Merfolk Rogue",
             "number": 108,
             "color_identity": "UB",
             "cost": "{U}{B}",
@@ -2448,15 +2249,13 @@
             "alias": "",
             "position": "103",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Star, Rising Hero",
             "color": "WG",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Human",
+            "type": "Legendary Creature \u2014 Human",
             "number": 110,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
@@ -2471,9 +2270,7 @@
             "alias": "",
             "position": "104",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Adaptive Dismissal",
@@ -2494,15 +2291,13 @@
             "alias": "",
             "position": "105",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Wild Nurturer",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Human Druid",
+            "type": "Creature \u2014 Human Druid",
             "number": 92,
             "color_identity": "G",
             "cost": "{3}{G}",
@@ -2517,9 +2312,7 @@
             "alias": "",
             "position": "106",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Breach the Outerverse",
@@ -2540,9 +2333,7 @@
             "alias": "",
             "position": "107",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Decipher the Ravings",
@@ -2552,7 +2343,7 @@
             "number": 39,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "Look at the top two cards of your library. Put one into your hand and exile the rest.\n[i]Unworldly 2[/i] \u2013 You lose 1 life unless you own two or more cards in exile.",
+            "rules_text": "Look at the top two cards of your library. Put one into your hand and exile the rest.\n[i]Unworldly 2[/i] \u2014 You lose 1 life unless you own two or more cards in exile.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2563,15 +2354,13 @@
             "alias": "",
             "position": "108",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Hidden Cultist",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Warlock",
+            "type": "Creature \u2014 Human Warlock",
             "number": 46,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -2586,15 +2375,13 @@
             "alias": "",
             "position": "109",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Coastal Bandit",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Rogue",
+            "type": "Creature \u2014 Human Rogue",
             "number": 37,
             "color_identity": "B",
             "cost": "{3}{B}",
@@ -2609,15 +2396,13 @@
             "alias": "",
             "position": "110",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Canopy Healer",
             "color": "BG",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Shaman",
+            "type": "Creature \u2014 Human Shaman",
             "number": 94,
             "color_identity": "BG",
             "cost": "{B}{G}",
@@ -2632,15 +2417,13 @@
             "alias": "",
             "position": "111",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Wings of Frost",
             "color": "U",
             "rarity": "common",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 34,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -2655,9 +2438,7 @@
             "alias": "",
             "position": "112",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Bog Ambush",
@@ -2678,15 +2459,13 @@
             "alias": "",
             "position": "113",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Herald of Disorder",
             "color": "BR",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Demon Rogue",
+            "type": "Creature \u2014 Demon Rogue",
             "number": 99,
             "color_identity": "BR",
             "cost": "{1}{B}{R}",
@@ -2701,15 +2480,13 @@
             "alias": "",
             "position": "114",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Anguished Warbringer",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Human Warrior",
+            "type": "Creature \u2014 Human Warrior",
             "number": 56,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -2724,15 +2501,13 @@
             "alias": "",
             "position": "115",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Vengeful Phantom",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Spirit",
+            "type": "Creature \u2014 Spirit",
             "number": 54,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -2747,15 +2522,13 @@
             "alias": "",
             "position": "116",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         },
         {
             "card_name": "Pain Manifestor",
             "color": "BR",
             "rarity": "rare",
-            "type": "Creature \u2013 Demon Warlock",
+            "type": "Creature \u2014 Demon Warlock",
             "number": 107,
             "color_identity": "BR",
             "cost": "{2}{B}{R}",
@@ -2770,9 +2543,7 @@
             "alias": "",
             "position": "117",
             "rotated": false,
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
+            "notes": ""
         }
     ]
 }

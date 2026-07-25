@@ -1,0 +1,1098 @@
+﻿[
+    {
+        "card_name": "Alaric, King of Humanity",
+        "number": 1,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "41"
+    },
+    {
+        "card_name": "The Sea Blade",
+        "number": 25,
+        "shape": "transform double faced",
+        "set": "LOT",
+        "rotated": false,
+        "position": "48"
+    },
+    {
+        "card_name": "Breach the Outerverse",
+        "number": 36,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "107"
+    },
+    {
+        "card_name": "The Fire Blade",
+        "number": 57,
+        "shape": "transform double faced",
+        "set": "LOT",
+        "rotated": false,
+        "position": "51"
+    },
+    {
+        "card_name": "The Life Blade",
+        "number": 79,
+        "shape": "transform double faced",
+        "set": "LOT",
+        "rotated": false,
+        "position": "50"
+    },
+    {
+        "card_name": "The Wind Blade",
+        "number": 15,
+        "shape": "transform double faced",
+        "set": "LOT",
+        "rotated": false,
+        "position": "47"
+    },
+    {
+        "card_name": "Monarch of the Deep",
+        "number": 24,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "43"
+    },
+    {
+        "card_name": "Crown of Hubris",
+        "number": 38,
+        "shape": "transform double faced",
+        "set": "LOT",
+        "rotated": false,
+        "position": "49"
+    },
+    {
+        "card_name": "Ruler of the Storms",
+        "number": 67,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "45"
+    },
+    {
+        "card_name": "Tyrant of the Forest",
+        "number": 91,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "46"
+    },
+    {
+        "card_name": "Banishing Winds",
+        "number": 2,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "40"
+    },
+    {
+        "card_name": "Stormbrewer Mage",
+        "number": 27,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "56"
+    },
+    {
+        "card_name": "Lord Ego, Virtue's Ruin",
+        "number": 47,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "52"
+    },
+    {
+        "card_name": "Lavafist Guardian",
+        "number": 61,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "81"
+    },
+    {
+        "card_name": "Experimental Abomination",
+        "number": 75,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "93"
+    },
+    {
+        "card_name": "Despot of the Flatlands",
+        "number": 4,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "42"
+    },
+    {
+        "card_name": "Adaptive Dismissal",
+        "number": 17,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "105"
+    },
+    {
+        "card_name": "Diresight Seer",
+        "number": 42,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "61"
+    },
+    {
+        "card_name": "Magmir's Servant",
+        "number": 63,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "31"
+    },
+    {
+        "card_name": "Head Experimenter",
+        "number": 78,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "96"
+    },
+    {
+        "card_name": "Fabled Tutor",
+        "number": 5,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "14"
+    },
+    {
+        "card_name": "Battleflow Mage",
+        "number": 19,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "59"
+    },
+    {
+        "card_name": "Soulsear Amulet",
+        "number": 50,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "1"
+    },
+    {
+        "card_name": "Moltenspire Dragon",
+        "number": 65,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "82"
+    },
+    {
+        "card_name": "Lorewander Bard",
+        "number": 81,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "68"
+    },
+    {
+        "card_name": "Razing of the Flatlands",
+        "number": 8,
+        "shape": "saga",
+        "set": "LOT",
+        "rotated": false,
+        "position": "5"
+    },
+    {
+        "card_name": "Expedition Leader",
+        "number": 20,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "4"
+    },
+    {
+        "card_name": "Stalker of the Bog",
+        "number": 51,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "44"
+    },
+    {
+        "card_name": "Reign of the Storm King",
+        "number": 66,
+        "shape": "saga",
+        "set": "LOT",
+        "rotated": false,
+        "position": "66"
+    },
+    {
+        "card_name": "Reign of the Goblin King",
+        "number": 84,
+        "shape": "saga",
+        "set": "LOT",
+        "rotated": false,
+        "position": "70"
+    },
+    {
+        "card_name": "Purifier Exarch",
+        "number": 7,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "100"
+    },
+    {
+        "card_name": "Genegrafted Wyvern",
+        "number": 22,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "95"
+    },
+    {
+        "card_name": "Bog Ambush",
+        "number": 35,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "113"
+    },
+    {
+        "card_name": "Storm Lieutenant",
+        "number": 68,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "64"
+    },
+    {
+        "card_name": "Shield of Civilization",
+        "number": 86,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "67"
+    },
+    {
+        "card_name": "Relic Slash",
+        "number": 9,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "13"
+    },
+    {
+        "card_name": "Undersea Expedition",
+        "number": 31,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "0"
+    },
+    {
+        "card_name": "Coastal Bandit",
+        "number": 37,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "110"
+    },
+    {
+        "card_name": "Stormaxe Duo",
+        "number": 69,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "65"
+    },
+    {
+        "card_name": "Tangleweed Bruiser",
+        "number": 87,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "83"
+    },
+    {
+        "card_name": "Stalwart Fighters",
+        "number": 12,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "25"
+    },
+    {
+        "card_name": "Aspiring Researcher",
+        "number": 18,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "98"
+    },
+    {
+        "card_name": "Deep Sea Spearhead",
+        "number": 40,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "63"
+    },
+    {
+        "card_name": "Volcanic Fault",
+        "number": 73,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "34"
+    },
+    {
+        "card_name": "Treetop Shaman",
+        "number": 90,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "30"
+    },
+    {
+        "card_name": "Bastion Defender",
+        "number": 3,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "77"
+    },
+    {
+        "card_name": "Galeseeker Glider",
+        "number": 21,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "57"
+    },
+    {
+        "card_name": "Hidden Cultist",
+        "number": 46,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "109"
+    },
+    {
+        "card_name": "Anguished Warbringer",
+        "number": 56,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "115"
+    },
+    {
+        "card_name": "City Caretaker",
+        "number": 74,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "69"
+    },
+    {
+        "card_name": "Forgotten Guardian",
+        "number": 6,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "12"
+    },
+    {
+        "card_name": "Merfolk Submerger",
+        "number": 23,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "60"
+    },
+    {
+        "card_name": "Painful Remnant",
+        "number": 49,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "28"
+    },
+    {
+        "card_name": "Fire Spirit's Wrath",
+        "number": 58,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "91"
+    },
+    {
+        "card_name": "Feasting Goblin",
+        "number": 76,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "17"
+    },
+    {
+        "card_name": "Resolute Reserves",
+        "number": 10,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "29"
+    },
+    {
+        "card_name": "Sea Spirit's Wrath",
+        "number": 26,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "90"
+    },
+    {
+        "card_name": "Thirsting Remnant",
+        "number": 52,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "101"
+    },
+    {
+        "card_name": "Flatlands Smith",
+        "number": 59,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "79"
+    },
+    {
+        "card_name": "Genegrafted Charger",
+        "number": 77,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "94"
+    },
+    {
+        "card_name": "Royal Vanguard",
+        "number": 11,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "54"
+    },
+    {
+        "card_name": "Stream Sorcerer",
+        "number": 28,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "10"
+    },
+    {
+        "card_name": "Vengeful Phantom",
+        "number": 54,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "116"
+    },
+    {
+        "card_name": "Lava Strike",
+        "number": 60,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "85"
+    },
+    {
+        "card_name": "Life Spirit's Wrath",
+        "number": 80,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "86"
+    },
+    {
+        "card_name": "Sudden Strike",
+        "number": 13,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "53"
+    },
+    {
+        "card_name": "Tempest Banisher",
+        "number": 29,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "21"
+    },
+    {
+        "card_name": "Decipher the Ravings",
+        "number": 39,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "108"
+    },
+    {
+        "card_name": "Magmir's Aspirant",
+        "number": 62,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "33"
+    },
+    {
+        "card_name": "Overgrowth Sentinel",
+        "number": 82,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "35"
+    },
+    {
+        "card_name": "Virtuous Defender",
+        "number": 14,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "55"
+    },
+    {
+        "card_name": "Tempest Navigator",
+        "number": 30,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "22"
+    },
+    {
+        "card_name": "Delve too Deep",
+        "number": 41,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "7"
+    },
+    {
+        "card_name": "Magmir's Wrath",
+        "number": 64,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "3"
+    },
+    {
+        "card_name": "Rampant Growth",
+        "number": 83,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "87"
+    },
+    {
+        "card_name": "Wind Spirit's Wrath",
+        "number": 16,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "88"
+    },
+    {
+        "card_name": "Undersea Explorers",
+        "number": 32,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "11"
+    },
+    {
+        "card_name": "Doomed Voyager",
+        "number": 43,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "62"
+    },
+    {
+        "card_name": "Stormsurge Brawler",
+        "number": 70,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "23"
+    },
+    {
+        "card_name": "Repository Guard",
+        "number": 85,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "24"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Warding Modification",
+        "number": 33,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "97"
+    },
+    {
+        "card_name": "Dreadful Lurker",
+        "number": 44,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "6"
+    },
+    {
+        "card_name": "Stormsurge Intimidator",
+        "number": 71,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "20"
+    },
+    {
+        "card_name": "Treetop Hunter",
+        "number": 88,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "32"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Wings of Frost",
+        "number": 34,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "112"
+    },
+    {
+        "card_name": "Famished Rat",
+        "number": 45,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "16"
+    },
+    {
+        "card_name": "Volcanic Agressor",
+        "number": 72,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "80"
+    },
+    {
+        "card_name": "Treetop Scout",
+        "number": 89,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "2"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Lord Ego's Wrath",
+        "number": 48,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "89"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Wild Nurturer",
+        "number": 92,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "106"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Undersea Cuthroat",
+        "number": 53,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "8"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Worn Scythe",
+        "number": 93,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "26"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Voracious Devourers",
+        "number": 55,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "27"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Psyche Intruder",
+        "number": 108,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "103"
+    },
+    {
+        "card_name": "Pain Manifestor",
+        "number": 107,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "117"
+    },
+    {
+        "card_name": "Molten Overgrowth",
+        "number": 105,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "84"
+    },
+    {
+        "card_name": "Star, Rising Hero",
+        "number": 110,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "104"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Merfolk Corpsediver",
+        "number": 104,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "74"
+    },
+    {
+        "card_name": "Herald of Disorder",
+        "number": 99,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "114"
+    },
+    {
+        "card_name": "Obsidian Fiend",
+        "number": 106,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "72"
+    },
+    {
+        "card_name": "Star, the Transmigrator",
+        "number": 111,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "76"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Undersea Scribe",
+        "number": 115,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "9"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Embervine Shaman",
+        "number": 96,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "36"
+    },
+    {
+        "card_name": "History's Custodian",
+        "number": 101,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "15"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "High Cultist Elacloni",
+        "number": 100,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "102"
+    },
+    {
+        "card_name": "Varan, Storm's Edge",
+        "number": 116,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "39"
+    },
+    {
+        "card_name": "Canopy Healer",
+        "number": 94,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "111"
+    },
+    {
+        "card_name": "Flatlands Warmage",
+        "number": 98,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "78"
+    },
+    {
+        "card_name": "Imacculate Duplication",
+        "number": 102,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "37"
+    },
+    {
+        "card_name": "Cleansing Priest",
+        "number": 95,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "99"
+    },
+    {
+        "card_name": "Stormsurge Brawler",
+        "number": 112,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "75"
+    },
+    {
+        "card_name": "Treetop Warpainter",
+        "number": 114,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "73"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Experimental Overseer",
+        "number": 97,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "71"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Stormsweeper Champion",
+        "number": 113,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "19"
+    },
+    {
+        "card_name": "Ravenous Treefolk",
+        "number": 109,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "18"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Veteran Researcher",
+        "number": 117,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "92"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Magmir, Scorching Overlord",
+        "number": 103,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "38"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->land",
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Seaside Village",
+        "number": 118,
+        "shape": "normal",
+        "set": "LOT",
+        "rotated": false,
+        "position": "58"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

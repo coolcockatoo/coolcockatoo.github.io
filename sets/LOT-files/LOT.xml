@@ -11,9 +11,9 @@
 	<cards>
 		<card>
 			<name>Undersea Expedition</name>
-			<text>When this card enters, create a 1/1 blue Merfolk creature token. That creature token explores. (To have this creature explore, reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)
+			<text>When this card enters, create a 1/1 blue Merfolk creature token. That creature token explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)
 At the beginning of your end step, you may exile two nonland cards from your graveyard. If you do, return this card to its owner&apos;s hand.</text>
-			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/0.png" num="31">LOT</set>
+			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/0.png" num="33">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -30,7 +30,7 @@ At the beginning of your end step, you may exile two nonland cards from your gra
 			<name>Soulsear Amulet</name>
 			<text>Whenever you draw a card, this card deals 1 damage to you.
 {T}: Draw a card. Add one mana of any color.</text>
-			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/1.png" num="50">LOT</set>
+			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/1.png" num="52">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -48,7 +48,7 @@ At the beginning of your end step, you may exile two nonland cards from your gra
 			<text>Reach
 Landfall — Whenever a land you control enters, scry 1.
 As long as you control five or more lands, this creature gets +1/+1 and has vigilance.</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/2.png" num="89">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/2.png" num="92">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -66,7 +66,7 @@ As long as you control five or more lands, this creature gets +1/+1 and has vigi
 			<name>Magmir&apos;s Wrath</name>
 			<text>Magmir&apos;s Wrath deals 2 damage to target creature.If you control four or more lands, deal 3 damage instead.
 If a creature dealt damage this way would die this turn, exile it instead.</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/3.png" num="64">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/3.png" num="67">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -83,7 +83,7 @@ If a creature dealt damage this way would die this turn, exile it instead.</text
 			<name>Expedition Leader</name>
 			<text>When another creature you control enters, this creature explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)
 When this creature leaves the battlefield, surveil X, where X is its power.</text>
-			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/4.png" num="20">LOT</set>
+			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/4.png" num="22">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -103,7 +103,7 @@ When this creature leaves the battlefield, surveil X, where X is its power.</tex
 I — Tap any number of untapped creatures you control. Draw that many cards.
 II — Put a +1/+1 counter on target creature you control. It gains indestructible until the end of your next turn.
 III — Destroy all creatures.</text>
-			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/5.png" num="8">LOT</set>
+			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/5.png" num="9">LOT</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -120,7 +120,7 @@ III — Destroy all creatures.</text>
 			<name>Dreadful Lurker</name>
 			<text>Unworldly 3 — This spell costs {3} less to cast if you own three or more cards in exile.
 When this creature enters, exile the top three cards of your library. Choose a card exiled this way. For as long as it remains exiled, you may cast it.</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/6.png" num="44">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/6.png" num="46">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -138,7 +138,7 @@ When this creature enters, exile the top three cards of your library. Choose a c
 			<name>Delve too Deep</name>
 			<text>Until end of turn, target creature you don&apos;t control gets -1/-1 for each card in your graveyard and for each card you own in exile.
 Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/7.png" num="41">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/7.png" num="43">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -157,7 +157,7 @@ Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, 
 When this creature enters, you may mill three cards.
 Whenever this creature deals combat damage to a player, you may exile a nonland card from your graveyard. If you do, this creature explores.
 &quot;The mysterious depths beckon many.&quot;</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/8.png" num="53">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/8.png" num="55">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -175,7 +175,7 @@ Whenever this creature deals combat damage to a player, you may exile a nonland 
 			<name>Undersea Scribe</name>
 			<text>When this creature enters, target creature explores. (To have this creature explore, reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)
 When this card is exiled from your graveyard, target creature explores.</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/9.png" num="115">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/9.png" num="119">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -192,7 +192,7 @@ When this card is exiled from your graveyard, target creature explores.</text>
 		<card>
 			<name>Stream Sorcerer</name>
 			<text>When this creature enters, it explores. If a noncreature spell is put into the graveyard this way, surveil 1. (To have this creature explore, reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard. To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/10.png" num="28">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/10.png" num="30">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -209,8 +209,8 @@ When this card is exiled from your graveyard, target creature explores.</text>
 		<card>
 			<name>Undersea Explorers</name>
 			<text>When this creature enters, it explores twice. (To have this creature explore, reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)
-Islandcycling 2 ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/11.png" num="32">LOT</set>
+Islandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/11.png" num="34">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -228,7 +228,7 @@ Islandcycling 2 ({2}, Discard this card: Search your library for an Island card,
 			<name>Forgotten Guardian</name>
 			<text>When this creature enters, destroy target artifact or enchantment you don&apos;t control.
 Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/12.png" num="6">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/12.png" num="7">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -245,7 +245,7 @@ Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card
 		<card>
 			<name>Relic Slash</name>
 			<text>Exile target creature if it&apos;s tapped or if you control two or more historic permanents. (Artifacts, legendaries, and Sagas are historic.)</text>
-			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/13.png" num="9">LOT</set>
+			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/13.png" num="10">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -261,7 +261,7 @@ Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card
 		<card>
 			<name>Fabled Tutor</name>
 			<text>Search your library for a historic card, reveal it, put it into your hand, then shuffle. (Artifacts, legendaries, and Sagas are historic.)</text>
-			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/14.png" num="5">LOT</set>
+			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/14.png" num="6">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -278,7 +278,7 @@ Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card
 			<name>History&apos;s Custodian</name>
 			<text>Vigilance
 This creature enters with a +1/+1 counter on it if you control a historic permanent. (Artifacts, legendaries, and Sagas are historic.) (Artifacts, legendaries, and Sagas are historic.)</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/15.png" num="101">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/15.png" num="105">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -295,7 +295,7 @@ This creature enters with a +1/+1 counter on it if you control a historic perman
 		<card>
 			<name>Famished Rat</name>
 			<text>When Famished Rat enters, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/16.png" num="45">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/16.png" num="47">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -314,7 +314,7 @@ This creature enters with a +1/+1 counter on it if you control a historic perman
 			<text>Trample
 When this creature enters, create a Food token.
 Whenever this creature attacks, you may sacrifice a token. If you do, put a +1/+1 counter on it.</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/17.png" num="76">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/17.png" num="79">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -332,7 +332,7 @@ Whenever this creature attacks, you may sacrifice a token. If you do, put a +1/+
 			<name>Ravenous Treefolk</name>
 			<text>When this creature enters, create a Food token.
 {3}{B}, {T}: Sacrifice a token: Target creature gets -2/-2 until end of turn. Only activate as a sorcery.</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/18.png" num="109">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/18.png" num="113">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -350,7 +350,7 @@ Whenever this creature attacks, you may sacrifice a token. If you do, put a +1/+
 			<name>Stormsweeper Champion</name>
 			<text>Haste
 Boast — {U}{R}: Tap target creature. This creature deals 1 damage to that creature&apos;s controller. (Activate only if this creature attacked this turn and only once each turn.)</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/19.png" num="113">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/19.png" num="117">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -368,7 +368,7 @@ Boast — {U}{R}: Tap target creature. This creature deals 1 damage to that crea
 			<name>Stormsurge Intimidator</name>
 			<text>Trample.
 Boast — {2}{R}: Target creature can&apos;t block this turn. (Activate only if this creature attacked this turn and only once each turn.)</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/20.png" num="71">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/20.png" num="74">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -385,7 +385,7 @@ Boast — {2}{R}: Target creature can&apos;t block this turn. (Activate only if 
 		<card>
 			<name>Tempest Banisher</name>
 			<text>Boast — {2}{U}: Exile another target creature you control, then return it to the battlefield tapped under its owner&apos;s control. (Activate only if this creature attacked this turn and only once each turn.)</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/21.png" num="29">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/21.png" num="31">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -403,7 +403,7 @@ Boast — {2}{R}: Target creature can&apos;t block this turn. (Activate only if 
 			<name>Tempest Navigator</name>
 			<text>Flying
 Boast — {1}{U}: This creature gets +1/+1 until end of turn. Untap it. (Activate only if this creature attacked this turn and only once each turn.)</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/22.png" num="30">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/22.png" num="32">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -420,7 +420,7 @@ Boast — {1}{U}: This creature gets +1/+1 until end of turn. Untap it. (Activat
 		<card>
 			<name>Stormsurge Brawler</name>
 			<text>Boast — {1}{R}: This creature gets +1/+1 and menace until end of turn. (Activate only if this creature attacked this turn and only once each turn.)</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/23.png" num="70">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/23.png" num="73">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -437,7 +437,7 @@ Boast — {1}{U}: This creature gets +1/+1 until end of turn. Untap it. (Activat
 		<card>
 			<name>Repository Guard</name>
 			<text>This creature gets +1/+1 and trample as long as a historic permanent you control entered this turn. (Artifacts, legendaries, and Sagas are historic.)</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/24.png" num="85">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/24.png" num="88">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -456,7 +456,7 @@ Boast — {1}{U}: This creature gets +1/+1 until end of turn. Untap it. (Activat
 			<text>When this creature enters, choose one:
 • Return target artifact or enchantment card from your graveyard into your hand.
 • Create two Food tokens.</text>
-			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/25.png" num="12">LOT</set>
+			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/25.png" num="13">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -477,7 +477,7 @@ Whenever equipped creature attacks, choose one:
 • Untap target land.
 • Create a Food token.
 Equip {2}</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/26.png" num="93">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/26.png" num="97">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -493,8 +493,9 @@ Equip {2}</text>
 		<card>
 			<name>Voracious Devourers</name>
 			<text>Menace
+When this creature enters, create a Food token.
 Sacrifice a token, {B}: Deal 1 damage to each opponent.</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/27.png" num="55">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/27.png" num="57">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -513,7 +514,7 @@ Sacrifice a token, {B}: Deal 1 damage to each opponent.</text>
 			<text>You may cast this spell from your graveyard if you&apos;ve lost life this turn. When you cast it this way, it enters with a finality counter. (If a creature with a finality counter on it would die, exile it instead.)
 {3}{B}, Pay 1 life: Surveil 1. Only activate this ability if this card is in your graveyard.
 &quot;Whispers of the night echo with pain&quot;</text>
-			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/28.png" num="49">LOT</set>
+			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/28.png" num="51">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -530,7 +531,7 @@ Sacrifice a token, {B}: Deal 1 damage to each opponent.</text>
 		<card>
 			<name>Resolute Reserves</name>
 			<text>When this creature enters, draw a card, then discard a card unless you control a historic permanent. (Artifacts, legendaries, and Sagas are historic.)</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/29.png" num="10">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/29.png" num="11">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -548,7 +549,7 @@ Sacrifice a token, {B}: Deal 1 damage to each opponent.</text>
 			<name>Treetop Shaman</name>
 			<text>Landfall — Whenever a land you control enters, put a +1/+1 counter on target creature.
 Modified creatures you control have Ward {1}. (Equipment, Auras you control, and counters are modifications. Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)</text>
-			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/30.png" num="90">LOT</set>
+			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/30.png" num="93">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -566,7 +567,7 @@ Modified creatures you control have Ward {1}. (Equipment, Auras you control, and
 			<name>Magmir&apos;s Servant</name>
 			<text>Trample
 Landfall — Whenever a land you control enters, exile the top card of your library. You may play it until the end of your next turn.</text>
-			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/31.png" num="63">LOT</set>
+			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/31.png" num="66">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -584,7 +585,7 @@ Landfall — Whenever a land you control enters, exile the top card of your libr
 			<name>Treetop Hunter</name>
 			<text>Reach
 Landfall — Whenever a land you control enters, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/32.png" num="88">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/32.png" num="91">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -602,7 +603,7 @@ Landfall — Whenever a land you control enters, create a Food token. (It&apos;s
 			<name>Magmir&apos;s Aspirant</name>
 			<text>Reach
 Landfall — Whenever a land you control enters, this creature deals 1 damage to each opponent.</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/33.png" num="62">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/33.png" num="65">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -619,7 +620,7 @@ Landfall — Whenever a land you control enters, this creature deals 1 damage to
 		<card>
 			<name>Volcanic Fault</name>
 			<text>Volcanic Fault deals 5 damage to target creature without flying. You may sacrifice a land. If you do, search your library for a basic Mountain card, put it onto the battlefield tapped, and shuffle.</text>
-			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/34.png" num="73">LOT</set>
+			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/34.png" num="76">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -637,7 +638,7 @@ Landfall — Whenever a land you control enters, this creature deals 1 damage to
 			<text>Trample
 This creature enters with a +1/+1 counter for each land you control.
 Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/35.png" num="82">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/35.png" num="85">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -654,7 +655,7 @@ Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card
 		<card>
 			<name>Embervine Shaman</name>
 			<text>Landfall — Whenever a land you control enters, choose target creature you don&apos;t control. If that creature has flying, it loses flying until end of turn. Otherwise, it can&apos;t block until end of turn.</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/36.png" num="96">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/36.png" num="100">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -671,7 +672,7 @@ Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card
 		<card>
 			<name>Imacculate Duplication</name>
 			<text>Create a token that&apos;s a copy of target creature you control. If that creature has any counters on it, put the same number and kind of each of those counters on the token. If that creature has any Auras or Equipment attached to it, create a token that&apos;s a copy of each of those Auras and Equipment attached to that token.</text>
-			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/37.png" num="102">LOT</set>
+			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/37.png" num="106">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -688,7 +689,7 @@ Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card
 			<name>Magmir, Scorching Overlord</name>
 			<text>Landfall — Whenever a land you control enters, this creature deals 1 damage to each opponent. If this is the second time this ability has triggered this turn, each opponent sacrifices a creature at random unless they discard a card.
 Whenever an opponent discards a land card, draw a card.</text>
-			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/38.png" num="103">LOT</set>
+			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/38.png" num="107">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -707,7 +708,7 @@ Whenever an opponent discards a land card, draw a card.</text>
 			<text>Menace
 Whenever this creature attacks, add X {U} or {R} in any combination of colors, where X is its power. This mana can&apos;t be spent to cast spells.
 Boast — {X}{U}{R}: Target creature gets +X/+0 until end of turn. Scry 2. (Activate only if this creature attacked this turn and only once each turn.)</text>
-			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/39.png" num="116">LOT</set>
+			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/39.png" num="120">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -779,7 +780,7 @@ Whenever an opponent casts a spell, they sacrifice a permanent unless they pay {
 			<name>Monarch of the Deep</name>
 			<text>Whenever an Island you control enters, tap target nonland permanent you don&apos;t control. Put a stun counter on it.
 At the beginning of your end step, create a tapped blue X/X Leviathan token, where X is the number of tapped nonland permanents target opponent controls.</text>
-			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/43.png" num="24">LOT</set>
+			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/43.png" num="26">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -797,7 +798,7 @@ At the beginning of your end step, create a tapped blue X/X Leviathan token, whe
 			<name>Stalker of the Bog</name>
 			<text>Whenever a Swamp you control enters, each opponent loses 2 life. You gain life equal to the life lost this way.
 At the beginning of each end step, choose target opponent. If that player lost life this turn, mill that many cards, and put a card milled this way into your hand.</text>
-			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/44.png" num="51">LOT</set>
+			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/44.png" num="53">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -815,7 +816,7 @@ At the beginning of each end step, choose target opponent. If that player lost l
 			<name>Ruler of the Storms</name>
 			<text>Whenever a Mountain you control enters, add {R}. Until end of turn, you don&apos;t lose this mana as steps and phases end.
 Creatures you control have &quot;Boast — {1}{R}: Deal 2 damage to each opponent&quot; (Activate only if this creature attacked this turn and only once each turn.) (Activate only if this creature attacked this turn and only once each turn.)</text>
-			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/45.png" num="67">LOT</set>
+			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/45.png" num="70">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -833,7 +834,7 @@ Creatures you control have &quot;Boast — {1}{R}: Deal 2 damage to each opponen
 			<name>Tyrant of the Forest</name>
 			<text>Whenever a Forest you control enters, put a +1/+1 counter on target creature you control, then you may sacrifice a token. If you do, put an additional +1/+1 counter on that creature.
 Whenever a land you don&apos;t control enters, create a Food token unless its controller pays {1}.</text>
-			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/46.png" num="91">LOT</set>
+			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/46.png" num="94">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -854,7 +855,7 @@ Equip {2}
 {5}{W}{W}: Transform this artifact. This ability costs {1} less for each charge counter on this artifact. Only activate as a sorcery.
 ---
 (Back): The Wind Spirit</text>
-			<set rarity="mythic" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/47_front.png" num="15a">LOT</set>
+			<set rarity="mythic" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/47_front.png" num="16a">LOT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -874,7 +875,7 @@ Equip {2}
 At the beginning of your end step, exile any number of other target nonland permanents you control, then return them to the battlefield under their owners control.
 ---
 (Front): The Wind Blade</text>
-			<set rarity="mythic" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/47_back.png" num="15b">LOT</set>
+			<set rarity="mythic" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/47_back.png" num="16b">LOT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -896,7 +897,7 @@ Equip {2}
 {4}{U}{U}: Transform this artifact. This ability costs {1} less for each charge counter on this artifact. Only activate as a sorcery.
 ---
 (Back): The Sea Spirit</text>
-			<set rarity="mythic" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/48_front.png" num="25a">LOT</set>
+			<set rarity="mythic" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/48_front.png" num="27a">LOT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -916,7 +917,7 @@ Equip {2}
 Whenever you cast an instant or sorcery spell, target player mills five cards.
 ---
 (Front): The Sea Blade</text>
-			<set rarity="mythic" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/48_back.png" num="25b">LOT</set>
+			<set rarity="mythic" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/48_back.png" num="27b">LOT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -939,7 +940,7 @@ Equip {B}{B}
 At the beginning of your end step, if your life total is equal to half or less than your starting life total, transform this artifact.
 ---
 (Back): Outer Hubris</text>
-			<set rarity="mythic" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/49_front.png" num="38a">LOT</set>
+			<set rarity="mythic" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/49_front.png" num="40a">LOT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -960,7 +961,7 @@ Ward— Exile two nontoken, nonland permanents.
 Whenever an opponent loses life, put that many +1/+1 counters on this creature.
 ---
 (Front): Crown of Hubris</text>
-			<set rarity="mythic" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/49_back.png" num="38b">LOT</set>
+			<set rarity="mythic" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/49_back.png" num="40b">LOT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -982,7 +983,7 @@ Equip {2}
 {6}{G}{G}: Transform this artifact. This ability costs {1} less for each charge counter on this artifact. Only activate as a sorcery.
 ---
 (Back): The Life Spirit</text>
-			<set rarity="mythic" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/50_front.png" num="79a">LOT</set>
+			<set rarity="mythic" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/50_front.png" num="82a">LOT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -1003,7 +1004,7 @@ Permanents you control have &quot;{T}: Add two mana of any one color&quot;
 Whenever you cast a spell with mana value 4 or greater, you gain 3 life and draw a card.
 ---
 (Front): The Life Blade</text>
-			<set rarity="mythic" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/50_back.png" num="79b">LOT</set>
+			<set rarity="mythic" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/50_back.png" num="82b">LOT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -1025,7 +1026,7 @@ Equip {2}
 {3}{R}{R}: Transform this artifact. This ability costs {1} less for each charge counter on this artifact.
 ---
 (Back): The Fire Spirit</text>
-			<set rarity="mythic" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/51_front.png" num="57a">LOT</set>
+			<set rarity="mythic" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/51_front.png" num="60a">LOT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -1045,7 +1046,7 @@ Equip {2}
 Whenever you discard a card, deal 1 damage to each opponent, then exile the top card of your library. Until the end of your next turn, you may play it.
 ---
 (Front): The Fire Blade</text>
-			<set rarity="mythic" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/51_back.png" num="57b">LOT</set>
+			<set rarity="mythic" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/51_back.png" num="60b">LOT</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -1064,7 +1065,7 @@ Whenever you discard a card, deal 1 damage to each opponent, then exile the top 
 			<name>Lord Ego, Virtue&apos;s Ruin</name>
 			<text>Flying, Menace
 At the beginning of your end step, target opponent mills X cards, where X is the amount of life they lost this turn. You exile a card milled this way. For as long as it remains exiled, you may cast it, and you may pay life equal to it&apos;s mana value rather than paying it&apos;s mana cost.</text>
-			<set rarity="mythic" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/52.png" num="47">LOT</set>
+			<set rarity="mythic" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/52.png" num="49">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1084,7 +1085,7 @@ At the beginning of your end step, target opponent mills X cards, where X is the
 Choose one:
 • Destroy target creature with power 4 or greater.
 • Target creature gets +2/+0 and gains first strike until end of turn.</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/53.png" num="13">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/53.png" num="14">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1101,7 +1102,7 @@ Choose one:
 			<name>Royal Vanguard</name>
 			<text>Vigilance
 Affinity for historic permanents (This spell costs {1} less to cast for each historic permanent you control.)</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/54.png" num="11">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/54.png" num="12">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1118,7 +1119,7 @@ Affinity for historic permanents (This spell costs {1} less to cast for each his
 		<card>
 			<name>Virtuous Defender</name>
 			<text>When Virtuous Defender enters, create a Food token, then put a +1/+1 counter on up to X target creatures you control, where X is the amount of historic permanents you control. (Artifacts, legendaries, and Sagas are historic.)</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/55.png" num="14">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/55.png" num="15">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1137,7 +1138,7 @@ Affinity for historic permanents (This spell costs {1} less to cast for each his
 			<text>Flying
 This creature can only block creatures with flying.
 Boast — {1}{U}: Target instant or sorcery spell in your graveyard gains flashback until end of turn. The flashback cost is equal to it&apos;s mana cost. (Activate only if this creature attacked this turn and only once each turn.)</text>
-			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/56.png" num="27">LOT</set>
+			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/56.png" num="29">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1154,7 +1155,7 @@ Boast — {1}{U}: Target instant or sorcery spell in your graveyard gains flashb
 		<card>
 			<name>Galeseeker Glider</name>
 			<text>Boast — {1}{U}: Put your choice of a +1/+1 or flying counter on this creature. (Activate only if this creature attacked this turn and only once each turn.)</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/57.png" num="21">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/57.png" num="23">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1172,7 +1173,7 @@ Boast — {1}{U}: Target instant or sorcery spell in your graveyard gains flashb
 			<name>Seaside Village</name>
 			<text>{T}, Pay 1 life: Add {U}
 {2}{U}, {T}: Target creature you control explores. Activate only as a sorcery. (To have this creature explore, reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</text>
-			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/58.png" num="118">LOT</set>
+			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/58.png" num="126">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1189,7 +1190,7 @@ Boast — {1}{U}: Target instant or sorcery spell in your graveyard gains flashb
 			<text>Vigilance
 Whenever you activate the boast ability of a creature, draw a card.
 Boast — {3}{U}: Scry 1 (Activate only if this creature attacked this turn and only once each turn.)</text>
-			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/59.png" num="19">LOT</set>
+			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/59.png" num="21">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1207,7 +1208,7 @@ Boast — {3}{U}: Scry 1 (Activate only if this creature attacked this turn and 
 			<name>Merfolk Submerger</name>
 			<text>When this creature enters, it explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)
 Whenever this creature explores, tap target creature you don&apos;t control. If Merfolk Submerger entered this turn, put a stun counter on that creature.</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/60.png" num="23">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/60.png" num="25">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1225,7 +1226,7 @@ Whenever this creature explores, tap target creature you don&apos;t control. If 
 			<name>Diresight Seer</name>
 			<text>This creature can&apos;t block.
 Sacrifice another creature: Diresight Seer explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</text>
-			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/61.png" num="42">LOT</set>
+			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/61.png" num="44">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1242,7 +1243,7 @@ Sacrifice another creature: Diresight Seer explores. (Reveal the top card of you
 		<card>
 			<name>Doomed Voyager</name>
 			<text>When this creature dies, create a 1/1 blue Merfolk creature token. That creature token explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/62.png" num="43">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/62.png" num="45">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1260,7 +1261,7 @@ Sacrifice another creature: Diresight Seer explores. (Reveal the top card of you
 			<name>Deep Sea Spearhead</name>
 			<text>When this creature enters, it explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)
 Whenever a creature you control explores, each opponent loses 1 life.</text>
-			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/63.png" num="40">LOT</set>
+			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/63.png" num="42">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1280,7 +1281,7 @@ Whenever a creature you control explores, each opponent loses 1 life.</text>
 At the beginning of your end step, sacrifice this creature.
 Boast — {R}: Return this creature to its owner&apos;s hand. (Activate only if this creature attacked this turn and only once each turn.)
 Whenever you activate a boast ability, this creature deals 1 damage to each opponent.</text>
-			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/64.png" num="68">LOT</set>
+			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/64.png" num="71">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1298,7 +1299,7 @@ Whenever you activate a boast ability, this creature deals 1 damage to each oppo
 			<name>Stormaxe Duo</name>
 			<text>Double strike
 Boast — {2}{R}: Put a +1/+1 counter on this creature. It deals 2 damage to each opponent. (Activate only if this creature attacked this turn and only once each turn.)</text>
-			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/65.png" num="69">LOT</set>
+			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/65.png" num="72">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1318,7 +1319,7 @@ Boast — {2}{R}: Put a +1/+1 counter on this creature. It deals 2 damage to eac
 I — Reign of the Storm King deals 2 damage to any target.
 II — Add {R}{R}. Until end of turn, you don&apos;t lose this mana as steps and phases end.
 III — Exile the top card of your library. Until the end of your next turn, you may play it.</text>
-			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/66.png" num="66">LOT</set>
+			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/66.png" num="69">LOT</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -1335,7 +1336,7 @@ III — Exile the top card of your library. Until the end of your next turn, you
 			<name>Shield of Civilization</name>
 			<text>When this creature enters, look at the top X cards of your library, where X is 2 plus the number of historic permanents you control. You may reveal a card among them and put it into your hand. Put the rest onto the bottom of your library in a random order.
 Whenever another historic permanent you control enters, put a +1/+1 counter on this creature.</text>
-			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/67.png" num="86">LOT</set>
+			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/67.png" num="89">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1352,7 +1353,7 @@ Whenever another historic permanent you control enters, put a +1/+1 counter on t
 		<card>
 			<name>Lorewander Bard</name>
 			<text>Whenever one or more historic permanents you control enter, create a 1/1 white Human creature token. This ability only triggers once each turn. (Artifacts, legendaries, and Sagas are historic.)</text>
-			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/68.png" num="81">LOT</set>
+			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/68.png" num="84">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1370,7 +1371,7 @@ Whenever another historic permanent you control enters, put a +1/+1 counter on t
 			<name>City Caretaker</name>
 			<text>Defender
 As long as a historic permanent you control entered this turn, this creature may attack as though it didn&apos;t have defender. (Artifacts, legendaries, and Sagas are historic.)</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/69.png" num="74">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/69.png" num="77">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1390,7 +1391,7 @@ As long as a historic permanent you control entered this turn, this creature may
 I — Create a 1/1 green Goblin creature token and a Food token.
 II — Put a +1/+1 counter on each creature you control.
 III — Search your library for a basic Forest card, put it onto the battlefield tapped, then shuffle your library.</text>
-			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/70.png" num="84">LOT</set>
+			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/70.png" num="87">LOT</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -1407,7 +1408,7 @@ III — Search your library for a basic Forest card, put it onto the battlefield
 			<name>Experimental Overseer</name>
 			<text>Each other creature you control enters with an additional +1/+1 counter.
 At the beginning of combat on your turn, choose trample or vigilance. Modified creatures you control gain the following ability until end of turn. (Equipment, Auras you control, and counters are modifications.)</text>
-			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/71.png" num="97">LOT</set>
+			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/71.png" num="101">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1425,7 +1426,7 @@ At the beginning of combat on your turn, choose trample or vigilance. Modified c
 			<name>Obsidian Fiend</name>
 			<text>Landfall — Whenever a land you control enters, put a +1/+1 counter on this creature. It deals 1 damage to each opponent.
 As long as you control eight or more lands, creatures you control get +1/+1 and trample.</text>
-			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/72.png" num="106">LOT</set>
+			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/72.png" num="110">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1444,7 +1445,7 @@ As long as you control eight or more lands, creatures you control get +1/+1 and 
 			<text>Reach
 When this or another nontoken creature you control enters, create a Food token.
 {1}{BG}, Sacrifice a token: Put a +1/+1 counter on target creature. It gains your choice of menace or trample until end of turn. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/73.png" num="114">LOT</set>
+			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/73.png" num="118">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1462,7 +1463,7 @@ When this or another nontoken creature you control enters, create a Food token.
 			<name>Merfolk Corpsediver</name>
 			<text>At the beginning of your end step, if a creature card was put into your graveyard from anywhere, this creature explores.
 Remove a counter from a creature you control: Target creature gains menace until end of turn.</text>
-			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/74.png" num="104">LOT</set>
+			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/74.png" num="108">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1480,7 +1481,7 @@ Remove a counter from a creature you control: Target creature gains menace until
 			<name>Stormsurge Brawler</name>
 			<text>Boast abilities of other creatures you control cost {X} less to activate, where X is this creature&apos;s power.
 Boast — {1}{UR}: Put a +1/+1 counter on this creature. Scry 1. (Activate only if this creature attacked this turn and only once each turn.)</text>
-			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/75.png" num="112">LOT</set>
+			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/75.png" num="116">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1497,7 +1498,7 @@ Boast — {1}{UR}: Put a +1/+1 counter on this creature. Scry 1. (Activate only 
 		<card>
 			<name>Star, the Transmigrator</name>
 			<text>Whenever another historic permanent you control enters, you gain 1 life. Put a +1/+1 counter on this creature. (Artifacts, legendaries, and Sagas are historic.)</text>
-			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/76.png" num="111">LOT</set>
+			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/76.png" num="115">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1532,7 +1533,7 @@ Boast — {1}{UR}: Put a +1/+1 counter on this creature. Scry 1. (Activate only 
 			<name>Flatlands Warmage</name>
 			<text>Vigilance, lifelink
 {T}, Tap an untapped creature you control: This creature deals 1 damage to any target.</text>
-			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/78.png" num="98">LOT</set>
+			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/78.png" num="102">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1549,7 +1550,7 @@ Boast — {1}{UR}: Put a +1/+1 counter on this creature. Scry 1. (Activate only 
 		<card>
 			<name>Flatlands Smith</name>
 			<text>Whenever this creature becomes tapped, it deals 1 damage to each opponent.</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/79.png" num="59">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/79.png" num="62">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1566,7 +1567,7 @@ Boast — {1}{UR}: Put a +1/+1 counter on this creature. Scry 1. (Activate only 
 		<card>
 			<name>Volcanic Agressor</name>
 			<text>Landfall — Whenever a land you control enters, target creature gets +1/+1 and menace until end of turn.</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/80.png" num="72">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/80.png" num="75">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1584,7 +1585,7 @@ Boast — {1}{UR}: Put a +1/+1 counter on this creature. Scry 1. (Activate only 
 			<name>Lavafist Guardian</name>
 			<text>As long as a land you control entered this turn, this creature has double strike.
 Landfall — Whenever a land you control enters, if you control four or more lands, this creature gets +1/+1 until end of turn. Otherwise it deals 1 damage to target opponent.</text>
-			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/81.png" num="61">LOT</set>
+			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/81.png" num="64">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1601,7 +1602,7 @@ Landfall — Whenever a land you control enters, if you control four or more lan
 		<card>
 			<name>Moltenspire Dragon</name>
 			<text>Flying, haste, menace</text>
-			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/82.png" num="65">LOT</set>
+			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/82.png" num="68">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1619,7 +1620,7 @@ Landfall — Whenever a land you control enters, if you control four or more lan
 			<name>Tangleweed Bruiser</name>
 			<text>When this creature enters, it fights up to one target creature you don&apos;t control.
 Landfall — Whenever a land you control enters, put a +1/+1 counter on this creature.</text>
-			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/83.png" num="87">LOT</set>
+			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/83.png" num="90">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1636,7 +1637,7 @@ Landfall — Whenever a land you control enters, put a +1/+1 counter on this cre
 		<card>
 			<name>Molten Overgrowth</name>
 			<text>Target creature deals damage equal to its power to target creature you don&apos;t control. If excess damage was dealt this way, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
-			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/84.png" num="105">LOT</set>
+			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/84.png" num="109">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1653,7 +1654,7 @@ Landfall — Whenever a land you control enters, put a +1/+1 counter on this cre
 			<name>Lava Strike</name>
 			<text>Lava Strike deals 3 damage to any target.
 Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/85.png" num="60">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/85.png" num="63">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1669,7 +1670,7 @@ Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain 
 		<card>
 			<name>Life Spirit&apos;s Wrath</name>
 			<text>Put a +1/+1 counter on target creature you control if you control five or more lands. Then it deals damage equal to its power to target creature you don&apos;t control.</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/86.png" num="80">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/86.png" num="83">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1685,7 +1686,7 @@ Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain 
 		<card>
 			<name>Rampant Growth</name>
 			<text>Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/87.png" num="83">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/87.png" num="86">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1702,7 +1703,7 @@ Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain 
 			<name>Wind Spirit&apos;s Wrath</name>
 			<text>This spell costs {2} less if it targets a tapped, attacking, or blocking creature.
 Destroy target creature.</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/88.png" num="16">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/88.png" num="17">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1719,7 +1720,7 @@ Destroy target creature.</text>
 			<name>Lord Ego&apos;s Wrath</name>
 			<text>Each opponent sacrifices a nontoken creature. 
 Unworldly 3 — You may exile a nonland card from your graveyard. If you do and you own three or more cards in exile, put up to one target creature card from your graveyard to your hand.</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/89.png" num="48">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/89.png" num="50">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1736,7 +1737,7 @@ Unworldly 3 — You may exile a nonland card from your graveyard. If you do and 
 			<name>Sea Spirit&apos;s Wrath</name>
 			<text>The owner of target nonland permanent you don&apos;t control puts it into their library second from the top.
 Surveil 2</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/90.png" num="26">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/90.png" num="28">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1753,7 +1754,7 @@ Surveil 2</text>
 			<name>Fire Spirit&apos;s Wrath</name>
 			<text>Fire Spirit&apos;s Wrath deals X damage to target creature. If X is 3 or more, it deals twice X damage instead. 
 If a creature dealt damage this way would die, exile it instead.</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/91.png" num="58">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/91.png" num="61">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1769,7 +1770,7 @@ If a creature dealt damage this way would die, exile it instead.</text>
 		<card>
 			<name>Veteran Researcher</name>
 			<text>When Veteran Researcher enters, put a +1/+1 counter on target creature you control. Scry 1.</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/92.png" num="117">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/92.png" num="121">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1787,7 +1788,7 @@ If a creature dealt damage this way would die, exile it instead.</text>
 			<name>Experimental Abomination</name>
 			<text>Vigilance
 At the beginning of your upkeep, put a +1/+1 counter on up to two target creatures you control.</text>
-			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/93.png" num="75">LOT</set>
+			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/93.png" num="78">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1805,7 +1806,7 @@ At the beginning of your upkeep, put a +1/+1 counter on up to two target creatur
 			<name>Genegrafted Charger</name>
 			<text>When this creature enters, put a +1/+1 counter on target creature you control.
 Modified creatures you control have trample. (Equipment, Auras you control, and counters are modifications.)</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/94.png" num="77">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/94.png" num="80">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1824,7 +1825,7 @@ Modified creatures you control have trample. (Equipment, Auras you control, and 
 			<text>When this creature enters, put a +1/+1 counter on target creature.
 Flying
 Other modified creatures you control have flying (Equipment, Auras you control, and counters are modifications.)</text>
-			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/95.png" num="22">LOT</set>
+			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/95.png" num="24">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1841,7 +1842,7 @@ Other modified creatures you control have flying (Equipment, Auras you control, 
 		<card>
 			<name>Head Experimenter</name>
 			<text>When this creature enters, create an green Aura token attached to target creature you control named Constant Growth with &quot;Enchant creature&quot; and &quot;At the beginning of your upkeep, put a +1/+1 counter on enchanted creature&quot;.</text>
-			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/96.png" num="78">LOT</set>
+			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/96.png" num="81">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1858,7 +1859,7 @@ Other modified creatures you control have flying (Equipment, Auras you control, 
 		<card>
 			<name>Warding Modification</name>
 			<text>Counter target spell unless its controller pays {2}. If you control a modified creature, counter that spell unless its controller pays {4} instead. (Equipment, Auras you control, and counters are modifications.)</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/97.png" num="33">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/97.png" num="35">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1875,7 +1876,7 @@ Other modified creatures you control have flying (Equipment, Auras you control, 
 			<name>Aspiring Researcher</name>
 			<text>When this creature enters, put a +1/+1 counter on target creature you control.
 At the beginning of your end step, if you&apos;ve put a counter on a creature you control, you may discard a card. If you do, draw a card.</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/98.png" num="18">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/98.png" num="20">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1893,7 +1894,7 @@ At the beginning of your end step, if you&apos;ve put a counter on a creature yo
 			<name>Cleansing Priest</name>
 			<text>When this creature enters, surveil 2, then you may exile a card from your graveyard.
 Whenever you exile one or more nonland cards from your graveyard or library, each opponent loses 1 life and you gain 1 life. This ability only triggers once each turn.</text>
-			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/99.png" num="95">LOT</set>
+			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/99.png" num="99">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1910,7 +1911,7 @@ Whenever you exile one or more nonland cards from your graveyard or library, eac
 		<card>
 			<name>Purifier Exarch</name>
 			<text>At the beginning of combat on your turn, you may exile a nonland card from your graveyard or pay {1}{W}. If you do, put a +1/+1 counter on target creature you control.</text>
-			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/100.png" num="7">LOT</set>
+			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/100.png" num="8">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1928,7 +1929,7 @@ Whenever you exile one or more nonland cards from your graveyard or library, eac
 			<name>Thirsting Remnant</name>
 			<text>As an additional cost to cast this spell, pay {2} or exile a nonland card from your graveyard.
 When this creature enters, you may pay 2 life. If you do, draw a card</text>
-			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/101.png" num="52">LOT</set>
+			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/101.png" num="54">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1946,7 +1947,7 @@ When this creature enters, you may pay 2 life. If you do, draw a card</text>
 			<name>High Cultist Elacloni</name>
 			<text>At the beginning of your end step, you may exile a nonland card from your graveyard. If you do, create a 1/1 white and black Human Warlock creature token.
 Unworldly 3 — {T}, Sacrifice a creature: The next spell you cast this turn has affinity for creatures and cards you own in exile. Only activate as a sorcery and if you own three or more cards in exile.</text>
-			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/102.png" num="100">LOT</set>
+			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/102.png" num="104">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1965,7 +1966,7 @@ Unworldly 3 — {T}, Sacrifice a creature: The next spell you cast this turn has
 			<text>Flash
 Menace
 Whenever an opponent casts their second spell or draws their second card each turn, this creature explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</text>
-			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/103.png" num="108">LOT</set>
+			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/103.png" num="112">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1984,7 +1985,7 @@ Whenever an opponent casts their second spell or draws their second card each tu
 			<text>Vigilance
 At the beginning of combat on your turn, put a +1/+1 counter on up to X target creatures you control, where X is the amount of historic permanents you control. (Artifacts, legendaries, and Sagas are historic.)
 {T}: The next time another target historic permanent would be put into its owner&apos;s graveyard, instead return it to its owner&apos;s hand. Only activate once per turn.</text>
-			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/104.png" num="110">LOT</set>
+			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/104.png" num="114">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2001,7 +2002,7 @@ At the beginning of combat on your turn, put a +1/+1 counter on up to X target c
 		<card>
 			<name>Adaptive Dismissal</name>
 			<text>Return up to X target nonland permanents to their owner&apos;s hands, where X is 1 plus the amount of modified creatures you control. (Equipment, Auras you control, and counters are modifications.)</text>
-			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/105.png" num="17">LOT</set>
+			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/105.png" num="19">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2017,7 +2018,7 @@ At the beginning of combat on your turn, put a +1/+1 counter on up to X target c
 		<card>
 			<name>Wild Nurturer</name>
 			<text>When this creature enters, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/106.png" num="92">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/106.png" num="96">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2034,7 +2035,7 @@ At the beginning of combat on your turn, put a +1/+1 counter on up to X target c
 		<card>
 			<name>Breach the Outerverse</name>
 			<text>Each player exiles the top twelve cards of their library. For each player, cast up to one card they exiled this way without paying it&apos;s mana cost.</text>
-			<set rarity="mythic" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/107.png" num="36">LOT</set>
+			<set rarity="mythic" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/107.png" num="38">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2051,7 +2052,7 @@ At the beginning of combat on your turn, put a +1/+1 counter on up to X target c
 			<name>Decipher the Ravings</name>
 			<text>Look at the top two cards of your library. Put one into your hand and exile the rest.
 Unworldly 2 — You lose 1 life unless you own two or more cards in exile.</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/108.png" num="39">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/108.png" num="41">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2066,8 +2067,9 @@ Unworldly 2 — You lose 1 life unless you own two or more cards in exile.</text
 		</card>
 		<card>
 			<name>Hidden Cultist</name>
-			<text>At the beginning of your upkeep, exile the top card of your library and lose 1 life.</text>
-			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/109.png" num="46">LOT</set>
+			<text>At the beginning of your upkeep, exile the top card of your library and lose 1 life.
+Unworldly 4 — As long as you own four or more cards in exile, this creature has menace.</text>
+			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/109.png" num="48">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2084,7 +2086,7 @@ Unworldly 2 — You lose 1 life unless you own two or more cards in exile.</text
 		<card>
 			<name>Coastal Bandit</name>
 			<text>When this creature enters, it explores. When it explores this way, destroy up to one target creature unless its controller pays X life, where X is this creature&apos;s power. (To have this creature explore, reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)</text>
-			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/110.png" num="37">LOT</set>
+			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/110.png" num="39">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2103,7 +2105,7 @@ Unworldly 2 — You lose 1 life unless you own two or more cards in exile.</text
 			<text>Defender
 When this creature enters, create a Food token.
 At the beginning of your end step, you may sacrifice X tokens. When you do, return target creature card with mana value X or less from your graveyard to the battlefield tapped with a finality counter on it.</text>
-			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/111.png" num="94">LOT</set>
+			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/111.png" num="98">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2122,7 +2124,7 @@ At the beginning of your end step, you may sacrifice X tokens. When you do, retu
 			<text>Enchant creature
 When this enchantment enters, tap target creature you don&apos;t control. Put a stun counter on it.
 Enchanted creature gets +1/+0 and has flying.</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/112.png" num="34">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/112.png" num="36">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2138,7 +2140,7 @@ Enchanted creature gets +1/+0 and has flying.</text>
 		<card>
 			<name>Bog Ambush</name>
 			<text>Destroy target creature. If that creature was untapped, you lose 2 life.</text>
-			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/113.png" num="35">LOT</set>
+			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/113.png" num="37">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2155,7 +2157,7 @@ Enchanted creature gets +1/+0 and has flying.</text>
 			<name>Herald of Disorder</name>
 			<text>When this creature enters, it deals 1 damage to each player.
 At the beginning of combat on your turn, if you lost life this turn, target creature gets +X/+0 and menace until end of turn, where X is the amount of life you lost this turn.</text>
-			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/114.png" num="99">LOT</set>
+			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/114.png" num="103">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2173,7 +2175,7 @@ At the beginning of combat on your turn, if you lost life this turn, target crea
 			<name>Anguished Warbringer</name>
 			<text>Haste
 Whenever this creature attacks, you may have it deal 1 damage to you. If you do, it gets +1/+0 and gains trample until end of turn.</text>
-			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/115.png" num="56">LOT</set>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/115.png" num="58">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2192,7 +2194,7 @@ Whenever this creature attacks, you may have it deal 1 damage to you. If you do,
 			<text>Flying
 This creature can&apos;t block.
 At the beginning of combat on your turn, you may exile two cards from your graveyard or pay {1}{B}. If you don&apos;t, tap this creature and it deals 1 damage to you.</text>
-			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/116.png" num="54">LOT</set>
+			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/116.png" num="56">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2210,7 +2212,7 @@ At the beginning of combat on your turn, you may exile two cards from your grave
 			<name>Pain Manifestor</name>
 			<text>Menace, Flying
 Creatures you control have &quot;At the beginning of your upkeep, you lose 1 life unless you pay {2} or tap this creature&quot;</text>
-			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/117.png" num="107">LOT</set>
+			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/117.png" num="111">LOT</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2223,6 +2225,177 @@ Creatures you control have &quot;At the beginning of your upkeep, you lose 1 lif
 				<pt>6/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Suspicious Chapel</name>
+			<text>This land enters with a charge counter.
+{T}: Add {C}. Put a charge counter on this land.
+{T}, Remove a charge counter from this land: Add {W} or {B}</text>
+			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/118.png" num="127">LOT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Unstable Holm</name>
+			<text>This land enters with a charge counter.
+{T}: Add {C}. Put a charge counter on this land.
+{T}, Remove a charge counter from this land: Add {G} or {U}</text>
+			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/119.png" num="128">LOT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Armored City</name>
+			<text>This land enters with a charge counter.
+{T}: Add {C}. Put a charge counter on this land.
+{T}, Remove a charge counter from this land: Add {G} or {W}</text>
+			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/120.png" num="123">LOT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Hollow Metropolis</name>
+			<text>This land enters with a charge counter.
+{T}: Add {C}. Put a charge counter on this land.
+{T}, Remove a charge counter from this land: Add {U} or {B}</text>
+			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/121.png" num="124">LOT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Illuminated Emberwood</name>
+			<text>This land enters with a charge counter.
+{T}: Add {C}. Put a charge counter on this land.
+{T}, Remove a charge counter from this land: Add {G} or {R}</text>
+			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/122.png" num="125">LOT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Ethereal Spiritshard</name>
+			<text>Flash
+When this artifact enters, target creature you control has indestructible and hexproof until end of turn.
+{4}{W}, Sacrifice this artifact: You gain 3 life and draw a card.</text>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/123.png" num="5">LOT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Soulmatrix Orrery</name>
+			<text>Creature spells you cast cost {1} less to cast.
+Whenever you cast a creature spell, surveil 1.
+{T}: Exile three cards from your graveyard: Put two +1/+1 counters on target creature. Only activate as a sorcery.</text>
+			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/124.png" num="122">LOT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Verdant Spiritshard</name>
+			<text>When this artifact enters, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+{3}{G}{G}, Sacrifice this artifact: Put two +1/+1 counters on target creature.</text>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/125.png" num="95">LOT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Blazing Spiritshard</name>
+			<text>When this artifact enters, it deals 2 damage to any target.
+{3}{R}, Sacrifice this artifact: Destroy target artifact.</text>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/126.png" num="59">LOT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Abyssal Spiritshard</name>
+			<text>Flash
+When this artifact enters, return target creature to its owner&apos;s hand.
+{2}{U}, Sacrifice this artifact: Surveil 4.</text>
+			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/127.png" num="18">LOT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

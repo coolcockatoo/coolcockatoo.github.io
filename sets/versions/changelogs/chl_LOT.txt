@@ -1,4 +1,42 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Suspicious Chapel added.
+Unstable Holm added.
+Armored City added.
+Hollow Metropolis added.
+Illuminated Emberwood added.
+Ethereal Spiritshard added.
+Soulmatrix Orrery added.
+Verdant Spiritshard added.
+Blazing Spiritshard added.
+Abyssal Spiritshard added.
+
+
+Undersea Expedition
+rules_text: When this card enters, create a 1/1 blue Merfolk creature token. That creature token explores. [i](To have this creature explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+At the beginning of your end step, you may exile two nonland cards from your graveyard. If you do, return this card to its owner's hand. => When this card enters, create a 1/1 blue Merfolk creature token. That creature token explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+At the beginning of your end step, you may exile two nonland cards from your graveyard. If you do, return this card to its owner's hand.
+
+Undersea Explorers
+rules_text: When this creature enters, it explores twice. [i](To have this creature explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i]
+Islandcycling 2 [i]({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)[/i] => When this creature enters, it explores twice. [i](To have this creature explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i]
+Islandcycling {2} [i]({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Voracious Devourers
+rules_text: Menace
+Sacrifice a token, {B}: Deal 1 damage to each opponent. => Menace
+When this creature enters, create a Food token.
+Sacrifice a token, {B}: Deal 1 damage to each opponent.
+
+Rampant Growth
+
+Hidden Cultist
+rules_text: At the beginning of your upkeep, exile the top card of your library and lose 1 life. => At the beginning of your upkeep, exile the top card of your library and lose 1 life.
+[i]Unworldly 4[/i] — As long as you own four or more cards in exile, this creature has menace.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

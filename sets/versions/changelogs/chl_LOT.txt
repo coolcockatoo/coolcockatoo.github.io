@@ -1,4 +1,178 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Gale Banisher added.
+Baleful Spiritshard added.
+Strength Of Resolve added.
+Genetic Replicator added.
+Genetic Amplifier added.
+Adaptive Shield added.
+Renowned Captain added.
+Evergreen, Nature's Warden added.
+Collapse Into Darkness added.
+Extinction Colossus added.
+Contested Harvest added.
+Master Illusionist added.
+Claim the Harvest added.
+Deep Woods Guardian added.
+Reckless Devil added.
+Callous Skullgatherer added.
+Wind Magus added.
+Summit Voyager added.
+Unlimited Gateway added.
+Sylph Monastery added.
+Ruined Labratory added.
+Hidden Conclave added.
+Monestary Overseer added.
+
+Tempest Banisher removed.
+
+Undersea Expedition
+rules_text: When this card enters, create a 1/1 blue Merfolk creature token. That creature token explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+At the beginning of your end step, you may exile two nonland cards from your graveyard. If you do, return this card to its owner's hand. => When this card enters, create a 1/1 blue Merfolk creature token. That creature token explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+At the beginning of your end step, you may exile three cards from your graveyard. If you do, return this card to its owner's hand.
+
+Magmir's Wrath
+rules_text: Magmir's Wrath deals 2 damage to target creature.If you control four or more lands, deal 3 damage instead.
+If a creature dealt damage this way would die this turn, exile it instead. => Magmir's Wrath deals 2 damage to target creature.If you control six or more lands, it deals 4 damage instead.
+
+Delve too Deep
+cost: {2}{B}{B} => {3}{B}
+
+Feasting Goblin
+rules_text: Trample
+When this creature enters, create a Food token.
+Whenever this creature attacks, you may sacrifice a token. If you do, put a +1/+1 counter on it. => When this creature enters, create a Food token.
+Whenever this creature attacks, you may sacrifice a token. If you do, put a +1/+1 counter on it. It has trample until end of turn.
+pt: 3/2 => 3/3
+
+Stalwart Fighters
+rules_text: When this creature enters, choose one:
+• Return target artifact or enchantment card from your graveyard into your hand.
+• Create two Food tokens. => When this creature enters, choose one:
+• Return target historic card from your graveyard into your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+• Create two Food tokens.
+
+Voracious Devourers
+rules_text: Menace
+When this creature enters, create a Food token.
+Sacrifice a token, {B}: Deal 1 damage to each opponent. => Menace
+When this creature enters, create a Food token.
+Sacrifice a token, {B}: This creature deals 1 damage to each opponent.
+
+Painful Remnant
+rules_text: You may cast this spell from your graveyard if you've lost life this turn. When you cast it this way, it enters with a finality counter. [i](If a creature with a finality counter on it would die, exile it instead.)[/i]
+{3}{B}, Pay 1 life: Surveil 1. Only activate this ability if this card is in your graveyard.
+[i]“Whispers of the night echo with pain”[/i] => You may cast this spell from your graveyard if you've lost life this turn. When you cast it this way, it enters with a finality counter.
+{3}, Exile a card from your graveyard: Surveil 1. Only activate this ability if this card is in your graveyard.
+[i]“Whispers of the night echo with pain”[/i]
+
+Treetop Hunter
+rules_text: Reach
+[i]Landfall[/i] — Whenever a land you control enters, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i] => Reach
+[i]Landfall[/i] — Whenever a land you control enters, untap target creature.
+
+Magmir's Aspirant
+rules_text: Reach
+[i]Landfall[/i] — Whenever a land you control enters, this creature deals 1 damage to each opponent. => Reach
+As long as a land you control entered this turn, this creature gets +1/+0
+[i]Landfall[/i] — Whenever a land you control enters, this creature deals 1 damage to each opponent.
+pt: 3/3 => 2/3
+
+Lord Ego, Virtue's Ruin
+rules_text: Flying, Menace
+At the beginning of your end step, target opponent mills X cards, where X is the amount of life they lost this turn. You exile a card milled this way. For as long as it remains exiled, you may cast it, and you may pay life equal to it's mana value rather than paying it's mana cost. => Flying, Menace
+At the beginning of your end step, target opponent mills X cards, where X is the amount of life they lost this turn. You exile a card milled this way. For as long as it remains exiled, you may cast it, and you may pay life equal to its mana value rather than paying it's mana cost.
+
+Sudden Strike
+cost: {1}{W} => {2}{W}
+rules_text: Entwine {2}{W} [i](Choose both if you pay the entwine cost.)[/i] [i](Choose both if you pay the entwine cost.)[/i]
+Choose one:
+• Destroy target creature with power 4 or greater.
+• Target creature gets +2/+0 and gains first strike until end of turn. => Entwine {1}{W} [i](Choose both if you pay the entwine cost.)[/i] [i](Choose both if you pay the entwine cost.)[/i]
+Choose one:
+• Destroy target creature with power 4 or greater.
+• Target creature gets +2/+0 and gains first strike until end of turn.
+
+Stormbrewer Mage
+rules_text: Flying
+This creature can only block creatures with flying.
+Boast — {1}{U}: Target instant or sorcery spell in your graveyard gains flashback until end of turn. The flashback cost is equal to it's mana cost. [i](Activate only if this creature attacked this turn and only once each turn.)[/i] => When Stormbrewer Mage enters, if it was cast, search your library for an instant or sorcery spell, put it in your graveyard, then shuffle.
+Boast — {1}{U}: Target instant or sorcery spell in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]
+
+Seaside Village
+rules_text: {T}, Pay 1 life: Add {U}
+{2}{U}, {T}: Target creature you control explores. Activate only as a sorcery. [i](To have this creature explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i] => {T}, Pay 1 life: Add {U}
+{3}{U}, {T}: Target creature you control explores. Activate only as a sorcery. [i](To have this creature explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+
+Volcanic Agressor
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, target creature gets +1/+1 and menace until end of turn. => [i]Landfall[/i] — Whenever a land you control enters, target creature you control gets +1/+1 until end of turn.
+
+Fire Spirit's Wrath
+rules_text: Fire Spirit's Wrath deals X damage to target creature. If X is 3 or more, it deals twice X damage instead. 
+If a creature dealt damage this way would die, exile it instead. => Fire Spirit's Wrath deals X plus 1 damage to target creature. 
+If a creature dealt damage this way would die, exile it instead.
+
+Veteran Researcher
+
+Thirsting Remnant
+rules_text: As an additional cost to cast this spell, pay {2} or exile a nonland card from your graveyard.
+When this creature enters, you may pay 2 life. If you do, draw a card => As an additional cost to cast this spell, pay {2} or exile two cards from your graveyard.
+When this creature enters, you may pay 1 life. If you do, draw a card
+
+High Cultist Elacloni
+rules_text: At the beginning of your end step, you may exile a nonland card from your graveyard. If you do, create a 1/1 white and black Human Warlock creature token.
+[i]Unworldly 3[/i] — {T}, Sacrifice a creature: The next spell you cast this turn has affinity for creatures and cards you own in exile. Only activate as a sorcery and if you own three or more cards in exile. => At the beginning of your end step, you may exile a nonland card from your graveyard. If you do, create a 1/1 white and black Human Warlock creature token.
+[i]Unworldly 3[/i] — {T}, Sacrifice a creature: The next spell you cast this turn has affinity cards you own in exile. Only activate as a sorcery and if you own three or more cards in exile.
+
+Hidden Cultist
+pt: 3/3 => 3/2
+
+Herald of Disorder
+rules_text: When this creature enters, it deals 1 damage to each player.
+At the beginning of combat on your turn, if you lost life this turn, target creature gets +X/+0 and menace until end of turn, where X is the amount of life you lost this turn. => When this creature enters, you may have it deal 1 damage to each player.
+Whenever you attack, if you have 10 or fewer life or if you lost life this turn, target creature gets +1/+1 and menace until end of turn.
+
+Anguished Warbringer
+rules_text: Haste
+Whenever this creature attacks, you may have it deal 1 damage to you. If you do, it gets +1/+0 and gains trample until end of turn. => Haste
+Whenever this creature attacks, if you have 10 or less life, it gets +1/+0 and gains trample until end of turn. Otherwise, you may pay 1 life. If you do, it gets +1/+0 and gains trample until end of turn.
+pt: 2/2 => 3/2
+
+Pain Manifestor
+rules_text: Menace, Flying
+Creatures you control have “At the beginning of your upkeep, you lose 1 life unless you pay {2} or tap this creature” => Flying, menace
+As long as you have 10 or more life, other creatures you control have “At the beginning of your upkeep, you lose 1 life unless you pay {1} or tap this creature”
+As long as you have 10 or less life, other creatures you control get +2/+1.
+pt: 6/5 => 5/4
+
+Ethereal Spiritshard
+rules_text: Flash
+When this artifact enters, target creature you control has indestructible and hexproof until end of turn.
+{4}{W}, Sacrifice this artifact: You gain 3 life and draw a card. => Flash
+When this artifact enters, target creature you control has indestructible and hexproof until end of turn.
+{4}{W}, Sacrifice this artifact: You gain 3 life and draw a card. Activate only as a sorcery.
+
+Verdant Spiritshard
+cost: {2}{G} => {1}{G}
+rules_text: When this artifact enters, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+{3}{G}{G}, Sacrifice this artifact: Put two +1/+1 counters on target creature. => When this artifact enters, target creature you control fights target creature you don't control.
+{4}{G}, Sacrifice this artifact: Put two +1/+1 counters on target creature. Activate only as a sorcery.
+
+Blazing Spiritshard
+rules_text: When this artifact enters, it deals 2 damage to any target.
+{3}{R}, Sacrifice this artifact: Destroy target artifact. => When this artifact enters, it deals 2 damage to any target.
+{3}{R}, Sacrifice this artifact: Destroy target artifact. Activate only as a sorcery.
+
+Abyssal Spiritshard
+rules_text: Flash
+When this artifact enters, return target creature to its owner's hand.
+{2}{U}, Sacrifice this artifact: Surveil 4. => Flash
+When this artifact enters, return target creature to its owner's hand.
+{2}{U}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Suspicious Chapel added.

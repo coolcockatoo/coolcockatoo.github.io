@@ -1530,7 +1530,7 @@ Boast — {1}{UR}: Put a +1/+1 counter on this creature. Scry 1. (Activate only 
 		<card>
 			<name>Flatlands Warmage</name>
 			<text>Vigilance, lifelink
-{T}, Tap an untapped creature you control: This creature deals 1 damage to any target.</text>
+Solidarity — Whenever this creature attacks with one or more other creatures, it deals 1 damage to any target.</text>
 			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/78.png" num="118">LOT</set>
 			<prop>
 				<layout>normal</layout>
@@ -1541,13 +1541,13 @@ Boast — {1}{UR}: Put a +1/+1 counter on this creature. Scry 1. (Activate only 
 				<cmc>4</cmc>
 				<colors>WR</colors>
 				<coloridentity>WR</coloridentity>
-				<pt>2/4</pt>
+				<pt>3/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Flatlands Smith</name>
-			<text>Whenever this creature becomes tapped, it deals 1 damage to each opponent.</text>
+			<text>Solidarity — Whenever this creature attacks with one or more other creatures, it gets +1/+0 until end of turn and deals 1 damage to each opponent.</text>
 			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/79.png" num="70">LOT</set>
 			<prop>
 				<layout>normal</layout>
@@ -2154,7 +2154,7 @@ Enchanted creature gets +1/+0 and has flying.</text>
 		<card>
 			<name>Herald of Disorder</name>
 			<text>When this creature enters, you may have it deal 1 damage to each player.
-Whenever you attack, if you have 10 or fewer life or if you lost life this turn, target creature gets +1/+1 and menace until end of turn.</text>
+Bedlam — Whenever you attack, if you have 10 or fewer life or if you lost life this turn, target creature gets +1/+1 and menace until end of turn.</text>
 			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/114.png" num="119">LOT</set>
 			<prop>
 				<layout>normal</layout>
@@ -2172,7 +2172,7 @@ Whenever you attack, if you have 10 or fewer life or if you lost life this turn,
 		<card>
 			<name>Anguished Warbringer</name>
 			<text>Haste
-Whenever this creature attacks, if you have 10 or less life, it gets +1/+0 and gains trample until end of turn. Otherwise, you may pay 1 life. If you do, it gets +1/+0 and gains trample until end of turn.</text>
+Bedlam — Whenever this creature attacks, if you have 10 or less life, it gets +1/+0 and gains trample until end of turn. Otherwise, you may pay 1 life. If you do, it gets +1/+0 and gains trample until end of turn.</text>
 			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/115.png" num="66">LOT</set>
 			<prop>
 				<layout>normal</layout>
@@ -2210,7 +2210,7 @@ At the beginning of combat on your turn, you may exile two cards from your grave
 			<name>Pain Manifestor</name>
 			<text>Flying, menace
 As long as you have 10 or more life, other creatures you control have &quot;At the beginning of your upkeep, you lose 1 life unless you pay {1} or tap this creature&quot;
-As long as you have 10 or less life, other creatures you control get +2/+1.</text>
+Bedlam — As long as you have 10 or less life, other creatures you control get +2/+1.</text>
 			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/117.png" num="128">LOT</set>
 			<prop>
 				<layout>normal</layout>
@@ -2663,7 +2663,7 @@ Whenever you sacrifice a token, target opponent loses 1 life.</text>
 		<card>
 			<name>Wind Magus</name>
 			<text>When this creature enters, you gain 2 life and scry 1.
-Whenever you expend 3, you may exile this creature and return it onto the battlefield under its owner&apos;s control. (You expend 3 as you spend your third total mana to cast spells during a turn.)</text>
+Innovate 3 — At the beginning of your end step, if you&apos;ve cast another spell with mana value 3 or greater, you may exile this creature and return it onto the battlefield under its owner&apos;s control.</text>
 			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/143.png" num="17">LOT</set>
 			<prop>
 				<layout>normal</layout>
@@ -2681,7 +2681,7 @@ Whenever you expend 3, you may exile this creature and return it onto the battle
 		<card>
 			<name>Summit Voyager</name>
 			<text>Flying
-Whenever you expend 4, target creature you control explores. (You expend 4 as you spend your fourth total mana to cast spells during a turn.)</text>
+Innovate 2 — At the beginning of your end step, if you&apos;ve cast another spell with mana value 2 or greater, target creature you control explores.</text>
 			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/144.png" num="35">LOT</set>
 			<prop>
 				<layout>normal</layout>
@@ -2760,9 +2760,9 @@ Whenever you expend 4, target creature you control explores. (You expend 4 as yo
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>Monestary Overseer</name>
+			<name>Monastery Overseer</name>
 			<text>Flying, vigilance
-Whenever you expend 4, you gain 2 life and draw a card. (You expend 4 as you spend your fourth total mana to cast spells during a turn.)</text>
+Innovative 4 — At the beginning of your end step, if you&apos;ve cast another spell with mana value 4 or greater, draw a card and gain 3 life.</text>
 			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/149.png" num="126">LOT</set>
 			<prop>
 				<layout>normal</layout>

@@ -1,4 +1,48 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Monastery Overseer added.
+
+Monestary Overseer removed.
+
+Flatlands Warmage
+rules_text: Vigilance, lifelink
+{T}, Tap an untapped creature you control: This creature deals 1 damage to any target. => Vigilance, lifelink
+[i]Solidarity[/i] — Whenever this creature attacks with one or more other creatures, it deals 1 damage to any target.
+pt: 2/4 => 3/4
+
+Flatlands Smith
+rules_text: Whenever this creature becomes tapped, it deals 1 damage to each opponent. => [i]Solidarity[/i] — Whenever this creature attacks with one or more other creatures, it gets +1/+0 until end of turn and deals 1 damage to each opponent.
+
+Herald of Disorder
+rules_text: When this creature enters, you may have it deal 1 damage to each player.
+Whenever you attack, if you have 10 or fewer life or if you lost life this turn, target creature gets +1/+1 and menace until end of turn. => When this creature enters, you may have it deal 1 damage to each player.
+[i]Bedlam[/i] — Whenever you attack, if you have 10 or fewer life or if you lost life this turn, target creature gets +1/+1 and menace until end of turn.
+
+Anguished Warbringer
+rules_text: Haste
+Whenever this creature attacks, if you have 10 or less life, it gets +1/+0 and gains trample until end of turn. Otherwise, you may pay 1 life. If you do, it gets +1/+0 and gains trample until end of turn. => Haste
+[i]Bedlam[/i] — Whenever this creature attacks, if you have 10 or less life, it gets +1/+0 and gains trample until end of turn. Otherwise, you may pay 1 life. If you do, it gets +1/+0 and gains trample until end of turn.
+
+Pain Manifestor
+rules_text: Flying, menace
+As long as you have 10 or more life, other creatures you control have “At the beginning of your upkeep, you lose 1 life unless you pay {1} or tap this creature”
+As long as you have 10 or less life, other creatures you control get +2/+1. => Flying, menace
+As long as you have 10 or more life, other creatures you control have “At the beginning of your upkeep, you lose 1 life unless you pay {1} or tap this creature”
+[i]Bedlam[/i] — As long as you have 10 or less life, other creatures you control get +2/+1.
+
+Wind Magus
+rules_text: When this creature enters, you gain 2 life and scry 1.
+Whenever you expend 3, you may exile this creature and return it onto the battlefield under its owner's control. [i](You expend 3 as you spend your third total mana to cast spells during a turn.)[/i] => When this creature enters, you gain 2 life and scry 1.
+[i]Innovate 3[/i] — At the beginning of your end step, if you've cast another spell with mana value 3 or greater, you may exile this creature and return it onto the battlefield under its owner's control.
+
+Summit Voyager
+rules_text: Flying
+Whenever you expend 4, target creature you control explores. [i](You expend 4 as you spend your fourth total mana to cast spells during a turn.)[/i] => Flying
+Innovate 2 — At the beginning of your end step, if you've cast another spell with mana value 2 or greater, target creature you control explores.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Gale Banisher added.

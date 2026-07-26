@@ -1526,7 +1526,7 @@
 			}
 		},
 		{
-			"name": "Monestary Overseer",
+			"name": "Monastery Overseer",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}{U}",
 			"type": "Creature — Bird Wizard Warrior",
@@ -1626,7 +1626,7 @@
 	4 Sylph Monastery
 	4 Ruined Labratory
 	4 Hidden Conclave
-	4 Monestary Overseer
+	4 Monastery Overseer
 [common(6)]
 	8 Treetop Scout
 	8 Magmir's Wrath
@@ -1903,7 +1903,7 @@
 	6 Sylph Monastery
 	6 Ruined Labratory
 	6 Hidden Conclave
-	6 Monestary Overseer
+	6 Monastery Overseer
 [wildcard(1)]
 	15 Undersea Expedition
 	7 Soulsear Amulet
@@ -2054,4 +2054,4 @@
 	15 Sylph Monastery
 	15 Ruined Labratory
 	15 Hidden Conclave
-	15 Monestary Overseer
+	15 Monastery Overseer

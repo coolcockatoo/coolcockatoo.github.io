@@ -1,4 +1,103 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Storming Cliffs added.
+Grim Hunter added.
+Reckless Greed added.
+Conclave Rites added.
+Forest Predator added.
+Flatlands Rebel added.
+Reckless Impulse added.
+Flatlands Enforcer added.
+Wartime Captain added.
+Flatlands Champion added.
+
+Storming Cliff removed.
+
+Dreadful Lurker
+rules_text: [i]Unworldly 5[/i] — This spell costs {2} less to cast if you own five or more cards in exile.
+When this creature enters, exile the top three cards of your library. Choose a card exiled this way. For as long as it remains exiled, you may cast it. => [i]Unworldly 3[/i] — This spell costs {2} less to cast if you own five or more cards in exile.
+When this creature enters, exile the top three cards of your library. Choose a card exiled this way. For as long as it remains exiled, you may cast it.
+
+Treetop Hunter
+rules_text: Reach
+[i]Landfall[/i] — Whenever a land you control enters, untap target creature. => Reach
+[i]Landfall[/i] — Whenever a land you control enters, choose one:
+• You may exile two cards from your graveyard. If you do, create a Food token.
+• Untap target creature.
+
+Battleflow Mage
+pt: 1/4 => 2/4
+
+Diresight Seer
+rules_text: This creature can't block.
+Sacrifice another creature: Diresight Seer explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i] => Diresight Seer can't block.
+Sacrifice another creature: Diresight Seer explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+
+Treetop Warpainter
+rules_text: Reach
+When this or another nontoken creature you control enters, create a Food token.
+{1}{BG}, Sacrifice a token: Put a +1/+1 counter on target creature. It gains your choice of menace or trample until end of turn. Activate only as a sorcery. => Reach
+When this or another nontoken creature you control enters, you may exile a card from your graveyard. If you do, create a Food token.
+{1}{BG}, Sacrifice a token: Put a +1/+1 counter on target creature. It gains your choice of menace or trample until end of turn. Activate only as a sorcery.
+
+Flatlands Smith
+type: Creature — Giant => Creature — Human
+rules_text: [i]Solidarity[/i] — Whenever this creature attacks with one or more other creatures, it gets +1/+0 until end of turn and deals 1 damage to each opponent. => [i]Solidarity[/i] — Whenever this creature attacks with one or more other creatures, target creature you control gets +1/+0 until end of turn.
+
+Lord Ego's Wrath
+rules_text: Each opponent sacrifices a nontoken creature. 
+[i]Unworldly 5[/i] — You may exile a card from your graveyard. If you do and you own five or more cards in exile, put up to one target creature card from your graveyard to your hand. => Each opponent sacrifices a nontoken creature. 
+[i]Unworldly 4[/i] — You may exile a card from your graveyard. If you do and you own five or more cards in exile, put up to one target creature card from your graveyard to your hand.
+
+Cleansing Priest
+rules_text: When this creature enters, surveil 2, then you may exile a card from your graveyard.
+Whenever you exile one or more nonland cards from your graveyard or library, each opponent loses 1 life and you gain 1 life. This ability only triggers once each turn. => When this creature enters, surveil 2, then you may exile a card from your graveyard.
+Whenever you exile one or more cards from your graveyard or library, each opponent loses 1 life and you gain 1 life. This ability only triggers once each turn.
+pt: 2/3 => 2/2
+
+High Cultist Elacloni
+rules_text: At the beginning of your end step, you may exile a nonland card from your graveyard. If you do, create a 1/1 white and black Human Warlock creature token.
+[i]Unworldly 15[/i] — {T}, Sacrifice another creature: The next spell you cast this turn has affinity cards you own in exile. Only activate as a sorcery and if you own fifteen or more cards in exile. => At the beginning of your end step, you may exile two cards from your graveyard. If you do, create a 1/1 white and black Human Warlock creature token.
+[i]Unworldly 10[/i] — {T}, Sacrifice another creature: The next spell you cast this turn has affinity for nonland permanents you control. Only activate as a sorcery and if you own ten or more cards in exile.
+
+Wild Nurturer
+rules_text: When this creature enters, search your library for a basic land card, put it onto the battlefield tapped, then shuffle. => When this creature enters, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+{1}{G}, Exile this card and two other cards from your graveyard: Put a +1/+1 counter on target creature you control.
+pt: 3/3 => 2/4
+
+Hidden Cultist
+rules_text: When this creature enters, exile the top two cards of your library. You lose 1 life.
+[i]Unworldly 5[/i] — As long as you own five or more cards in exile, this creature has menace. => When this creature enters, exile the top two cards of your library. You lose 1 life.
+[i]Unworldly 4[/i] — As long as you own five or more cards in exile, this creature has menace.
+
+Collapse Into Darkness
+rules_text: Target creature gets -3/-3 until end of turn. 
+[i]Unworldly 5[/i] — If you own five or more cards in exile, exile that creature instead. => Target creature gets -3/-3 until end of turn. 
+[i]Unworldly 3[/i] — If you own five or more cards in exile, exile that creature instead.
+
+Master Illusionist
+rules_text: You may have this creature enter as a copy of any creature on the battlefield, except it has “Whenever you expend 4, create a token that's a copy of this creature, except it doesn't have this ability”. [i](You expend 4 as you spend your fourth total mana to cast spells during a turn.)[/i] => You may have Master Illusionist enter the battlefield as a copy of any creature on the battlefield, except it has “[i]Innovate[/i] — At the beginning of your end step, if you've cast a spell with mana value 3 or greater, create a token that's a copy of this creature, except the token doesn't have this ability.”
+
+Deep Woods Guardian
+rules_text: When this creature enters, mill 3 cards. You may put up to one permanent card milled this way into your hand. If you don't, create a Food token. => When this creature enters, mill three cards. 
+{4}{G}, Exile a card from your graveyard: Create a Food token.
+pt: 3/4 => 4/4
+
+Sylph Monastery
+rules_text: {T}, Pay 1 life: Add {W}
+{4}{W}, {T}: Target creature you control gains flying and vigilance until end of turn. => {T}, Pay 1 life: Add {W}
+{4}{W}, {T}: Target creature you control gains flying and vigilance until end of turn. Activate only as a sorcery.
+
+Star, At Journey's End
+
+Peer Past Reality
+rules_text: When this enchantment enters, exile the top three times X cards of your library. For as long as those cards remain exiled, you may cast them.
+[i]Unworldly 20[/i] — Whenever you cast a spell, target opponent loses 2 life and you gain 2 life if you own twenty or more cards in exile. => When Peer Past Reality enters, exile the top three times X cards of your library. For as long as those cards remain exiled, you may cast them.
+[i]Unworldly 12[/i] — Whenever you cast a spell, target opponent loses 2 life and you gain 2 life if you own twenty or more cards in exile.
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Immaculate Duplication added.

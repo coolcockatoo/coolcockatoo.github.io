@@ -1,4 +1,198 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Immaculate Duplication added.
+Storming Cliff added.
+The Seeker, Wandering added.
+Star, At Journey's End added.
+Peer Past Reality added.
+Knight of the Astral Gaze added.
+Reaper of the Expanse added.
+Treasure Gatherer added.
+Illuminated Vision added.
+Savor added.
+Frantic Torchbearer added.
+Cackling Scourge added.
+Widespread Burst added.
+Unholy Shattershot added.
+Bedlam Devil added.
+Mayhem Brawler added.
+Cruel Whim added.
+Hellkite Rampager added.
+
+Imacculate Duplication removed.
+
+Undersea Expedition
+rules_text: When this card enters, create a 1/1 blue Merfolk creature token. That creature token explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+At the beginning of your end step, you may exile three cards from your graveyard. If you do, return this card to its owner's hand. => When Undersea Expedition enters, create a 1/1 blue Merfolk creature token. That token explores [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+At the beginning of your end step, you may exile three cards from your graveyard. If you do, return Undersea Expedition to its owner's hand.
+
+Dreadful Lurker
+rules_text: [i]Unworldly 3[/i] — This spell costs {3} less to cast if you own three or more cards in exile.
+When this creature enters, exile the top three cards of your library. Choose a card exiled this way. For as long as it remains exiled, you may cast it. => [i]Unworldly 5[/i] — This spell costs {2} less to cast if you own five or more cards in exile.
+When this creature enters, exile the top three cards of your library. Choose a card exiled this way. For as long as it remains exiled, you may cast it.
+
+Fabled Tutor
+
+Worn Scythe
+type: Artifact => Artifact — Equipment
+
+Magmir, Scorching Overlord
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, this creature deals 1 damage to each opponent. If this is the second time this ability has triggered this turn, each opponent sacrifices a creature at random unless they discard a card.
+Whenever an opponent discards a land card, draw a card. => [i]Landfall[/i] — Whenever a land enters under your control, Magmir deals 1 damage to each opponent. If this is the second time this ability has resolved this turn, each opponent sacrifices a creature at random unless they discard a card.
+Whenever an opponent discards a land card, draw a card.
+
+Alaric, King of Humanity
+rules_text: At the beginning of combat on your turn, choose up to X, where X is the number of historic permanents you control. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+• Put a +1/+1 counter on each creature you control.
+• You gain 1 life for each historic permanent you control.
+• Look at the top X cards of your library, where X is the amount of historic permanents you control. Put one into your hand and the rest on the bottom of your library in a random order. => At the beginning of combat on your turn, choose up to X modes, where X is the number of historic permanents you control.
+• Put a +1/+1 counter on each creature you control.
+• You gain 1 life for each historic permanent you control.
+• Look at the top X cards of your library, where X is the amount of historic permanents you control. Put one into your hand and the rest on the bottom of your library in a random order.
+
+Monarch of the Deep
+rules_text: Whenever an Island you control enters, tap target nonland permanent you don't control. Put a stun counter on it.
+At the beginning of your end step, create a tapped blue X/X Leviathan token, where X is the number of tapped nonland permanents target opponent controls. => Whenever an Island enters under your control, tap target nonland permanent an opponent controls. Put a stun counter on it.
+At the beginning of your end step, create a tapped blue Leviathan creature token with power and toughness each equal to the number of tapped nonland permanents target opponent controls.
+
+Stormbrewer Mage
+rules_text: When Stormbrewer Mage enters, if it was cast, search your library for an instant or sorcery spell, put it in your graveyard, then shuffle.
+Boast — {1}{U}: Target instant or sorcery spell in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. [i](Activate only if this creature attacked this turn and only once each turn.)[/i] => When Stormbrewer Mage enters, if it was cast, search your library for an instant or sorcery card, put it in your graveyard, then shuffle.
+Boast — {1}{U}: Target instant or sorcery spell in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]
+
+Shield of Civilization
+rules_text: When this creature enters, look at the top X cards of your library, where X is 2 plus the number of historic permanents you control. You may reveal a card among them and put it into your hand. Put the rest onto the bottom of your library in a random order.
+Whenever another historic permanent you control enters, put a +1/+1 counter on this creature. => When Shield of Civilization enters, look at the top X cards of your library, where X is 2 plus the number of historic permanents you control. You may reveal a card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+Whenever another historic permanent you control enters, put a +1/+1 counter on Shield of Civilization.
+
+Reign of the Goblin King
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 1/1 green Goblin creature token and a Food token.
+II — Put a +1/+1 counter on each creature you control.
+III — Search your library for a basic Forest card, put it onto the battlefield tapped, then shuffle your library. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 1/1 green Goblin creature token and a Food token.
+II — Put a +1/+1 counter on target creature you control.
+III — Search your library for a basic Forest card, put it onto the battlefield tapped, then shuffle your library.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 1/1 green Goblin creature token and a Food token.
+II — Put a +1/+1 counter on each creature you control.
+III — Search your library for a basic Forest card, put it onto the battlefield tapped, then shuffle your library. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 1/1 green Goblin creature token and a Food token.
+II — Put a +1/+1 counter on target creature you control.
+III — Search your library for a basic Forest card, put it onto the battlefield tapped, then shuffle your library.
+
+Lord Ego's Wrath
+rules_text: Each opponent sacrifices a nontoken creature. 
+[i]Unworldly 3[/i] — You may exile a nonland card from your graveyard. If you do and you own three or more cards in exile, put up to one target creature card from your graveyard to your hand. => Each opponent sacrifices a nontoken creature. 
+[i]Unworldly 5[/i] — You may exile a card from your graveyard. If you do and you own five or more cards in exile, put up to one target creature card from your graveyard to your hand.
+
+Head Experimenter
+rules_text: When this creature enters, create an green Aura token attached to target creature you control named Constant Growth with “Enchant creature” and “At the beginning of your upkeep, put a +1/+1 counter on enchanted creature”. => When Head Experimenter enters, create a green Aura token named Constant Growth attached to target creature you control with “Enchant creature” and “At the beginning of your upkeep, put a +1/+1 counter on enchanted creature.”
+
+High Cultist Elacloni
+rules_text: At the beginning of your end step, you may exile a nonland card from your graveyard. If you do, create a 1/1 white and black Human Warlock creature token.
+[i]Unworldly 3[/i] — {T}, Sacrifice a creature: The next spell you cast this turn has affinity cards you own in exile. Only activate as a sorcery and if you own three or more cards in exile. => At the beginning of your end step, you may exile a nonland card from your graveyard. If you do, create a 1/1 white and black Human Warlock creature token.
+[i]Unworldly 15[/i] — {T}, Sacrifice another creature: The next spell you cast this turn has affinity cards you own in exile. Only activate as a sorcery and if you own fifteen or more cards in exile.
+
+Decipher the Ravings
+cost: {B} => {1}{B}
+rules_text: Look at the top two cards of your library. Put one into your hand and exile the rest.
+[i]Unworldly 2[/i] — You lose 1 life unless you own two or more cards in exile. => Look at the top three cards of your library. Put one into your hand and exile the rest.
+[i]Unworldly 3[/i] — You lose 2 life unless you own three or more cards in exile.
+
+Hidden Cultist
+rules_text: At the beginning of your upkeep, exile the top card of your library and lose 1 life.
+[i]Unworldly 4[/i] — As long as you own four or more cards in exile, this creature has menace. => When this creature enters, exile the top two cards of your library. You lose 1 life.
+[i]Unworldly 5[/i] — As long as you own five or more cards in exile, this creature has menace.
+
+Herald of Disorder
+rules_text: When this creature enters, you may have it deal 1 damage to each player.
+[i]Bedlam[/i] — Whenever you attack, if you have 10 or fewer life or if you lost life this turn, target creature gets +1/+1 and menace until end of turn. => When this creature enters, you may have it deal 1 damage to each player.
+[i]Bedlam[/i] — Whenever you attack, if you have 10 or less life or if you lost life this turn, target creature gets +1/+1 and menace until end of turn.
+
+Anguished Warbringer
+rules_text: Haste
+[i]Bedlam[/i] — Whenever this creature attacks, if you have 10 or less life, it gets +1/+0 and gains trample until end of turn. Otherwise, you may pay 1 life. If you do, it gets +1/+0 and gains trample until end of turn. => Haste
+[i]Bedlam[/i] — Whenever Anguished Warbringer attacks, if you lost life this turn or if have 10 or less life, it gets +1/+0 and gains trample until end of turn. Otherwise, you may pay 1 life. If you do, it gets +1/+0 and gains trample until end of turn.
+
+Vengeful Phantom
+rules_text: Flying
+This creature can't block.
+At the beginning of combat on your turn, you may exile two cards from your graveyard or pay {1}{B}. If you don't, tap this creature and it deals 1 damage to you. => Flying
+Vengeful Phantom can't block.
+At the beginning of combat on your turn, sacrifice Vengeful Phantom unless you exile two cards from your graveyard or pay {1}{B}.
+
+Suspicious Chapel
+rules_text: This land enters with a charge counter.
+{T}: Add {C}. Put a charge counter on this land.
+{T}, Remove a charge counter from this land: Add {W} or {B} => As this land enters, you may pay 1 life. If you do, it enters with a charge counter.
+{T}: Add {C}. Put a charge counter on this land.
+{T}, Remove a charge counter from this land: Add {W} or {B}
+
+Unstable Holm
+rules_text: This land enters with a charge counter.
+{T}: Add {C}. Put a charge counter on this land.
+{T}, Remove a charge counter from this land: Add {G} or {U} => As this land enters, you may pay 1 life. If you do, it enters with a charge counter.
+{T}: Add {C}. Put a charge counter on this land.
+{T}, Remove a charge counter from this land: Add {G} or {U}
+
+Armored City
+rules_text: This land enters with a charge counter.
+{T}: Add {C}. Put a charge counter on this land.
+{T}, Remove a charge counter from this land: Add {G} or {W} => As this land enters, you may 1 life. If you do, it enters with a charge counter.
+{T}: Add {C}. Put a charge counter on this land.
+{T}, Remove a charge counter from this land: Add {G} or {W}
+
+Hollow Metropolis
+rules_text: This land enters with a charge counter.
+{T}: Add {C}. Put a charge counter on this land.
+{T}, Remove a charge counter from this land: Add {U} or {B} => As this land enters, you may pay 1 life. If you do, it enters with a charge counter.
+{T}: Add {C}. Put a charge counter on this land.
+{T}, Remove a charge counter from this land: Add {U} or {B}
+
+Illuminated Emberwood
+rules_text: This land enters with a charge counter.
+{T}: Add {C}. Put a charge counter on this land.
+{T}, Remove a charge counter from this land: Add {G} or {R} => As this land enters, you may pay 1 life. If you do, it enters with a charge counter.
+{T}: Add {C}. Put a charge counter on this land.
+{T}, Remove a charge counter from this land: Add {G} or {R}
+
+Collapse Into Darkness
+rules_text: Target creature gets -3/-3 until end of turn. 
+[i]Unworldly 3[/i] — If you own three or more cards in exile, exile that creature instead. => Target creature gets -3/-3 until end of turn. 
+[i]Unworldly 5[/i] — If you own five or more cards in exile, exile that creature instead.
+
+Reckless Devil
+rules_text: When this creature enters, it deals 1 damage to any target and 1 damage to you if you have 10 or more life. => When Reckless Devil enters, it deals 1 damage to any target. Then if you have 10 or more life, it deals 1 damage to you.
+
+Wind Magus
+rules_text: When this creature enters, you gain 2 life and scry 1.
+[i]Innovate 3[/i] — At the beginning of your end step, if you've cast another spell with mana value 3 or greater, you may exile this creature and return it onto the battlefield under its owner's control. => When this creature enters, you gain 2 life and scry 1.
+[i]Innovate[/i] — At the beginning of your end step, if you've cast another spell with mana value 3 or greater, you may exile this creature and return it onto the battlefield under its owner's control.
+
+Summit Voyager
+rules_text: Flying
+Innovate 2 — At the beginning of your end step, if you've cast another spell with mana value 2 or greater, target creature you control explores. => Flying
+Innovate — At the beginning of your end step, if you've cast another spell with mana value 3 or greater, target creature you control explores.
+
+Unlimited Gateway
+rules_text: Whenever you expend 4, you may search your library for a basic land card, exile it, then shuffle your library.
+{T}: For each land card exiled with this artifact, create a token that's a copy of it. Exile those tokens at the beginning of the next end step. Only activate as a sorcery. => [i]Innovate [/i]— At the beginning of your end step, if you've cast another spell with mana value 3 or greater, search your library for a basic land card, exile it, then shuffle your library.
+{T}: For each land card exiled with this artifact, create a token that's a copy of it. Exile those tokens at the beginning of the next end step. Only activate as a sorcery.
+
+Ruined Labratory
+rules_text: {T}, Pay 1 life: Add {G}
+{1}{G}, {T}: Put a +1/+1 counter on target creature you control that entered the battlefield this turn. => {T}, Pay 1 life: Add {G}
+{1}{G}, {T}: Put a +1/+1 counter on target creature you control that entered the battlefield this turn. Activate only as a sorcery.
+
+Monastery Overseer
+rules_text: Flying, vigilance
+[i]Innovative 4[/i] — At the beginning of your end step, if you've cast another spell with mana value 4 or greater, draw a card and gain 3 life. => Flying, vigilance
+[i]Innovative[/i] — At the beginning of your end step, if you've cast another spell with mana value 3 or greater, draw a card and gain 3 life.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Monastery Overseer added.

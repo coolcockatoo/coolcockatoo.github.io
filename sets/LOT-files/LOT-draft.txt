@@ -5,7 +5,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment",
-			"collector_number": "37",
+			"collector_number": "39",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/0.png"
 			}
@@ -15,7 +15,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Artifact",
-			"collector_number": "60",
+			"collector_number": "69",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/1.png"
 			}
@@ -25,7 +25,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human",
-			"collector_number": "107",
+			"collector_number": "120",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/2.png"
 			}
@@ -35,7 +35,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "75",
+			"collector_number": "86",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/3.png"
 			}
@@ -45,7 +45,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Merfolk",
-			"collector_number": "24",
+			"collector_number": "25",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/4.png"
 			}
@@ -55,7 +55,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Enchantment — Saga",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/5.png"
 			}
@@ -65,7 +65,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Horror Leviathan",
-			"collector_number": "53",
+			"collector_number": "58",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/6.png"
 			}
@@ -75,7 +75,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Instant",
-			"collector_number": "50",
+			"collector_number": "55",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/7.png"
 			}
@@ -85,7 +85,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Merfolk Rogue",
-			"collector_number": "63",
+			"collector_number": "72",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/8.png"
 			}
@@ -95,7 +95,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Creature — Merfolk",
-			"collector_number": "136",
+			"collector_number": "152",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/9.png"
 			}
@@ -105,7 +105,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Merfolk Wizard",
-			"collector_number": "34",
+			"collector_number": "35",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/10.png"
 			}
@@ -115,7 +115,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Creature — Merfolk",
-			"collector_number": "38",
+			"collector_number": "40",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/11.png"
 			}
@@ -135,7 +135,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "10",
+			"collector_number": "11",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/13.png"
 			}
@@ -155,7 +155,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "121",
+			"collector_number": "134",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/15.png"
 			}
@@ -165,7 +165,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Rat",
-			"collector_number": "55",
+			"collector_number": "60",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/16.png"
 			}
@@ -175,7 +175,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Goblin",
-			"collector_number": "90",
+			"collector_number": "103",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/17.png"
 			}
@@ -185,7 +185,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Creature — Treefolk",
-			"collector_number": "130",
+			"collector_number": "144",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/18.png"
 			}
@@ -195,7 +195,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}{R}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "134",
+			"collector_number": "150",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/19.png"
 			}
@@ -205,7 +205,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "82",
+			"collector_number": "93",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/20.png"
 			}
@@ -215,7 +215,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "25",
+			"collector_number": "26",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/21.png"
 			}
@@ -225,7 +225,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "36",
+			"collector_number": "37",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/22.png"
 			}
@@ -235,7 +235,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "81",
+			"collector_number": "92",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/23.png"
 			}
@@ -245,7 +245,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human",
-			"collector_number": "102",
+			"collector_number": "115",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/24.png"
 			}
@@ -255,7 +255,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/25.png"
 			}
@@ -264,8 +264,8 @@
 			"name": "Worn Scythe",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Artifact",
-			"collector_number": "112",
+			"type": "Artifact — Equipment",
+			"collector_number": "125",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/26.png"
 			}
@@ -275,7 +275,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Goblin Rogue",
-			"collector_number": "65",
+			"collector_number": "74",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/27.png"
 			}
@@ -285,7 +285,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{B}",
 			"type": "Creature — Spirit",
-			"collector_number": "59",
+			"collector_number": "65",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/28.png"
 			}
@@ -295,7 +295,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "11",
+			"collector_number": "12",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/29.png"
 			}
@@ -305,7 +305,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Creature — Human Shaman",
-			"collector_number": "108",
+			"collector_number": "121",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/30.png"
 			}
@@ -315,7 +315,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Elemental",
-			"collector_number": "74",
+			"collector_number": "85",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/31.png"
 			}
@@ -325,7 +325,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "106",
+			"collector_number": "119",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/32.png"
 			}
@@ -335,7 +335,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Elemental",
-			"collector_number": "73",
+			"collector_number": "84",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/33.png"
 			}
@@ -345,7 +345,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "84",
+			"collector_number": "96",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/34.png"
 			}
@@ -355,7 +355,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Treefolk",
-			"collector_number": "98",
+			"collector_number": "111",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/35.png"
 			}
@@ -365,17 +365,17 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Creature — Human Shaman",
-			"collector_number": "115",
+			"collector_number": "128",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/36.png"
 			}
 		},
 		{
-			"name": "Imacculate Duplication",
+			"name": "Immaculate Duplication",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Sorcery",
-			"collector_number": "122",
+			"collector_number": "136",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/37.png"
 			}
@@ -385,7 +385,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{R}{G}",
 			"type": "Legendary Creature — Elemental Noble",
-			"collector_number": "123",
+			"collector_number": "137",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/38.png"
 			}
@@ -395,7 +395,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "137",
+			"collector_number": "153",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/39.png"
 			}
@@ -435,7 +435,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Legendary Creature — Merfolk Noble",
-			"collector_number": "30",
+			"collector_number": "31",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/43.png"
 			}
@@ -445,7 +445,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Legendary Creature — Spirit Noble",
-			"collector_number": "61",
+			"collector_number": "70",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/44.png"
 			}
@@ -455,7 +455,7 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{R}",
 			"type": "Legendary Creature — Elemental Noble",
-			"collector_number": "78",
+			"collector_number": "89",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/45.png"
 			}
@@ -465,7 +465,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Legendary Creature — Goblin Noble",
-			"collector_number": "109",
+			"collector_number": "122",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/46.png"
 			}
@@ -475,7 +475,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "16",
+			"collector_number": "17",
 			"back": {
 				"name": "",
 				"type": "",
@@ -492,7 +492,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "31",
+			"collector_number": "32",
 			"back": {
 				"name": "",
 				"type": "",
@@ -509,7 +509,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "47",
+			"collector_number": "51",
 			"back": {
 				"name": "",
 				"type": "",
@@ -526,7 +526,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "95",
+			"collector_number": "108",
 			"back": {
 				"name": "",
 				"type": "",
@@ -543,7 +543,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "68",
+			"collector_number": "77",
 			"back": {
 				"name": "",
 				"type": "",
@@ -560,7 +560,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}{B}{B}",
 			"type": "Legendary Creature — Human Demon Noble",
-			"collector_number": "57",
+			"collector_number": "62",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/52.png"
 			}
@@ -570,7 +570,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Instant",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/53.png"
 			}
@@ -580,7 +580,7 @@
 			"rarity": "common",
 			"mana_cost": "{6}{W}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "12",
+			"collector_number": "13",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/54.png"
 			}
@@ -590,7 +590,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "15",
+			"collector_number": "16",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/55.png"
 			}
@@ -600,7 +600,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "33",
+			"collector_number": "34",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/56.png"
 			}
@@ -610,7 +610,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Creature — Human",
-			"collector_number": "26",
+			"collector_number": "27",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/57.png"
 			}
@@ -620,7 +620,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "147",
+			"collector_number": "163",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/58.png"
 			}
@@ -630,7 +630,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "23",
+			"collector_number": "24",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/59.png"
 			}
@@ -640,7 +640,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Merfolk Wizard",
-			"collector_number": "29",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/60.png"
 			}
@@ -650,7 +650,7 @@
 			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "51",
+			"collector_number": "56",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/61.png"
 			}
@@ -660,7 +660,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human",
-			"collector_number": "52",
+			"collector_number": "57",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/62.png"
 			}
@@ -670,7 +670,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Merfolk Rogue",
-			"collector_number": "49",
+			"collector_number": "54",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/63.png"
 			}
@@ -680,7 +680,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Elemental",
-			"collector_number": "79",
+			"collector_number": "90",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/64.png"
 			}
@@ -690,7 +690,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "80",
+			"collector_number": "91",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/65.png"
 			}
@@ -700,7 +700,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment — Saga",
-			"collector_number": "77",
+			"collector_number": "88",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/66.png"
 			}
@@ -710,7 +710,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "103",
+			"collector_number": "116",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/67.png"
 			}
@@ -720,7 +720,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Bard",
-			"collector_number": "97",
+			"collector_number": "110",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/68.png"
 			}
@@ -730,7 +730,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "85",
+			"collector_number": "98",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/69.png"
 			}
@@ -740,7 +740,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Saga",
-			"collector_number": "100",
+			"collector_number": "113",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/70.png"
 			}
@@ -750,7 +750,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Creature — Human Scientist",
-			"collector_number": "117",
+			"collector_number": "130",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/71.png"
 			}
@@ -760,7 +760,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Creature — Elemental Beast",
-			"collector_number": "127",
+			"collector_number": "141",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/72.png"
 			}
@@ -770,7 +770,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "135",
+			"collector_number": "151",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/73.png"
 			}
@@ -780,7 +780,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Creature — Merfolk Rogue",
-			"collector_number": "124",
+			"collector_number": "138",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/74.png"
 			}
@@ -790,7 +790,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "133",
+			"collector_number": "149",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/75.png"
 			}
@@ -800,7 +800,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}",
 			"type": "Legendary Creature — Human",
-			"collector_number": "132",
+			"collector_number": "148",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/76.png"
 			}
@@ -820,7 +820,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Creature — Giant Wizard",
-			"collector_number": "118",
+			"collector_number": "131",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/78.png"
 			}
@@ -830,7 +830,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Giant",
-			"collector_number": "70",
+			"collector_number": "79",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/79.png"
 			}
@@ -840,7 +840,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Elemental",
-			"collector_number": "83",
+			"collector_number": "95",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/80.png"
 			}
@@ -850,7 +850,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "72",
+			"collector_number": "83",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/81.png"
 			}
@@ -860,7 +860,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Creature — Dragon",
-			"collector_number": "76",
+			"collector_number": "87",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/82.png"
 			}
@@ -870,7 +870,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Elemental",
-			"collector_number": "105",
+			"collector_number": "118",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/83.png"
 			}
@@ -880,7 +880,7 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{G}",
 			"type": "Sorcery",
-			"collector_number": "125",
+			"collector_number": "139",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/84.png"
 			}
@@ -890,7 +890,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "71",
+			"collector_number": "82",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/85.png"
 			}
@@ -900,7 +900,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "96",
+			"collector_number": "109",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/86.png"
 			}
@@ -910,7 +910,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "99",
+			"collector_number": "112",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/87.png"
 			}
@@ -920,7 +920,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
 			"type": "Instant",
-			"collector_number": "18",
+			"collector_number": "19",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/88.png"
 			}
@@ -930,7 +930,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "58",
+			"collector_number": "63",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/89.png"
 			}
@@ -940,7 +940,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Instant",
-			"collector_number": "32",
+			"collector_number": "33",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/90.png"
 			}
@@ -950,7 +950,7 @@
 			"rarity": "common",
 			"mana_cost": "{X}{R}",
 			"type": "Instant",
-			"collector_number": "69",
+			"collector_number": "78",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/91.png"
 			}
@@ -960,7 +960,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G/U}",
 			"type": "Creature — Human Scientist",
-			"collector_number": "139",
+			"collector_number": "155",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/92.png"
 			}
@@ -970,7 +970,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Beast Horror",
-			"collector_number": "89",
+			"collector_number": "102",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/93.png"
 			}
@@ -980,7 +980,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Beast Mutant",
-			"collector_number": "91",
+			"collector_number": "104",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/94.png"
 			}
@@ -990,7 +990,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Beast Mutant",
-			"collector_number": "27",
+			"collector_number": "28",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/95.png"
 			}
@@ -1000,7 +1000,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Scientist",
-			"collector_number": "94",
+			"collector_number": "107",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/96.png"
 			}
@@ -1010,7 +1010,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "39",
+			"collector_number": "41",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/97.png"
 			}
@@ -1020,7 +1020,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Scientist",
-			"collector_number": "22",
+			"collector_number": "23",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/98.png"
 			}
@@ -1030,7 +1030,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "114",
+			"collector_number": "127",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/99.png"
 			}
@@ -1040,7 +1040,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Wizard Cleric",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/100.png"
 			}
@@ -1050,7 +1050,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Creature — Horror",
-			"collector_number": "62",
+			"collector_number": "71",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/101.png"
 			}
@@ -1060,7 +1060,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Legendary Creature — Human Warlock",
-			"collector_number": "120",
+			"collector_number": "133",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/102.png"
 			}
@@ -1070,7 +1070,7 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{B}",
 			"type": "Creature — Merfolk Rogue",
-			"collector_number": "129",
+			"collector_number": "143",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/103.png"
 			}
@@ -1080,7 +1080,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Legendary Creature — Human",
-			"collector_number": "131",
+			"collector_number": "147",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/104.png"
 			}
@@ -1090,7 +1090,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Instant",
-			"collector_number": "20",
+			"collector_number": "21",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/105.png"
 			}
@@ -1100,7 +1100,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Druid",
-			"collector_number": "111",
+			"collector_number": "124",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/106.png"
 			}
@@ -1110,7 +1110,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{6}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "43",
+			"collector_number": "46",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/107.png"
 			}
@@ -1118,9 +1118,9 @@
 		{
 			"name": "Decipher the Ravings",
 			"rarity": "common",
-			"mana_cost": "{B}",
+			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "48",
+			"collector_number": "53",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/108.png"
 			}
@@ -1130,7 +1130,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "56",
+			"collector_number": "61",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/109.png"
 			}
@@ -1140,7 +1140,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "45",
+			"collector_number": "49",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/110.png"
 			}
@@ -1150,7 +1150,7 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{G}",
 			"type": "Creature — Human Shaman",
-			"collector_number": "113",
+			"collector_number": "126",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/111.png"
 			}
@@ -1160,7 +1160,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "40",
+			"collector_number": "42",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/112.png"
 			}
@@ -1170,7 +1170,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Instant",
-			"collector_number": "42",
+			"collector_number": "45",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/113.png"
 			}
@@ -1180,7 +1180,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Creature — Demon Rogue",
-			"collector_number": "119",
+			"collector_number": "132",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/114.png"
 			}
@@ -1190,7 +1190,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "66",
+			"collector_number": "75",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/115.png"
 			}
@@ -1200,7 +1200,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Spirit",
-			"collector_number": "64",
+			"collector_number": "73",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/116.png"
 			}
@@ -1210,7 +1210,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Creature — Demon Warlock",
-			"collector_number": "128",
+			"collector_number": "142",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/117.png"
 			}
@@ -1220,7 +1220,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "148",
+			"collector_number": "165",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/118.png"
 			}
@@ -1230,7 +1230,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "150",
+			"collector_number": "167",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/119.png"
 			}
@@ -1240,7 +1240,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "142",
+			"collector_number": "158",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/120.png"
 			}
@@ -1250,7 +1250,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "144",
+			"collector_number": "160",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/121.png"
 			}
@@ -1260,7 +1260,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "145",
+			"collector_number": "161",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/122.png"
 			}
@@ -1280,7 +1280,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Artifact",
-			"collector_number": "140",
+			"collector_number": "156",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/124.png"
 			}
@@ -1290,7 +1290,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Artifact",
-			"collector_number": "110",
+			"collector_number": "123",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/125.png"
 			}
@@ -1300,7 +1300,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact",
-			"collector_number": "67",
+			"collector_number": "76",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/126.png"
 			}
@@ -1310,7 +1310,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Artifact",
-			"collector_number": "19",
+			"collector_number": "20",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/127.png"
 			}
@@ -1320,7 +1320,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact",
-			"collector_number": "41",
+			"collector_number": "43",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/128.png"
 			}
@@ -1330,7 +1330,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{X}{1}{G}",
 			"type": "Instant",
-			"collector_number": "104",
+			"collector_number": "117",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/129.png"
 			}
@@ -1340,7 +1340,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Artifact Creature — Golem Mutant",
-			"collector_number": "93",
+			"collector_number": "106",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/130.png"
 			}
@@ -1350,7 +1350,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Artifact — Equipment",
-			"collector_number": "92",
+			"collector_number": "105",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/131.png"
 			}
@@ -1360,7 +1360,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "21",
+			"collector_number": "22",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/132.png"
 			}
@@ -1370,7 +1370,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human",
-			"collector_number": "101",
+			"collector_number": "114",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/133.png"
 			}
@@ -1380,7 +1380,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "116",
+			"collector_number": "129",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/134.png"
 			}
@@ -1390,7 +1390,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "46",
+			"collector_number": "50",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/135.png"
 			}
@@ -1400,7 +1400,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{B}{B}",
 			"type": "Creature — Horror",
-			"collector_number": "54",
+			"collector_number": "59",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/136.png"
 			}
@@ -1410,7 +1410,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Enchantment",
-			"collector_number": "87",
+			"collector_number": "100",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/137.png"
 			}
@@ -1420,7 +1420,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "28",
+			"collector_number": "29",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/138.png"
 			}
@@ -1430,7 +1430,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "86",
+			"collector_number": "99",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/139.png"
 			}
@@ -1440,7 +1440,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Elemental",
-			"collector_number": "88",
+			"collector_number": "101",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/140.png"
 			}
@@ -1450,7 +1450,7 @@
 			"rarity": "common",
 			"mana_cost": "{B/R}",
 			"type": "Creature — Devil Rogue",
-			"collector_number": "138",
+			"collector_number": "154",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/141.png"
 			}
@@ -1460,7 +1460,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Elemental",
-			"collector_number": "44",
+			"collector_number": "48",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/142.png"
 			}
@@ -1470,7 +1470,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/143.png"
 			}
@@ -1480,7 +1480,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Bird Wizard",
-			"collector_number": "35",
+			"collector_number": "36",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/144.png"
 			}
@@ -1490,7 +1490,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "141",
+			"collector_number": "157",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/145.png"
 			}
@@ -1500,7 +1500,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "149",
+			"collector_number": "166",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/146.png"
 			}
@@ -1510,7 +1510,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "146",
+			"collector_number": "162",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/147.png"
 			}
@@ -1520,7 +1520,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "143",
+			"collector_number": "159",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/148.png"
 			}
@@ -1530,9 +1530,186 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}{U}",
 			"type": "Creature — Bird Wizard Warrior",
-			"collector_number": "126",
+			"collector_number": "140",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/149.png"
+			}
+		},
+		{
+			"name": "Storming Cliff",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/150.png"
+			}
+		},
+		{
+			"name": "The Seeker, Wandering",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/151.png"
+			}
+		},
+		{
+			"name": "Star, At Journey's End",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "146",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://coolcockatoo.github.io/sets/LOT-files/img/152_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/152_front.png"
+			}
+		},
+		{
+			"name": "Peer Past Reality",
+			"rarity": "rare",
+			"mana_cost": "{X}{B}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/153.png"
+			}
+		},
+		{
+			"name": "Knight of the Astral Gaze",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/154.png"
+			}
+		},
+		{
+			"name": "Reaper of the Expanse",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Spirit Horror",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/155.png"
+			}
+		},
+		{
+			"name": "Treasure Gatherer",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Merfolk",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/156.png"
+			}
+		},
+		{
+			"name": "Illuminated Vision",
+			"rarity": "common",
+			"mana_cost": "{X}{W}{U}",
+			"type": "Instant",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/157.png"
+			}
+		},
+		{
+			"name": "Savor",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/158.png"
+			}
+		},
+		{
+			"name": "Frantic Torchbearer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Beast",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/159.png"
+			}
+		},
+		{
+			"name": "Cackling Scourge",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/160.png"
+			}
+		},
+		{
+			"name": "Widespread Burst",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/161.png"
+			}
+		},
+		{
+			"name": "Unholy Shattershot",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/162.png"
+			}
+		},
+		{
+			"name": "Bedlam Devil",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Devil",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/163.png"
+			}
+		},
+		{
+			"name": "Mayhem Brawler",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Elemental",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/164.png"
+			}
+		},
+		{
+			"name": "Cruel Whim",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/165.png"
+			}
+		},
+		{
+			"name": "Hellkite Rampager",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/LOT-files/img/166.png"
 			}
 		}
 	]
@@ -1541,7 +1718,7 @@
 	2 Soulsear Amulet
 	2 Razing of the Flatlands
 	2 Fabled Tutor
-	2 Imacculate Duplication
+	2 Immaculate Duplication
 	2 Magmir, Scorching Overlord
 	2 Varan, Storm's Edge
 	2 Banishing Winds
@@ -1575,6 +1752,11 @@
 	1 Evergreen, Nature's Warden
 	2 Master Illusionist
 	2 Unlimited Gateway
+	2 The Seeker, Wandering
+	1 Star, At Journey's End
+	2 Peer Past Reality
+	2 Reaper of the Expanse
+	2 Treasure Gatherer
 [uncommon(3)]
 	4 Undersea Expedition
 	4 Expedition Leader
@@ -1627,6 +1809,11 @@
 	4 Ruined Labratory
 	4 Hidden Conclave
 	4 Monastery Overseer
+	4 Storming Cliff
+	4 Knight of the Astral Gaze
+	4 Cackling Scourge
+	4 Bedlam Devil
+	4 Hellkite Rampager
 [common(6)]
 	8 Treetop Scout
 	8 Magmir's Wrath
@@ -1690,6 +1877,13 @@
 	8 Deep Woods Guardian
 	8 Reckless Devil
 	8 Callous Skullgatherer
+	8 Illuminated Vision
+	8 Savor
+	8 Frantic Torchbearer
+	8 Widespread Burst
+	8 Unholy Shattershot
+	8 Mayhem Brawler
+	8 Cruel Whim
 [common | masterpiece(1)]
 	8 Treetop Scout
 	8 Magmir's Wrath
@@ -1753,6 +1947,13 @@
 	8 Deep Woods Guardian
 	8 Reckless Devil
 	8 Callous Skullgatherer
+	8 Illuminated Vision
+	8 Savor
+	8 Frantic Torchbearer
+	8 Widespread Burst
+	8 Unholy Shattershot
+	8 Mayhem Brawler
+	8 Cruel Whim
 [foil(1)]
 	6 Undersea Expedition
 	2 Soulsear Amulet
@@ -1791,7 +1992,7 @@
 	6 Volcanic Fault
 	12 Overgrowth Sentinel
 	12 Embervine Shaman
-	2 Imacculate Duplication
+	2 Immaculate Duplication
 	2 Magmir, Scorching Overlord
 	2 Varan, Storm's Edge
 	2 Banishing Winds
@@ -1904,6 +2105,23 @@
 	6 Ruined Labratory
 	6 Hidden Conclave
 	6 Monastery Overseer
+	6 Storming Cliff
+	2 The Seeker, Wandering
+	1 Star, At Journey's End
+	2 Peer Past Reality
+	6 Knight of the Astral Gaze
+	2 Reaper of the Expanse
+	2 Treasure Gatherer
+	12 Illuminated Vision
+	12 Savor
+	12 Frantic Torchbearer
+	6 Cackling Scourge
+	12 Widespread Burst
+	12 Unholy Shattershot
+	6 Bedlam Devil
+	12 Mayhem Brawler
+	12 Cruel Whim
+	6 Hellkite Rampager
 [wildcard(1)]
 	15 Undersea Expedition
 	7 Soulsear Amulet
@@ -1942,7 +2160,7 @@
 	15 Volcanic Fault
 	6 Overgrowth Sentinel
 	6 Embervine Shaman
-	7 Imacculate Duplication
+	7 Immaculate Duplication
 	7 Magmir, Scorching Overlord
 	7 Varan, Storm's Edge
 	7 Banishing Winds
@@ -2055,3 +2273,20 @@
 	15 Ruined Labratory
 	15 Hidden Conclave
 	15 Monastery Overseer
+	15 Storming Cliff
+	7 The Seeker, Wandering
+	4 Star, At Journey's End
+	7 Peer Past Reality
+	15 Knight of the Astral Gaze
+	7 Reaper of the Expanse
+	7 Treasure Gatherer
+	6 Illuminated Vision
+	6 Savor
+	6 Frantic Torchbearer
+	15 Cackling Scourge
+	6 Widespread Burst
+	6 Unholy Shattershot
+	15 Bedlam Devil
+	6 Mayhem Brawler
+	6 Cruel Whim
+	15 Hellkite Rampager

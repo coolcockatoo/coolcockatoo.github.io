@@ -1456,7 +1456,7 @@
 			}
 		},
 		{
-			"name": "Callous Skullgatherer",
+			"name": "Callous Skullhoarder",
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Elemental",
@@ -1971,7 +1971,7 @@
 	8 Claim the Harvest
 	8 Deep Woods Guardian
 	8 Reckless Devil
-	8 Callous Skullgatherer
+	8 Callous Skullhoarder
 	8 Illuminated Vision
 	8 Savor
 	8 Frantic Torchbearer
@@ -2045,7 +2045,7 @@
 	8 Claim the Harvest
 	8 Deep Woods Guardian
 	8 Reckless Devil
-	8 Callous Skullgatherer
+	8 Callous Skullhoarder
 	8 Illuminated Vision
 	8 Savor
 	8 Frantic Torchbearer
@@ -2200,7 +2200,7 @@
 	12 Claim the Harvest
 	12 Deep Woods Guardian
 	12 Reckless Devil
-	12 Callous Skullgatherer
+	12 Callous Skullhoarder
 	6 Wind Magus
 	6 Summit Voyager
 	2 Unlimited Gateway
@@ -2377,7 +2377,7 @@
 	6 Claim the Harvest
 	6 Deep Woods Guardian
 	6 Reckless Devil
-	6 Callous Skullgatherer
+	6 Callous Skullhoarder
 	15 Wind Magus
 	15 Summit Voyager
 	7 Unlimited Gateway

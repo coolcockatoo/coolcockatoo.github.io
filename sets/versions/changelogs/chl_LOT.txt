@@ -1,4 +1,37 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+Callous Skullhoarder added.
+
+Callous Skullgatherer removed.
+
+Dreadful Lurker
+rules_text: [i]Unworldly 3[/i] — This spell costs {2} less to cast if you own five or more cards in exile.
+When this creature enters, exile the top three cards of your library. Choose a card exiled this way. For as long as it remains exiled, you may cast it. => [i]Unworldly 3[/i] — This spell costs {2} less to cast if you own three or more cards in exile.
+When this creature enters, exile the top three cards of your library. Choose a card exiled this way. For as long as it remains exiled, you may cast it.
+
+Lord Ego's Wrath
+rules_text: Each opponent sacrifices a nontoken creature. 
+[i]Unworldly 4[/i] — You may exile a card from your graveyard. If you do and you own five or more cards in exile, put up to one target creature card from your graveyard to your hand. => Each opponent sacrifices a nontoken creature. 
+[i]Unworldly 4[/i] — You may exile a card from your graveyard. If you do and you own four or more cards in exile, put up to one target creature card from your graveyard to your hand.
+
+Hidden Cultist
+rules_text: When this creature enters, exile the top two cards of your library. You lose 1 life.
+[i]Unworldly 4[/i] — As long as you own five or more cards in exile, this creature has menace. => When this creature enters, exile the top two cards of your library. You lose 1 life.
+[i]Unworldly 4[/i] — As long as you own four or more cards in exile, this creature has menace.
+
+Collapse Into Darkness
+rules_text: Target creature gets -3/-3 until end of turn. 
+[i]Unworldly 3[/i] — If you own five or more cards in exile, exile that creature instead. => Target creature gets -3/-3 until end of turn. 
+[i]Unworldly 3[/i] — If you own three or more cards in exile, exile that creature instead.
+
+Peer Past Reality
+rules_text: When Peer Past Reality enters, exile the top three times X cards of your library. For as long as those cards remain exiled, you may cast them.
+[i]Unworldly 12[/i] — Whenever you cast a spell, target opponent loses 2 life and you gain 2 life if you own twenty or more cards in exile. => When Peer Past Reality enters, exile the top three times X cards of your library. For as long as those cards remain exiled, you may cast them.
+[i]Unworldly 12[/i] — Whenever you cast a spell, target opponent loses 2 life and you gain 2 life if you own twelve or more cards in exile.
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Storming Cliffs added.

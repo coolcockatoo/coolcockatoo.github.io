@@ -117,7 +117,7 @@ III — Destroy all creatures.</text>
 		</card>
 		<card>
 			<name>Dreadful Lurker</name>
-			<text>Unworldly 3 — This spell costs {2} less to cast if you own five or more cards in exile.
+			<text>Unworldly 3 — This spell costs {2} less to cast if you own three or more cards in exile.
 When this creature enters, exile the top three cards of your library. Choose a card exiled this way. For as long as it remains exiled, you may cast it.</text>
 			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/6.png" num="60">LOT</set>
 			<prop>
@@ -1719,7 +1719,7 @@ Destroy target creature.</text>
 		<card>
 			<name>Lord Ego&apos;s Wrath</name>
 			<text>Each opponent sacrifices a nontoken creature. 
-Unworldly 4 — You may exile a card from your graveyard. If you do and you own five or more cards in exile, put up to one target creature card from your graveyard to your hand.</text>
+Unworldly 4 — You may exile a card from your graveyard. If you do and you own four or more cards in exile, put up to one target creature card from your graveyard to your hand.</text>
 			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/89.png" num="66">LOT</set>
 			<prop>
 				<layout>normal</layout>
@@ -2069,7 +2069,7 @@ Unworldly 3 — You lose 2 life unless you own three or more cards in exile.</te
 		<card>
 			<name>Hidden Cultist</name>
 			<text>When this creature enters, exile the top two cards of your library. You lose 1 life.
-Unworldly 4 — As long as you own five or more cards in exile, this creature has menace.</text>
+Unworldly 4 — As long as you own four or more cards in exile, this creature has menace.</text>
 			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/109.png" num="64">LOT</set>
 			<prop>
 				<layout>normal</layout>
@@ -2528,7 +2528,7 @@ Whenever you cast a noncreature spell, put a +1/+1 counter on target creature yo
 		<card>
 			<name>Collapse Into Darkness</name>
 			<text>Target creature gets -3/-3 until end of turn. 
-Unworldly 3 — If you own five or more cards in exile, exile that creature instead.</text>
+Unworldly 3 — If you own three or more cards in exile, exile that creature instead.</text>
 			<set rarity="uncommon" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/135.png" num="51">LOT</set>
 			<prop>
 				<layout>normal</layout>
@@ -2647,7 +2647,7 @@ Create a Food token.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Callous Skullgatherer</name>
+			<name>Callous Skullhoarder</name>
 			<text>Whenever another nontoken creature you control dies, create a Food token.
 Whenever you sacrifice a token, target opponent loses 1 life.</text>
 			<set rarity="common" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/142.png" num="49">LOT</set>
@@ -2860,7 +2860,7 @@ At the beginning of combat on your turn, if you control four other historic perm
 		<card>
 			<name>Peer Past Reality</name>
 			<text>When Peer Past Reality enters, exile the top three times X cards of your library. For as long as those cards remain exiled, you may cast them.
-Unworldly 12 — Whenever you cast a spell, target opponent loses 2 life and you gain 2 life if you own twenty or more cards in exile.</text>
+Unworldly 12 — Whenever you cast a spell, target opponent loses 2 life and you gain 2 life if you own twelve or more cards in exile.</text>
 			<set rarity="rare" picurl="https://coolcockatoo.github.io/sets/LOT-files/img/153.png" num="69">LOT</set>
 			<prop>
 				<layout>normal</layout>

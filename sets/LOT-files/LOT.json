@@ -141,7 +141,7 @@
             "number": 60,
             "color_identity": "B",
             "cost": "{4}{B}{B}",
-            "rules_text": "[i]Unworldly 3[/i] \u2014 This spell costs {2} less to cast if you own five or more cards in exile.\nWhen this creature enters, exile the top three cards of your library. Choose a card exiled this way. For as long as it remains exiled, you may cast it.",
+            "rules_text": "[i]Unworldly 3[/i] \u2014 This spell costs {2} less to cast if you own three or more cards in exile.\nWhen this creature enters, exile the top three cards of your library. Choose a card exiled this way. For as long as it remains exiled, you may cast it.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -1944,7 +1944,7 @@
             "number": 66,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "Each opponent sacrifices a nontoken creature. \n[i]Unworldly 4[/i] \u2014 You may exile a card from your graveyard. If you do and you own five or more cards in exile, put up to one target creature card from your graveyard to your hand.",
+            "rules_text": "Each opponent sacrifices a nontoken creature. \n[i]Unworldly 4[/i] \u2014 You may exile a card from your graveyard. If you do and you own four or more cards in exile, put up to one target creature card from your graveyard to your hand.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2364,7 +2364,7 @@
             "number": 64,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "When this creature enters, exile the top two cards of your library. You lose 1 life.\n[i]Unworldly 4[/i] \u2014 As long as you own five or more cards in exile, this creature has menace.",
+            "rules_text": "When this creature enters, exile the top two cards of your library. You lose 1 life.\n[i]Unworldly 4[/i] \u2014 As long as you own four or more cards in exile, this creature has menace.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -2910,7 +2910,7 @@
             "number": 51,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Target creature gets -3/-3 until end of turn. \n[i]Unworldly 3[/i] \u2014 If you own five or more cards in exile, exile that creature instead.",
+            "rules_text": "Target creature gets -3/-3 until end of turn. \n[i]Unworldly 3[/i] \u2014 If you own three or more cards in exile, exile that creature instead.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3050,7 +3050,7 @@
             "notes": ""
         },
         {
-            "card_name": "Callous Skullgatherer",
+            "card_name": "Callous Skullhoarder",
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2014 Elemental",
@@ -3300,7 +3300,7 @@
             "number": 69,
             "color_identity": "B",
             "cost": "{X}{B}{B}{B}",
-            "rules_text": "When Peer Past Reality enters, exile the top three times X cards of your library. For as long as those cards remain exiled, you may cast them.\n[i]Unworldly 12[/i] \u2014 Whenever you cast a spell, target opponent loses 2 life and you gain 2 life if you own twenty or more cards in exile.",
+            "rules_text": "When Peer Past Reality enters, exile the top three times X cards of your library. For as long as those cards remain exiled, you may cast them.\n[i]Unworldly 12[/i] \u2014 Whenever you cast a spell, target opponent loses 2 life and you gain 2 life if you own twelve or more cards in exile.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3776,5 +3776,5 @@
             "notes": ""
         }
     ],
-    "version": 6
+    "version": 7
 }

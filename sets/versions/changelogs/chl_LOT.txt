@@ -1,4 +1,87 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+Spreading Pandemonium added.
+Bram, Evergreen's Warder added.
+
+
+Delve too Deep
+cost: {3}{B} => {2}{B}
+rules_text: Until end of turn, target creature you don't control gets -1/-1 for each card in your graveyard and for each card you own in exile.
+Swampcycling {2} [i]({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i] => Until end of turn, target creature you don't control gets -1/-1 for each card in your graveyard and for each card you own in exile. If a creature would die this way, exile it instead.
+Swampcycling {2} [i]({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Gale Banisher
+rules_text: Boast — {2}{U}: Exile another target creature you control, then return it to the battlefield tapped under its owner's control. [i](Activate only if this creature attacked this turn and only once each turn.)[/i] => Boast — {2}{U}: Exile another target creature you control, then return it to the battlefield under its owner's control. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]
+
+Herald of Disorder
+rules_text: When this creature enters, you may have it deal 1 damage to each player.
+[i]Bedlam[/i] — Whenever you attack, if you have 10 or less life or if you lost life this turn, target creature gets +1/+1 and menace until end of turn. => When this creature enters, you may have it deal 1 damage to each player.
+[i]Bedlam[/i] — Whenever you attack, if a player lost life this turn or if a player has 10 or less life, target creature gets +1/+1 and menace until end of turn.
+
+Anguished Warbringer
+rules_text: Haste
+[i]Bedlam[/i] — Whenever Anguished Warbringer attacks, if you lost life this turn or if have 10 or less life, it gets +1/+0 and gains trample until end of turn. Otherwise, you may pay 1 life. If you do, it gets +1/+0 and gains trample until end of turn. => Haste
+[i]Bedlam[/i] — Whenever Anguished Warbringer attacks, if a player lost life this turn or if a player 10 or less life, it gets +1/+0 and gains trample until end of turn. Otherwise, you may pay 1 life. If you do, it gets +1/+0 and gains trample until end of turn.
+
+Pain Manifestor
+cost: {2}{B}{R} => {3}{B}{R}
+rules_text: Flying, menace
+As long as you have 10 or more life, other creatures you control have “At the beginning of your upkeep, you lose 1 life unless you pay {1} or tap this creature”
+[i]Bedlam[/i] — As long as you have 10 or less life, other creatures you control get +2/+1. => At the beginning of each upkeep, create a 1/1 red Devil creature token with haste, and “This creature can't block and attacks each combat if able”.
+[i]Bedlam[/i] — Devil and Demon creatures you control get +2/+1 if a player lost life this turn or if a player has 10 or less life.
+pt: 5/4 => 3/2
+
+Summit Voyager
+rules_text: Flying
+Innovate — At the beginning of your end step, if you've cast another spell with mana value 3 or greater, target creature you control explores. => Flying
+[i]Innovate[/i] — At the beginning of your end step, if you've cast another spell with mana value 3 or greater, target creature you control explores.
+
+Monastery Overseer
+rules_text: Flying, vigilance
+[i]Innovative[/i] — At the beginning of your end step, if you've cast another spell with mana value 3 or greater, draw a card and gain 3 life. => Flying, vigilance
+[i]Innovate[/i] — At the beginning of your end step, if you've cast another spell with mana value 3 or greater, draw a card and gain 3 life.
+
+Frantic Torchbearer
+rules_text: Haste
+[i]Bedlam[/i] — Whenever Frantic Torchbearer attacks, if you lost life this turn of if you have 10 or less life, it and up to one other target creature you control gets +1/+0 until end of turn. => Haste
+[i]Bedlam[/i] — Whenever Frantic Torchbearer attacks, if a player lost life this turn or if a player has 10 or less life, it and up to one other target creature you control gets +1/+0 until end of turn.
+
+Cackling Scourge
+rules_text: [i]Bedlam[/i] — When Cackling Scourge enters, if you lost life this turn or if you have 10 or less life, return target creature card with mana value 3 or less from your graveyard to the battlefield with a finality counter => [i]Bedlam[/i] — When Cackling Scourge enters, if a player lost life this turn or if a player has 10 or less life, return target creature card with mana value 3 or less from your graveyard to the battlefield with a finality counter
+
+Widespread Burst
+rules_text: Widespread Burst deals 4 damage to target creature and 2 damage to you.
+Draw a card. => Widespread Burst deals 4 damage to target creature.
+You may have Widespread Burst deal 2 damage to you. If you do, draw a card.
+
+Unholy Shattershot
+rules_text: Unholy Shattershot deals 2 damage to any target. 
+[i]Bedlam[/i] — If you lost life this turn or if you have 10 or less life, it deals 3 damage instead and you scry 1. => Unholy Shattershot deals 2 damage to any target. 
+[i]Bedlam[/i] — If a player lost life this turn or if a player has 10 or less life, it deals 3 damage instead and you scry 1.
+
+Bedlam Devil
+rules_text: Flying
+[i]Bedlam[/i] — Whenever Bedlam Devil attacks, if you lost life this turn or if you have 10 or less life, target opponent loses 1 life and you gain 1 life. => Flying
+[i]Bedlam[/i] — Whenever Bedlam Devil attacks, if a player lost life this turn or if a player has 10 or less life, target opponent loses 1 life and you gain 1 life.
+
+Mayhem Brawler
+rules_text: When Mayhem Brawler enters, it deals 1 damage to you.
+[i]Bedlam[/i] — As long as you've lost life this turn or if you have 10 or less life, this creature gets +1/+0 and has menace. => When Mayhem Brawler enters, it deals 1 damage to you.
+[i]Bedlam[/i] — As long as a player has lost life this turn or if a player has 10 or less life, this creature gets +1/+0 and has menace.
+
+Cruel Whim
+rules_text: Destroy target creature with mana value 3 or less.
+[i]Bedlam[/i] — If you lost life this turn or if you have 10 or less life, destroy that creature instead. => Destroy target creature with mana value 3 or less.
+[i]Bedlam[/i] — If a player lost life this turn or if a player has 10 or less life, destroy that creature instead.
+
+Hellkite Rampager
+rules_text: Flying
+[i]Bedlam[/i] — Whenever this creature attacks, target creature can't block this turn if you've lost life this turn or if you have 10 or less life. => Flying
+[i]Bedlam[/i] — Whenever this creature attacks, target creature can't block this turn if a player lost life this turn or if a player has 10 or less life.
+
+
+VERSION 8 CHANGELOG
 ====================
 
 City Smith added.

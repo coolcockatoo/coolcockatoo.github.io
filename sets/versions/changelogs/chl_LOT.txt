@@ -1,4 +1,95 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+City Smith added.
+Gluttonous Bite added.
+Valiant Sage added.
+Gallant Commander added.
+Overcome Wickedness added.
+Close the Gap added.
+Drown in Despair added.
+Courageous Battalion added.
+Auspicious Breakthrough added.
+Monestary Scribe added.
+Dismissive Whim added.
+Defiant Retaliation added.
+Damn the Unhallowed added.
+Mentor of the Devoted added.
+Vivid Rift added.
+Shrouded Sea added.
+City Hub added.
+Testing Facility added.
+Jungle Mausoleum added.
+Turmoil Pit added.
+Wartorn Plateau added.
+Burning Forest added.
+Warped Reach added.
+Grand Sanctum added.
+Eternity Herald added.
+Eternity Seer added.
+Visions of Hubris added.
+Deliver Into Enternity added.
+Monestary Sky Knight added.
+Monastery Custodian added.
+Deathless Savant added.
+Matrix Overload added.
+
+Flatlands Smith removed.
+Savor removed.
+
+Undersea Cuthroat
+rules_text: Menace
+When this creature enters, you may mill three cards.
+Whenever this creature deals combat damage to a player, you may exile a nonland card from your graveyard. If you do, this creature explores.
+[i]“The mysterious depths beckon many.”[/i] => Menace
+When this creature enters, you may mill three cards.
+Whenever this creature deals combat damage to a player, you may exile a card from your graveyard. If you do, this creature explores.
+[i]“The mysterious depths beckon many.”[/i]
+
+Virtuous Defender
+cost: {1}{W}{W} => {2}{W}
+
+Battleflow Mage
+cost: {1}{U}{U} => {2}{U}
+rules_text: Vigilance
+Whenever you activate the boast ability of a creature, draw a card.
+Boast — {3}{U}: Scry 1 [i](Activate only if this creature attacked this turn and only once each turn.)[/i] => Vigilance
+Whenever you activate the boast ability of a creature, draw a card.
+Boast — {3}{U}: Scry 1. Battleflow Mage gets +1/+0 until end of turn. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]
+pt: 2/4 => 1/4
+
+Lord Ego's Wrath
+rules_text: Each opponent sacrifices a nontoken creature. 
+[i]Unworldly 4[/i] — You may exile a card from your graveyard. If you do and you own four or more cards in exile, put up to one target creature card from your graveyard to your hand. => Each opponent sacrifices a nontoken creature. 
+[i]Unworldly 4[/i] — You may exile two cards from your graveyard. If you do and you own four or more cards in exile, put up to one target creature card from your graveyard to your hand.
+
+Purifier Exarch
+rules_text: At the beginning of combat on your turn, you may exile a nonland card from your graveyard or pay {1}{W}. If you do, put a +1/+1 counter on target creature you control. => At the beginning of combat on your turn, you may exile a card from your graveyard or pay {1}{W}. If you do, put a +1/+1 counter on target creature you control.
+
+Vengeful Phantom
+rules_text: Flying
+Vengeful Phantom can't block.
+At the beginning of combat on your turn, sacrifice Vengeful Phantom unless you exile two cards from your graveyard or pay {1}{B}. => Flying
+Vengeful Phantom can't block.
+At the beginning of your precombat main phase, sacrifice Vengeful Phantom unless you exile two cards from your graveyard or pay {1}{B}.
+
+Knight of the Astral Gaze
+rules_text: When this creature enters, exile target player's graveyard.
+[i]Unworldly 8[/i] — As long as you own eight or more cards in exile, this creature is black in addition to its other colors, gets +2/+1 and has “Ward {2}.” => When this creature enters, exile target player's graveyard.
+[i]Unworldly 5[/i] — As long as you own five or more cards in exile, this creature is black in addition to its other colors, gets +2/+1 and has “Ward {2}.”
+
+Reaper of the Expanse
+cost: {B}{B} => {1}{B}
+
+Illuminated Vision
+cost: {X}{W}{U} => {1}{W}{U}
+rules_text: You gain X life, scry 2, then draw a card. => You gain 3 life, scry 2, then draw a card.
+
+Widespread Burst
+cost: {1}{R}{R} => {2}{R}
+
+
+VERSION 7 CHANGELOG
 ====================
 
 Callous Skullhoarder added.

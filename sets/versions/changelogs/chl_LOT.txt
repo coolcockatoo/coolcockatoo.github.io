@@ -1,4 +1,290 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+Zola, Ancient Shaman added.
+Moltenspine Dragon added.
+Inconspicuous Bite added.
+Warfarer Captain added.
+Vaelen, the Smuggler added.
+Chronicle Reteller added.
+Wartime Prototype added.
+Sky-Gate Grandmaster added.
+Hubris' Finality added.
+Nourished Lich added.
+Architect Envoy added.
+Constant Growth added.
+Hungering Flytraps added.
+Arcane Engineer added.
+Stratus Drifter added.
+Temporal Horizon added.
+Primal Resurgence added.
+Baptize in Bedlam added.
+Zale, Hadal Explorer added.
+Stormspire Dragon added.
+Vorthos, Peak-Rager added.
+Bramble Arena added.
+Turbulor, Ego's Confidant added.
+
+Treetop Shaman removed.
+Moltenspire Dragon removed.
+Gluttonous Bite removed.
+Wartime Captain removed.
+City Smuggler removed.
+
+Magmir's Wrath
+cost: {R} => {1}{R}
+rules_text: Magmir's Wrath deals 2 damage to target creature.If you control six or more lands, it deals 4 damage instead. => Magmir's Wrath deals 3 damage to target creature.If you control six or more lands, it deals 6 damage instead.
+
+Stormsurge Brawler
+cost: {1}{R}{R} => {2}{R}
+pt: 3/3 => 3/2
+
+Stalwart Fighters
+rules_text: When this creature enters, choose one:
+• Return target historic card from your graveyard into your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+• Create two Food tokens. => When this creature enters, choose one:
+• Return target historic card from your graveyard into your hand. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+• Create two Clue tokens.
+
+Worn Scythe
+rules_text: Equipped creature gets +2/+0.
+Whenever equipped creature attacks, choose one:
+• Untap target land.
+• Create a Food token.
+Equip {2} => Equipped creature gets +2/+0.
+Whenever equipped creature attacks, choose one:
+• Untap target land.
+• Create a Treasure token.
+Equip {2}
+
+Painful Remnant
+cost: {B}{B} => {1}{B}
+rules_text: You may cast this spell from your graveyard if you've lost life this turn. When you cast it this way, it enters with a finality counter.
+{3}, Exile a card from your graveyard: Surveil 1. Only activate this ability if this card is in your graveyard.
+[i]“Whispers of the night echo with pain”[/i] => [i]Bedlam[/i] — You may cast this spell from your graveyard if a player has 8 or less life or has lost life this turn. When you cast it this way, it enters with a finality counter.
+
+[i]“Whispers of the night echo with pain”[/i]
+
+Treetop Hunter
+rules_text: Reach
+[i]Landfall[/i] — Whenever a land you control enters, choose one:
+• You may exile two cards from your graveyard. If you do, create a Food token.
+• Untap target creature. => Reach
+[i]Landfall[/i] — Whenever a land you control enters, choose one:
+• You may exile two cards from your graveyard. If you do, create a Treasure token.
+• Untap target creature.
+
+Tyrant of the Forest
+pt: 1/4 => 3/4
+
+The Fire Blade
+
+Galeseeker Glider
+cost: {U} => {1}{U}
+pt: 1/1 => 2/1
+
+Reign of the Storm King
+cost: {1}{R} => {3}{R}
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Reign of the Storm King deals 2 damage to any target.
+II — Add {R}{R}. Until end of turn, you don't lose this mana as steps and phases end.
+III — Exile the top card of your library. Until the end of your next turn, you may play it. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Reign of the Storm King deals 4 damage to target creature.
+II — Add {R}{R}{R}. Until end of turn, you don't lose this mana as steps and phases end.
+III — Exile the top two cards of your library. Until the end of your next turn, you may play them.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Reign of the Storm King deals 2 damage to any target.
+II — Add {R}{R}. Until end of turn, you don't lose this mana as steps and phases end.
+III — Exile the top card of your library. Until the end of your next turn, you may play it. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Reign of the Storm King deals 4 damage to target creature.
+II — Add {R}{R}{R}. Until end of turn, you don't lose this mana as steps and phases end.
+III — Exile the top two cards of your library. Until the end of your next turn, you may play them.
+
+Reign of the Goblin King
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 1/1 green Goblin creature token and a Food token.
+II — Put a +1/+1 counter on target creature you control.
+III — Search your library for a basic Forest card, put it onto the battlefield tapped, then shuffle your library. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 1/1 green Goblin creature token and a Treasure token.
+II — Put a +1/+1 counter on target creature you control.
+III — Search your library for a basic Forest card, put it onto the battlefield tapped, then shuffle your library.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 1/1 green Goblin creature token and a Food token.
+II — Put a +1/+1 counter on target creature you control.
+III — Search your library for a basic Forest card, put it onto the battlefield tapped, then shuffle your library. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 1/1 green Goblin creature token and a Treasure token.
+II — Put a +1/+1 counter on target creature you control.
+III — Search your library for a basic Forest card, put it onto the battlefield tapped, then shuffle your library.
+
+Volcanic Agressor
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, target creature you control gets +1/+1 until end of turn. => [i]Landfall[/i] — Whenever a land you control enters, creatures you control get +1/+0 until end of turn.
+
+Genegrafted Charger
+rules_text: When this creature enters, put a +1/+1 counter on target creature you control.
+Modified creatures you control have trample. [i](Equipment, Auras you control, and counters are modifications.)[/i] => Trample
+When this creature enters, put a +1/+1 counter on target creature you control.
+Other modified creatures you control have trample. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Genegrafted Wyvern
+rules_text: When this creature enters, put a +1/+1 counter on target creature.
+Flying
+Other modified creatures you control have flying [i](Equipment, Auras you control, and counters are modifications.)[/i] => Flying
+When this creature enters, put a +1/+1 counter on target creature.
+Other modified creatures you control have flying [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Head Experimenter
+pt: 1/1 => 1/2
+
+Purifier Exarch
+rules_text: At the beginning of combat on your turn, you may exile a card from your graveyard or pay {1}{W}. If you do, put a +1/+1 counter on target creature you control. => At the beginning of combat on your turn, you may exile two cards from your graveyard or pay {1}{W}. If you do, put a +1/+1 counter on target creature you control.
+pt: 1/2 => 1/1
+
+High Cultist Elacloni
+rules_text: At the beginning of your end step, you may exile two cards from your graveyard. If you do, create a 1/1 white and black Human Warlock creature token.
+[i]Unworldly 10[/i] — {T}, Sacrifice another creature: The next spell you cast this turn has affinity for nonland permanents you control. Only activate as a sorcery and if you own ten or more cards in exile. => At the beginning of your end step, you may exile two cards from your graveyard. If you do, create a 1/1 white and black Human Warlock creature token.
+[i]Unworldly 5[/i] — {T}, Sacrifice another creature: The next spell you cast this turn has affinity for nonland permanents you control. Only activate as a sorcery and if you own five or more cards in exile.
+
+Breach the Outerverse
+rules_text: Each player exiles the top twelve cards of their library. For each player, cast up to one card they exiled this way without paying it's mana cost. => Each player exiles the top thirteen cards of their library. For each player, cast up to one card they exiled this way without paying it's mana cost.
+
+Hidden Cultist
+rules_text: When this creature enters, exile the top two cards of your library. You lose 1 life.
+[i]Unworldly 4[/i] — As long as you own four or more cards in exile, this creature has menace. => When this creature enters, exile the top two cards of your library. You lose 1 life.
+[i]Unworldly 3[/i] — As long as you own three or more cards in exile, this creature has menace.
+
+Canopy Healer
+rules_text: Defender
+When this creature enters, create a Food token.
+At the beginning of your end step, you may sacrifice X tokens. When you do, return target creature card with mana value X or less from your graveyard to the battlefield tapped with a finality counter on it. => Defender
+When this creature enters, create a Treasure token.
+At the beginning of your end step, you may sacrifice X tokens. When you do, return target creature card with mana value X or less from your graveyard to the battlefield tapped with a finality counter on it.
+
+Herald of Disorder
+rules_text: When this creature enters, you may have it deal 1 damage to each player.
+[i]Bedlam[/i] — Whenever you attack, if a player lost life this turn or if a player has 10 or less life, target creature gets +1/+1 and menace until end of turn. => When this creature enters, you may have it deal 1 damage to each player.
+[i]Bedlam[/i] — Whenever you attack, If a player has 8 or less life or has lost life this turn, target creature gets +1/+1 and has menace until end of turn.
+
+Anguished Warbringer
+rules_text: Haste
+[i]Bedlam[/i] — Whenever Anguished Warbringer attacks, if a player lost life this turn or if a player 10 or less life, it gets +1/+0 and gains trample until end of turn. Otherwise, you may pay 1 life. If you do, it gets +1/+0 and gains trample until end of turn. => Haste
+[i]Bedlam[/i] — Whenever Anguished Warbringer attacks, if a player has 8 or less life or has lost life this turn, it gets +1/+0 and gains trample until end of turn. Otherwise, you may pay 1 life. If you do, it gets +1/+0 and gains trample until end of turn.
+
+Pain Manifestor
+rules_text: At the beginning of each upkeep, create a 1/1 red Devil creature token with haste, and “This creature can't block and attacks each combat if able”.
+[i]Bedlam[/i] — Devil and Demon creatures you control get +2/+1 if a player lost life this turn or if a player has 10 or less life. => At the beginning of each upkeep, create a 1/1 red Devil creature token with haste, and “This creature can't block and attacks each combat if able”.
+[i]Bedlam[/i] — Devil creatures you control get +1/+ if a player has 8 or less life or has lost life this turn.
+pt: 3/2 => 3/4
+
+Blazing Spiritshard
+cost: {1}{R} => {2}{R}
+
+Renowned Captain
+rules_text: When this creature enters, create a Food token.
+Whenever you sacrifice one or more tokens, target creature gets +1/+1 until end of turn. This ability only triggers once each turn. => When this creature enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+Whenever you sacrifice one or more tokens, target creature gets +1/+1 until end of turn. This ability only triggers once each turn.
+pt: 2/1 => 2/2
+
+Deep Woods Guardian
+rules_text: When this creature enters, mill three cards. 
+{4}{G}, Exile a card from your graveyard: Create a Food token. => When this creature enters, mill three cards. 
+{2}{G}, Exile a card from your graveyard: Investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+
+Callous Skullhoarder
+rules_text: Whenever another nontoken creature you control dies, create a Food token.
+Whenever you sacrifice a token, target opponent loses 1 life. => Whenever another nontoken creature you control dies, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+Whenever you sacrifice a token, target opponent loses 1 life.
+
+Knight of the Astral Gaze
+rules_text: When this creature enters, exile target player's graveyard.
+[i]Unworldly 5[/i] — As long as you own five or more cards in exile, this creature is black in addition to its other colors, gets +2/+1 and has “Ward {2}.” => When this creature enters, exile target player's graveyard.
+[i]Unworldly 2[/i] — As long as you own two or more cards in exile, this creature is black in addition to its other colors, gets +2/+1 and has “Ward {2}.”
+
+Frantic Torchbearer
+rules_text: Haste
+[i]Bedlam[/i] — Whenever Frantic Torchbearer attacks, if a player lost life this turn or if a player has 10 or less life, it and up to one other target creature you control gets +1/+0 until end of turn. => Haste
+[i]Bedlam[/i] — Whenever Frantic Torchbearer attacks, if a player has 8 or less life or has lost life this turn, it and up to one other target creature you control gets +1/+0 until end of turn.
+
+Cackling Scourge
+rules_text: [i]Bedlam[/i] — When Cackling Scourge enters, if a player lost life this turn or if a player has 10 or less life, return target creature card with mana value 3 or less from your graveyard to the battlefield with a finality counter => [i]Bedlam[/i] — When Cackling Scourge enters, if a player has 8 or less life or has lost life this turn, return target creature card with mana value 3 or less from your graveyard to the battlefield with a finality counter
+
+Widespread Burst
+rules_text: Widespread Burst deals 4 damage to target creature.
+You may have Widespread Burst deal 2 damage to you. If you do, draw a card. => Widespread Burst deals 4 damage to target creature.
+[i]Bedlam[/i] — If a player has 8 or less life or has lost life this turn, you may discard a card. If you do, draw a card.
+
+Unholy Shattershot
+rules_text: Unholy Shattershot deals 2 damage to any target. 
+[i]Bedlam[/i] — If a player lost life this turn or if a player has 10 or less life, it deals 3 damage instead and you scry 1. => Unholy Shattershot deals 2 damage to any target. 
+[i]Bedlam[/i] — If a player has 8 or less life or has lost life this turn, it deals 3 damage instead and you scry 1.
+
+Bedlam Devil
+rules_text: Flying
+[i]Bedlam[/i] — Whenever Bedlam Devil attacks, if a player lost life this turn or if a player has 10 or less life, target opponent loses 1 life and you gain 1 life. => Flying
+[i]Bedlam[/i] — Whenever Bedlam Devil attacks, if a player has 8 or less life or has lost life this turn, target opponent loses 1 life and you gain 1 life.
+
+Mayhem Brawler
+rules_text: When Mayhem Brawler enters, it deals 1 damage to you.
+[i]Bedlam[/i] — As long as a player has lost life this turn or if a player has 10 or less life, this creature gets +1/+0 and has menace. => When Mayhem Brawler enters, it deals 1 damage to you.
+[i]Bedlam[/i] — As long as a player has 8 or less life or has lost life this turn, this creature gets +1/+0 and has menace.
+
+Cruel Whim
+rules_text: Destroy target creature with mana value 3 or less.
+[i]Bedlam[/i] — If a player lost life this turn or if a player has 10 or less life, destroy that creature instead. => Destroy target creature with mana value 3 or less.
+[i]Bedlam[/i] — If a player has 8 or less life or has lost life this turn, destroy that creature instead.
+
+Hellkite Rampager
+rules_text: Flying
+[i]Bedlam[/i] — Whenever this creature attacks, target creature can't block this turn if a player lost life this turn or if a player has 10 or less life. => Flying
+[i]Bedlam[/i] — Whenever this creature attacks, target creature can't block this turn if a player has 8 or less life or has lost life this turn.
+
+Grim Hunter
+rules_text: Whenever Grim Hunter deals combat damage to a player, choose one:
+• You may exile two cards from your graveyard. If you do, create a Food token. 
+• Mill two cards. => When Grim Hunter enters, mill three cards.
+Whenever Grim Hunter deals combat damage to a player, you may exile two cards from your graveyard. If you do, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+
+Reckless Greed
+rules_text: When Reckless Greed enters, mill two cards.
+{1}{B}, Pay 2 life, exile a card from your graveyard: Draw a card.
+[i]Unworldly 10[/i] — When you own ten or more cards in exile, sacrifice Reckless Greed. You gain 5 life. => When Reckless Greed enters, mill two cards.
+{B}, Pay 2 life, Exile a card from your graveyard: Draw a card. Only activate as a sorcery.
+[i]Unworldly 6[/i] — When you own six or more cards in exile, sacrifice Reckless Greed. You gain 5 life.
+
+Flatlands Enforcer
+rules_text: [i]Solidarity[/i] 6— Whenever you attack with creatures with total power four or more, choose target opponent. That player may have you draw a card. If that player doesn't, exile the top card of your library and deal damage equal to the exiled card's mana value to that player. => [i]Solidarity[/i] 6— Whenever you attack with creatures with total power six or more, choose target opponent. That player may have you draw a card. If that player doesn't, exile the top card of your library and deal damage equal to the exiled card's mana value to that player.
+
+Mentor of the Devoted
+rules_text: Whenever one or more other creatures you control with power 2 or less enter, you may pay {1} or exile a card from your graveyard. If you do, draw a card. Do this only once each turn.
+[i]Unworldly 6[/i] — As long as you own six or more cards in exile, creatures you control get +1/+0 and have lifelink. => Whenever one or more other creatures you control with base power 2 or less enter, you may pay {1} or exile two cards from your graveyard. If you do, draw a card. Do this only once each turn.
+[i]Unworldly 6[/i] — As long as you own six or more cards in exile, other creatures you control get +1/+1 and have lifelink.
+
+Monestary Sky Knight
+rules_text: Flying
+[i]Innovate[/i] — At the beginning of your end step, if you've cast another spell with mana value 3 or greater, untap this creature. => Flying
+[i]Innovate[/i] — At the beginning of your end step, if you've cast another spell with mana value 3 or greater, you gain 2 life.
+
+Spreading Pandemonium
+rules_text: This spell can't be copied.
+Copy target instant spell, sorcery spell, activated ability, or triggered ability. You may choose new targets for the copies.
+[i]Bedlam[/i] — If a player lost life this turn or if a player has 10 or less life, copy it an additional time. => This spell can't be copied.
+Copy target instant spell, sorcery spell, activated ability, or triggered ability. You may choose new targets for the copies.
+[i]Bedlam[/i] — If a player has 8 or less life or has lost life this turn, copy it an additional time.
+
+Twist Loyalty
+rules_text: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
+[i]Bedlam[/i] — That creature also gets +2/+0 and has menace until end of turn if a player lost life this turn or if a player has 10 or less life. => Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
+[i]Bedlam[/i] — That creature also gets +1/+0 and gains menace until end of turn if a player has 8 or less life or has lost life this turn.
+
+Lethal Harvest
+rules_text: When Lethal Harvest enters, target opponent sacrifices a creature.
+Whenever one or more creatures die, create a Food token. This ability only triggers once each turn. => When Lethal Harvest enters, target opponent sacrifices a creature.
+Whenever one or more creatures die, investigate. This ability only triggers once each turn. [i](To investigate, create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+
+Orb of Evergreen
+rules_text: {T}: Add one mana of any color. When you spend this mana to cast a historic spell, you gain 1 life. [i](Artifacts, legendaries, and Sagas are historic.)[/i] => {T}: Add one mana of any color. When you spend this mana to cast a historic spell, scry 1. [i](Artifacts, legendaries, and Sagas are historic.)[/i]
+
+
+VERSION 10 CHANGELOG
 ====================
 
 Brambleweed Bruiser added.

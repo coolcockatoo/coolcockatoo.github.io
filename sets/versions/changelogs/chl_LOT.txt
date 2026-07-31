@@ -1,4 +1,242 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+Overseer of the Skies added.
+Manifested Record added.
+Intrusive Will added.
+Lorekeeper's Amulet added.
+Fortifying Vanguard added.
+Township Rallier added.
+Undersea General added.
+Unrelenting Assault added.
+Overwhelming Uproar added.
+Fanatic Experimentalist added.
+Mass Mutation added.
+
+
+Undersea Expedition
+cost: {2}{U} => {1}{U}
+
+Expedition Leader
+cost: {2}{U}{U} => {3}{U}
+
+Dreadful Lurker
+cost: {4}{B}{B} => {5}{B}{B}
+rules_text: [i]Unworldly 3[/i] — This spell costs {2} less to cast if you own three or more cards in exile.
+When this creature enters, exile the top three cards of your library. Choose a card exiled this way. For as long as it remains exiled, you may cast it. => [i]Unworldly 4[/i] — This spell costs {3} less to cast if you own four or more cards in exile.
+When this creature enters, exile the top three cards of your library. Choose a card exiled this way. For as long as it remains exiled, you may cast it.
+
+Undersea Scribe
+rules_text: When this creature enters, target creature explores. [i](To have this creature explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+When this card is exiled from your graveyard, target creature explores. => When this creature enters, target creature explores. [i](To have this creature explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+{2}{U}{B}, Exile Undersea Scribe from your graveyard: Target creature explores. Activate only as a sorcery.
+
+Stream Sorcerer
+rules_text: When this creature enters, it explores. If a noncreature spell is put into the graveyard this way, surveil 1. [i](To have this creature explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard. To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i] => When this creature enters, it explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i]
+{3}{U}: Target creature you control explores. Only activate as a sorcery.
+
+Stormsurge Intimidator
+rules_text: Trample.
+Boast — {2}{R}: Target creature can't block this turn. [i](Activate only if this creature attacked this turn and only once each turn.)[/i] => Trample.
+Boast — {1}{R}: Target creature can't block this turn. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]
+
+Resolute Reserves
+cost: {2}{W} => {1}{W}
+pt: 3/3 => 2/2
+
+Stalker of the Bog
+rules_text: Whenever a Swamp you control enters, each opponent loses 2 life. You gain life equal to the life lost this way.
+At the beginning of each end step, choose target opponent. If that player lost life this turn, mill that many cards, and put a card milled this way into your hand. => Whenever a Swamp you control enters, each opponent loses 3 life. You gain life equal to the life lost this way.
+At the beginning of each end step, choose target opponent. If that player lost life this turn, mill that many cards, and put a card milled this way into your hand.
+pt: 7/4 => 7/5
+
+Lord Ego, Virtue's Ruin
+rules_text: Flying, Menace
+At the beginning of your end step, target opponent mills X cards, where X is the amount of life they lost this turn. You exile a card milled this way. For as long as it remains exiled, you may cast it, and you may pay life equal to its mana value rather than paying it's mana cost. => Flying, Menace
+At the beginning of your end step, target opponent mills X cards, where X is the amount of life they lost this turn. You may exile a nonland card from among them. For as long as it remains exiled, you may cast it, and you may pay life equal to its mana value rather than paying it's mana cost.
+
+Stormaxe Duo
+rules_text: Double strike
+Boast — {2}{R}: Put a +1/+1 counter on this creature. It deals 2 damage to each opponent. [i](Activate only if this creature attacked this turn and only once each turn.)[/i] => Trample
+Boast — {2}{R}: Stormaxe Duo gains double strike until end of turn. [i](Activate only if this creature attacked this turn and only once each turn.)[/i]
+pt: 2/2 => 4/4
+
+Reign of the Storm King
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Reign of the Storm King deals 4 damage to target creature.
+II — Add {R}{R}{R}. Until end of turn, you don't lose this mana as steps and phases end.
+III — Exile the top two cards of your library. Until the end of your next turn, you may play them. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Reign of the Storm King deals 4 damage to target creature.
+II — Add {R}{R}{R}. Until end of turn, you don't lose this mana as steps and phases end.
+III — Exile the top two cards of your library. Until end of turn, you may play them.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Reign of the Storm King deals 4 damage to target creature.
+II — Add {R}{R}{R}. Until end of turn, you don't lose this mana as steps and phases end.
+III — Exile the top two cards of your library. Until the end of your next turn, you may play them. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Reign of the Storm King deals 4 damage to target creature.
+II — Add {R}{R}{R}. Until end of turn, you don't lose this mana as steps and phases end.
+III — Exile the top two cards of your library. Until end of turn, you may play them.
+
+Flatlands Warmage
+rules_text: Vigilance, lifelink
+[i]Solidarity[/i] 5— Whenever you attack with creatures with total power five or more, it deals X damage to each opponent, where X is the amount of attacking creatures. => Vigilance, lifelink
+[i]Solidarity[/i] 5— Whenever you attack with creatures with total power five or more, Flatlands Warmage deals X damage to each opponent, where X is the amount of attacking creatures.
+
+Lord Ego's Wrath
+rules_text: Each opponent sacrifices a nontoken creature. 
+[i]Unworldly 4[/i] — You may exile two cards from your graveyard. If you do and you own four or more cards in exile, put up to one target creature card from your graveyard to your hand. => Each opponent sacrifices a nontoken creature. 
+[i]Unworldly 4[/i] — You may exile two cards from your graveyard. If you do and you own four or more cards in exile, return up to one target creature card from your graveyard to your hand.
+
+Aspiring Researcher
+cost: {2}{U} => {1}{U}
+rules_text: When this creature enters, put a +1/+1 counter on target creature you control.
+At the beginning of your end step, if you've put a counter on a creature you control, you may discard a card. If you do, draw a card. => When this creature enters, put a +1/+1 counter on target creature you control.
+At the beginning of your end step, if you've put a counter on a creature you control, you may draw a card. If you do, discard a card.
+pt: 2/2 => 0/2
+
+Wings of Frost
+cost: {2}{U} => {1}{U}
+
+Herald of Disorder
+rules_text: When this creature enters, you may have it deal 1 damage to each player.
+[i]Bedlam[/i] — Whenever you attack, If a player has 8 or less life or has lost life this turn, target creature gets +1/+1 and has menace until end of turn. => When this creature enters, you may have it deal 1 damage to each player.
+[i]Bedlam[/i] — Whenever you attack, If a player has 8 or less life or has lost life this turn, target creature gets +1/+1 and gains menace until end of turn.
+
+Armored City
+rules_text: As this land enters, you may 1 life. If you do, it enters with a charge counter.
+{T}: Add {C}. Put a charge counter on this land.
+{T}, Remove a charge counter from this land: Add {G} or {W} => As this land enters, you may pay 1 life. If you do, it enters with a charge counter.
+{T}: Add {C}. Put a charge counter on this land.
+{T}, Remove a charge counter from this land: Add {G} or {W}
+
+Adaptive Shield
+rules_text: Flash
+Enchant creature
+This spell costs {1} less to cast if it targets a modified creature.
+When this enchantment enters, enchanted creature gains hexproof until end of turn.
+Enchanted creature gets +1/+1 and ward {1} => Flash
+Enchant creature
+When this enchantment enters, enchanted creature gains hexproof until end of turn.
+Enchanted creature gets +1/+3 and ward {1}
+
+Master Illusionist
+rules_text: You may have Master Illusionist enter the battlefield as a copy of any creature on the battlefield, except it has “[i]Innovate[/i] — At the beginning of your end step, if you've cast a spell with mana value 3 or greater, create a token that's a copy of this creature, except the token doesn't have this ability.” => You may have Master Illusionist enter the battlefield as a copy of any creature on the battlefield, except it has “[i]Innovate[/i] — At the beginning of your end step, if you've cast a spell with mana value 3 or greater this turn, create a token that's a copy of this creature, except the token doesn't have this ability.”
+
+Deep Woods Guardian
+cost: {3}{G} => {2}{G}
+pt: 4/4 => 3/4
+
+Reckless Devil
+rules_text: When Reckless Devil enters, it deals 1 damage to any target. Then if you have 10 or more life, it deals 1 damage to you. => When Reckless Devil enters, it deals 1 damage to any target. Then if you have 8 or more life, it deals 1 damage to you.
+
+Callous Skullhoarder
+rules_text: Whenever another nontoken creature you control dies, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+Whenever you sacrifice a token, target opponent loses 1 life. => Whenever one or more other nontoken creatures you control dies, you may exile one of them. If you do, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+Whenever you sacrifice a token, target opponent loses 1 life.
+
+Wind Magus
+rules_text: When this creature enters, you gain 2 life and scry 1.
+[i]Innovate[/i] — At the beginning of your end step, if you've cast another spell with mana value 3 or greater, you may exile this creature and return it onto the battlefield under its owner's control. => When this creature enters, you gain 2 life and scry 1.
+[i]Innovate[/i] — At the beginning of your end step, if you've cast another spell with mana value 3 or greater this turn, you may exile this creature and return it onto the battlefield under its owner's control.
+
+Summit Voyager
+rules_text: Flying
+[i]Innovate[/i] — At the beginning of your end step, if you've cast another spell with mana value 3 or greater, target creature you control explores. => Flying
+[i]Innovate[/i] — At the beginning of your end step, if you've cast another spell with mana value 3 or greater this turn, target creature you control explores.
+
+Unlimited Gateway
+rules_text: [i]Innovate [/i]— At the beginning of your end step, if you've cast another spell with mana value 3 or greater, search your library for a basic land card, exile it, then shuffle your library.
+{T}: For each land card exiled with this artifact, create a token that's a copy of it. Exile those tokens at the beginning of the next end step. Only activate as a sorcery. => [i]Innovate [/i]— At the beginning of your end step, if you've cast another spell with mana value 3 or greater this turn, search your library for a basic land card, exile it, then shuffle your library.
+{T}: For each land card exiled with this artifact, create a token that's a copy of it. Exile those tokens at the beginning of the next end step. Only activate as a sorcery.
+
+Monastery Overseer
+rules_text: Flying, vigilance
+[i]Innovate[/i] — At the beginning of your end step, if you've cast another spell with mana value 3 or greater, draw a card and gain 3 life. => Flying, vigilance
+[i]Innovate[/i] — At the beginning of your end step, if you've cast another spell with mana value 3 or greater this turn, draw a card and gain 3 life.
+
+Mayhem Brawler
+cost: {2}{B} => {1}{B}
+rules_text: When Mayhem Brawler enters, it deals 1 damage to you.
+[i]Bedlam[/i] — As long as a player has 8 or less life or has lost life this turn, this creature gets +1/+0 and has menace. => When Mayhem Brawler enters, it deals 1 damage to you.
+[i]Bedlam[/i] — As long as a player has 8 or less life or has lost life this turn, this creature gets +1/+1 and has menace.
+pt: 3/3 => 2/2
+
+Cruel Whim
+rules_text: Destroy target creature with mana value 3 or less.
+[i]Bedlam[/i] — If a player has 8 or less life or has lost life this turn, destroy that creature instead. => [i]Bedlam[/i] — Destroy target creature if its mana value 3 or less or if a player has 8 or less life or has lost life this turn
+
+Reckless Greed
+cost: {2}{B} => {1}{B}
+rules_text: When Reckless Greed enters, mill two cards.
+{B}, Pay 2 life, Exile a card from your graveyard: Draw a card. Only activate as a sorcery.
+[i]Unworldly 6[/i] — When you own six or more cards in exile, sacrifice Reckless Greed. You gain 5 life. => When Reckless Greed enters, mill two cards.
+{B}, Pay 2 life, Exile a card from your graveyard: Draw a card. Only activate as a sorcery.
+[i]Unworldly 6[/i] — When you own six or more cards in exile, sacrifice Reckless Greed. You gain 6 life.
+
+Close the Gap
+rules_text: Target creature you control gets +3/+0 and gains trample and first strike until end of turn. 
+[i]Solidarity 10 [/i]— If you attacked with creatures with total power ten or more, untap it. After this main phase, there is an additional combat phase followed by an additional main phase. => Target creature you control gets +3/+0 and gains trample and first strike until end of turn. 
+[i]Solidarity 10 [/i]— If the total power of attacking creatures you control is ten or more, untap it. After this main phase, there is an additional combat phase followed by an additional main phase.
+
+Courageous Battalion
+cost: {2}{W} => {1}{W}
+pt: 3/2 => 2/2
+
+Auspicious Breakthrough
+rules_text: Draw two cards. Put a +1/+1 counter on up to one target creature you control. => Put a +1/+1 counter on up to one target creature you control. Draw two cards.
+
+Monestary Scribe
+rules_text: [i]Innovate[/i] — At the beginning of your end step, if you've cast another spell with mana value 3 or greater, put a +1/+1 counter on this creature. => [i]Innovate[/i] — At the beginning of your end step, if you've cast another spell with mana value 3 or greater this turn, put a +1/+1 counter on this creature.
+pt: 2/1 => 1/2
+
+Monestary Sky Knight
+rules_text: Flying
+[i]Innovate[/i] — At the beginning of your end step, if you've cast another spell with mana value 3 or greater, you gain 2 life. => Flying
+[i]Innovate[/i] — At the beginning of your end step, if you've cast another spell with mana value 3 or greater this turn, you gain 2 life.
+
+Deathless Savant
+rules_text: Flying
+[i]Innovate[/i] — At the beginning of your end step, if you've cast another spell with mana value 3 or greater and Deathless Savant is in your graveyard, you may return it onto the battlefield tapped with a finality counter. => Flying
+[i]Innovate[/i] — At the beginning of your end step, if you've cast another spell with mana value 3 or greater this turn and Deathless Savant is in your graveyard, you may return it onto the battlefield tapped with a finality counter.
+
+Matrix Overload
+rules_text: [i]Innovate[/i] — Destroy target creature if its tapped or if you've cast another spell with mana value 3 or greater this turn. => [i]Innovate[/i] — Destroy target creature if it's tapped or if you've cast another spell with mana value 3 or greater this turn.
+
+Bram, Evergreen's Warden
+rules_text: [i]Innovate[/i] — At the beginning of your end step, if you've cast another spell with mana value 3 or greater, exile up to one target nontoken creature with mana value 3 or less until this creature leaves the battlefield. => [i]Innovate[/i] — At the beginning of your end step, if you've cast another spell with mana value 3 or greater this turn, exile up to one target nontoken creature with mana value 3 or less until this creature leaves the battlefield.
+
+Stormspire Crusader
+cost: {2}{R} => {1}{R}
+pt: 3/2 => 2/1
+
+Torrid Tactics
+cost: {3}{R} => {2}{R}
+
+Essence Reaper
+cost: {1}{B} => {B}
+rules_text: Equipped creature gets +1/+1 for each charge counter on Essence Reaper.
+When Essence Reaper enters, create a 1/1 black Spirit creature token, then attach this Equipment to it.
+Whenever equipped creature dies, put a charge counter on Essence Reaper.
+Equip {1} => Equipped creature gets +1/+1 for each charge counter on Essence Reaper.
+Whenever equipped creature dies, put a charge counter on Essence Reaper, then you may exile it. If you do, put an additional charge counter on Essence Reaper.
+Equip {1}
+
+Hungering Flytraps
+rules_text: When Hungering Flytraps enters, create a 0/1 green Plant creature token.
+Whenever you sacrifice one or more permanents, put a +1/+1 counter on each Plant creature you control. => When Hungering Flytraps enters, create a 0/1 green Plant creature token.
+Whenever you sacrifice one or more permanents, put a +1/+1 counter on each Plant creature you control.
+{3}{G}, Exile a creature card from your graveyard: Create a Food token.
+
+Arcane Engineer
+rules_text: When Arcane Engineer enters, create a 1/1 Construct artifact creature token.
+[i]Innovate[/i] — At the beginning of your end step, if you've cast another spell with mana value 3 or greater, put a +1/+1 on target creature you control, then draw a card for each modified creature you control. [i](Equipment, Auras you control, and counters are modifications.)[/i] => When Arcane Engineer enters, create a 1/1 Construct artifact creature token.
+[i]Innovate[/i] — At the beginning of your end step, if you've cast another spell with mana value 3 or greater this turn, put a +1/+1 on target creature you control, then draw a card if you control three or more modified creatures. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Zale, Hadal Explorer
+pt: 1/5 => 1/3
+
+
+VERSION 11 CHANGELOG
 ====================
 
 Zola, Ancient Shaman added.

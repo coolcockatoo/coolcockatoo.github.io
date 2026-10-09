@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "CLF",
+            "set_name": "Collapsing Confluence",
+            "formats": ""
+        },
+        {
             "set_code": "LOT",
             "set_name": "Legends Of Tenebrous",
             "formats": ""

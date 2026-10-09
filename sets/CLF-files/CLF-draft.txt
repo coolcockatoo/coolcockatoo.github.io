@@ -1,0 +1,738 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Lord Ego, Redeemed",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{B}",
+			"type": "Legendary Creature — Human Avatar",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/0.png"
+			}
+		},
+		{
+			"name": "Eryth, Crimson Opus",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Legendary Creature — Vampire Wizard",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/1.png"
+			}
+		},
+		{
+			"name": "Star, Wind-Blessed",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/2.png"
+			}
+		},
+		{
+			"name": "Celestial General",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/3.png"
+			}
+		},
+		{
+			"name": "Scarlet Hemomancer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Vampire Wizard",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/4.png"
+			}
+		},
+		{
+			"name": "The Seeker, Unrivaled",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/5.png"
+			}
+		},
+		{
+			"name": "Blood Lord's Conquest",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Enchantment",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/6.png"
+			}
+		},
+		{
+			"name": "Center of Attention",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/7.png"
+			}
+		},
+		{
+			"name": "Unstable Dimensional Gate",
+			"rarity": "mythic",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact",
+			"collector_number": "53",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://coolcockatoo.github.io/sets/CLF-files/img/8_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/8_front.png"
+			}
+		},
+		{
+			"name": "Sanguine Piercer",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Vampire",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/9.png"
+			}
+		},
+		{
+			"name": "Reckless Charger",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/10.png"
+			}
+		},
+		{
+			"name": "Zulon, Spirit Master",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Legendary Creature — Human Wizard Monk",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/11.png"
+			}
+		},
+		{
+			"name": "Plutonia, Queen of Avarice",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Legendary Creature — Vampire Noble",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/12.png"
+			}
+		},
+		{
+			"name": "Zealot's Strike",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/13.png"
+			}
+		},
+		{
+			"name": "Armed Automaton",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact Creature — Spider Construct",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/14.png"
+			}
+		},
+		{
+			"name": "Ignatus Sprocket",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{R}{G}",
+			"type": "Legendary Artifact Creature — Artificer",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/15.png"
+			}
+		},
+		{
+			"name": "Skeborax, the Pathfinder",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Legendary Creature — Alien Avatar",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/16.png"
+			}
+		},
+		{
+			"name": "Ethereal Watcher",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/17.png"
+			}
+		},
+		{
+			"name": "Plague-Wing Aspirant",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Vampire Wizard",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/18.png"
+			}
+		},
+		{
+			"name": "Clockwork Wyrm",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Artifact Creature — Dragon Construct",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/19.png"
+			}
+		},
+		{
+			"name": "Evergreen, the Nurturer",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/20.png"
+			}
+		},
+		{
+			"name": "Colossal Spiritmaw",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Spirit",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/21.png"
+			}
+		},
+		{
+			"name": "Projection Seer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/22.png"
+			}
+		},
+		{
+			"name": "Spectral Ronin",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/23.png"
+			}
+		},
+		{
+			"name": "Intangible Marauder",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Spirit Rogue",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/24.png"
+			}
+		},
+		{
+			"name": "Eclipse Infiltrator",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Alien Rogue",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/25.png"
+			}
+		},
+		{
+			"name": "Awakener Herald",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{G}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/26.png"
+			}
+		},
+		{
+			"name": "Shifting Interloper",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{U}{B}",
+			"type": "Creature — Alien Wizard",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/27.png"
+			}
+		},
+		{
+			"name": "Fervent Specter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Spirit",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/28.png"
+			}
+		},
+		{
+			"name": "Summit Marshal",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/29.png"
+			}
+		},
+		{
+			"name": "Summit Terror",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/30.png"
+			}
+		},
+		{
+			"name": "Dawning Ronin",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/31.png"
+			}
+		},
+		{
+			"name": "Equinox Slash",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/32.png"
+			}
+		},
+		{
+			"name": "Cosmos Steward",
+			"rarity": "rare",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Creature — Alien Spirit",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/33.png"
+			}
+		},
+		{
+			"name": "Blightweaver Sanguine",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Vampire",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/34.png"
+			}
+		},
+		{
+			"name": "Verdant Harvester",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/35.png"
+			}
+		},
+		{
+			"name": "Clockwork Outlaw",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Construct Rogue",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/36.png"
+			}
+		},
+		{
+			"name": "Ignatus's Titan",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}{G}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/37.png"
+			}
+		},
+		{
+			"name": "Kryon of the Eclipse",
+			"rarity": "rare",
+			"mana_cost": "{2/W}{U}{2/B}",
+			"type": "Legendary Creature — Alien",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/38.png"
+			}
+		},
+		{
+			"name": "Eclipse Vanguard",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Alien Warrior",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/39.png"
+			}
+		},
+		{
+			"name": "Spiteful Study",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/40.png"
+			}
+		},
+		{
+			"name": "Salvaged Rager",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/41.png"
+			}
+		},
+		{
+			"name": "Cardinal Operation",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/42.png"
+			}
+		},
+		{
+			"name": "Perpetual Wilderness",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/43.png"
+			}
+		},
+		{
+			"name": "Zhihao, Sage of the Summit",
+			"rarity": "rare",
+			"mana_cost": "{2/R}{2/G}{W}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/44.png"
+			}
+		},
+		{
+			"name": "Eclipse Captain",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Alien",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/45.png"
+			}
+		},
+		{
+			"name": "Eclipse Observer",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/46.png"
+			}
+		},
+		{
+			"name": "The Fulminant Dynamo",
+			"rarity": "rare",
+			"mana_cost": "{2/B}{R}{2/G}",
+			"type": "Legendary Creature — Elemental Artificer",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/47.png"
+			}
+		},
+		{
+			"name": "Clockwork Terror",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Artifact Creature — Dragon Construct",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/48.png"
+			}
+		},
+		{
+			"name": "Junkyard Scavenger",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact Creature — Artificer Rogue",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/49.png"
+			}
+		},
+		{
+			"name": "Perplexing Astrophage",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Alien Beast",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/50.png"
+			}
+		},
+		{
+			"name": "Fanatic Blightgrasper",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Vampire Warrior",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/51.png"
+			}
+		},
+		{
+			"name": "Valerius, Crimson Regent",
+			"rarity": "rare",
+			"mana_cost": "{2/R}{B}{2/U}",
+			"type": "Legendary Creature — Vampire",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/52.png"
+			}
+		},
+		{
+			"name": "Exotic Specimen",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Alien Mutant",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/53.png"
+			}
+		}
+	]
+
+[rare(1)]
+	1 Lord Ego, Redeemed
+	1 Star, Wind-Blessed
+	2 Celestial General
+	2 The Seeker, Unrivaled
+	2 Blood Lord's Conquest
+	1 Unstable Dimensional Gate
+	1 Zulon, Spirit Master
+	1 Plutonia, Queen of Avarice
+	1 Ignatus Sprocket
+	1 Skeborax, the Pathfinder
+	2 Clockwork Wyrm
+	1 Evergreen, the Nurturer
+	2 Summit Terror
+	2 Equinox Slash
+	2 Cosmos Steward
+	2 Ignatus's Titan
+	2 Kryon of the Eclipse
+	1 Spiteful Study
+	2 Cardinal Operation
+	2 Zhihao, Sage of the Summit
+	2 The Fulminant Dynamo
+	2 Perplexing Astrophage
+	2 Fanatic Blightgrasper
+	2 Valerius, Crimson Regent
+	2 Exotic Specimen
+[uncommon(3)]
+	4 Eryth, Crimson Opus
+	4 Scarlet Hemomancer
+	4 Center of Attention
+	4 Plague-Wing Aspirant
+	4 Projection Seer
+	4 Fervent Specter
+	4 Summit Marshal
+	4 Dawning Ronin
+	4 Salvaged Rager
+	4 Clockwork Terror
+[common(6)]
+	8 Sanguine Piercer
+	8 Reckless Charger
+	8 Zealot's Strike
+	8 Armed Automaton
+	8 Ethereal Watcher
+	8 Colossal Spiritmaw
+	8 Spectral Ronin
+	8 Intangible Marauder
+	8 Eclipse Infiltrator
+	8 Awakener Herald
+	8 Shifting Interloper
+	8 Blightweaver Sanguine
+	8 Verdant Harvester
+	8 Clockwork Outlaw
+	8 Eclipse Vanguard
+	8 Perpetual Wilderness
+	8 Eclipse Captain
+	8 Eclipse Observer
+	8 Junkyard Scavenger
+[common | masterpiece(1)]
+	8 Sanguine Piercer
+	8 Reckless Charger
+	8 Zealot's Strike
+	8 Armed Automaton
+	8 Ethereal Watcher
+	8 Colossal Spiritmaw
+	8 Spectral Ronin
+	8 Intangible Marauder
+	8 Eclipse Infiltrator
+	8 Awakener Herald
+	8 Shifting Interloper
+	8 Blightweaver Sanguine
+	8 Verdant Harvester
+	8 Clockwork Outlaw
+	8 Eclipse Vanguard
+	8 Perpetual Wilderness
+	8 Eclipse Captain
+	8 Eclipse Observer
+	8 Junkyard Scavenger
+[foil(1)]
+	1 Lord Ego, Redeemed
+	6 Eryth, Crimson Opus
+	1 Star, Wind-Blessed
+	2 Celestial General
+	6 Scarlet Hemomancer
+	2 The Seeker, Unrivaled
+	2 Blood Lord's Conquest
+	6 Center of Attention
+	1 Unstable Dimensional Gate
+	12 Sanguine Piercer
+	12 Reckless Charger
+	1 Zulon, Spirit Master
+	1 Plutonia, Queen of Avarice
+	12 Zealot's Strike
+	12 Armed Automaton
+	1 Ignatus Sprocket
+	1 Skeborax, the Pathfinder
+	12 Ethereal Watcher
+	6 Plague-Wing Aspirant
+	2 Clockwork Wyrm
+	1 Evergreen, the Nurturer
+	12 Colossal Spiritmaw
+	6 Projection Seer
+	12 Spectral Ronin
+	12 Intangible Marauder
+	12 Eclipse Infiltrator
+	12 Awakener Herald
+	12 Shifting Interloper
+	6 Fervent Specter
+	6 Summit Marshal
+	2 Summit Terror
+	6 Dawning Ronin
+	2 Equinox Slash
+	2 Cosmos Steward
+	12 Blightweaver Sanguine
+	12 Verdant Harvester
+	12 Clockwork Outlaw
+	2 Ignatus's Titan
+	2 Kryon of the Eclipse
+	12 Eclipse Vanguard
+	1 Spiteful Study
+	6 Salvaged Rager
+	2 Cardinal Operation
+	12 Perpetual Wilderness
+	2 Zhihao, Sage of the Summit
+	12 Eclipse Captain
+	12 Eclipse Observer
+	2 The Fulminant Dynamo
+	6 Clockwork Terror
+	12 Junkyard Scavenger
+	2 Perplexing Astrophage
+	2 Fanatic Blightgrasper
+	2 Valerius, Crimson Regent
+	2 Exotic Specimen
+[wildcard(1)]
+	4 Lord Ego, Redeemed
+	15 Eryth, Crimson Opus
+	4 Star, Wind-Blessed
+	7 Celestial General
+	15 Scarlet Hemomancer
+	7 The Seeker, Unrivaled
+	7 Blood Lord's Conquest
+	15 Center of Attention
+	4 Unstable Dimensional Gate
+	6 Sanguine Piercer
+	6 Reckless Charger
+	4 Zulon, Spirit Master
+	4 Plutonia, Queen of Avarice
+	6 Zealot's Strike
+	6 Armed Automaton
+	4 Ignatus Sprocket
+	4 Skeborax, the Pathfinder
+	6 Ethereal Watcher
+	15 Plague-Wing Aspirant
+	7 Clockwork Wyrm
+	4 Evergreen, the Nurturer
+	6 Colossal Spiritmaw
+	15 Projection Seer
+	6 Spectral Ronin
+	6 Intangible Marauder
+	6 Eclipse Infiltrator
+	6 Awakener Herald
+	6 Shifting Interloper
+	15 Fervent Specter
+	15 Summit Marshal
+	7 Summit Terror
+	15 Dawning Ronin
+	7 Equinox Slash
+	7 Cosmos Steward
+	6 Blightweaver Sanguine
+	6 Verdant Harvester
+	6 Clockwork Outlaw
+	7 Ignatus's Titan
+	7 Kryon of the Eclipse
+	6 Eclipse Vanguard
+	4 Spiteful Study
+	15 Salvaged Rager
+	7 Cardinal Operation
+	6 Perpetual Wilderness
+	7 Zhihao, Sage of the Summit
+	6 Eclipse Captain
+	6 Eclipse Observer
+	7 The Fulminant Dynamo
+	15 Clockwork Terror
+	6 Junkyard Scavenger
+	7 Perplexing Astrophage
+	7 Fanatic Blightgrasper
+	7 Valerius, Crimson Regent
+	7 Exotic Specimen

@@ -1,4 +1,52 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Aoi of the Myriad Mask added.
+Blood-Curse Specter added.
+Rotting Augur added.
+Planar Ambush added.
+Skyward Vanguard added.
+Springtide Ascendant added.
+Spark Engineer added.
+Spiteful Envoy added.
+Blitzcrank Automaton added.
+Ruin Excavator added.
+Sanguine Frenzy added.
+The Onyx Clock added.
+Hourglass Herald added.
+Musing Bloodboiler added.
+Starlight Justiciar added.
+Planar Sentinel added.
+Dimensional Extraction added.
+
+Summit Marshal removed.
+
+Eryth, Crimson Opus
+pt: 3/3 => 4/3
+
+Plutonia, Queen of Avarice
+rules_text: Deathtouch
+Whenever Plutonia enters or attacks, each player blights 1.
+Whenever you put one or more counters on a creature you control, each opponent loses 2 life unless they discard a card. => Deathtouch
+Whenever Plutonia enters or attacks, each player blights 1.
+At the beginning of each end step, each opponent loses X life and you gain X life, where X is the amount of counters put on creatures you control this turn.
+
+Skeborax, the Pathfinder
+rules_text: At the beginning of your end step, if a permanent you control left the battlefield this turn, return a creature card at random from your graveyard onto the battlefield with a finality counter. => When Skeborax enters, for each opponent, put up to one target nonland permanent they control on top of its owner's library.
+At the beginning of your end step, if a permanent you control left the battlefield this turn, return a creature card at random from your graveyard onto the battlefield with a finality counter.
+
+Awakener Herald
+rules_text: When Awakener Herald enters, put a +1/+1 counter on target creature for each permanent that entered the battlefield this turn.
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i] => When Awakener Herald enters, put a +1/+1 counter on target creature for each permanent that entered under your control this turn.
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Spiteful Study
+rules_text: Whenever an opponent casts a spell, that player may pay {1}. If they don't, put a study counter on Spiteful Study.
+Pay 2 life, Remove a study counter from Spiteful Study: Draw a card. => Whenever an opponent casts a spell, that player may pay 2 life. If they don't, put a study counter on Spiteful Study.
+Pay 2 life, Remove a study counter from Spiteful Study: Draw a card.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

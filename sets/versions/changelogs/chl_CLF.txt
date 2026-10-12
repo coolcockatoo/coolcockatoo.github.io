@@ -1,4 +1,60 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Reckless Tutor added.
+Reclamation Tax added.
+Defense of the Glade added.
+Nightveil Stalker added.
+Renard, Scrap Dealer added.
+Scrapyard Delvers added.
+Sanctuary Kirin added.
+Mystic Warden added.
+Zarex, Echo Weaver added.
+Astral Extractor added.
+Bram, Horizon Seeker added.
+
+
+Eryth, Crimson Opus
+rules_text: Creatures you control with -1/-1 counters on them have menace.
+At the beginning of combat on your turn, you may blight 1. If you do, each opponent blights 1. [i](To blight 1, put a -1/-1 counter on a creature you control.)[/i] => Creatures you control with -1/-1 counters on them have deathtouch.
+At the beginning of combat on your turn, you may blight 1. If you do, each opponent blights 1. [i](To blight 1, put a -1/-1 counter on a creature you control.)[/i]
+
+Skeborax, the Pathfinder
+rules_text: When Skeborax enters, for each opponent, put up to one target nonland permanent they control on top of its owner's library.
+At the beginning of your end step, if a permanent you control left the battlefield this turn, return a creature card at random from your graveyard onto the battlefield with a finality counter. => When Skeborax enters, put up to one target nonland permanent on top of its owner's library.
+At the beginning of your end step, if a permanent you control left the battlefield this turn, return a creature card at random from your graveyard onto the battlefield with a finality counter.
+pt: 4/4 => 2/3
+
+Dawning Ronin
+rules_text: Materialize [i]((Whenever this attacks, create a 1/1 token copy of it that's tapped and attacking. Sacrifice this token at the beginning of your next end step)[/i]
+When Dawning Ronin enters, target creature you control gets +1/+0, vigilance and indestructible until end of turn. => Materialize [i]((Whenever this attacks, create a 1/1 token copy of it that's tapped and attacking. Sacrifice this token at the beginning of your next end step)[/i]
+Vigilance
+When Dawning Ronin enters, target creature you control gets +1/+0 and indestructible until end of turn.
+pt: 2/2 => 2/3
+
+Spiteful Study
+rules_text: Whenever an opponent casts a spell, that player may pay 2 life. If they don't, put a study counter on Spiteful Study.
+Pay 2 life, Remove a study counter from Spiteful Study: Draw a card. => Whenever an opponent casts a spell, that player may pay 2 life. If they don't, draw a card.
+flavor_text: [i][/i] => [i]“I'll learn everything you know… whether you share it willingly or not.”[/i]
+
+Junkyard Scavenger
+rules_text: When Junkyard Scavenger enters or leaves the battlefield, create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i] => When Junkyard Scavenger enters or leaves the battlefield, create a tapped Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+
+Fanatic Blightgrasper
+rules_text: When Fanatic Blightgrasper enters, blight 1. [i](Put a -1/-1 counter on a creature you control.)[/i]
+At the beginning of your postcombat main phase, you may remove a counter from a creature you control. If you do, exile the top card of your library. Until end of turn, you may play it. => When Fanatic Blightgrasper enters, blight 1. [i](Put a -1/-1 counter on a creature you control.)[/i]
+At the beginning of your postcombat main phase, you may pay {BR} and remove a counter from a creature you control. If you do, exile the top card of your library. Until end of turn, you may play it.
+
+Planar Ambush
+rules_text: Once during each of your turns, you may cast a creature spell from your hand as though it had shadowstep {U}. [i](You may cast this spell for its shadowstep cost. If you do, shuffle it into its owner's library at the beginning of the next end step.)[/i] => {U}: You may put a creature card from your hand onto the battlefield. At the beginning of the next end step, shuffle it into its owner's library.
+flavor_text: [i][/i] => [i]“A breach in spacetime is rarely a welcome sight—least of all for those on the receiving end.”[/i]
+
+Musing Bloodboiler
+rules_text: When Musing Bloodboiler enters, you may blight 1. If you do, exile the top card of your library. You may play it until the end of your next turn. [i](To blight 1, put a -1/-1 counter on a creature you control.)[/i] => When Musing Bloodboiler enters, you may blight 1. If you do, exile the top card of your library. You may play it until the end of your next turn. [i](To blight 1, put a -1/-1 counter on a creature you control.)[/i]
+{1}{R}: Target creature you control with a -1/-1 counter gains menace until end of turn.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 No changes.

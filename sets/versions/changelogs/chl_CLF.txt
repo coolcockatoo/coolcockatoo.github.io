@@ -1,4 +1,16 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+
+Aurora Dragon
+artist: 
+Matt Forsyth
+ => 
+Matt Forsyth
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Hollow Harvester added.

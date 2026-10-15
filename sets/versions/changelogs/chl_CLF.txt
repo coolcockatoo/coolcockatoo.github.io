@@ -1,4 +1,122 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Hollow Harvester added.
+Gleaming Paladin added.
+Skittering Tank added.
+Welded Legion added.
+Ceaseless Journey added.
+Deep-Glade Forger added.
+Reckless Strike added.
+Cyros, Mold Breaker added.
+The Boundless Enigma added.
+Eclipse Charm added.
+Ignatus Charm added.
+Resolute Light added.
+Resourceful Tinkerer added.
+District Demolisher added.
+Revitalizing Repose added.
+Mistweaver added.
+Aurora Dragon added.
+Stranded Hermit added.
+Glade Protector added.
+Blightvein Charm added.
+
+Verdant Harvester removed.
+
+Star, Wind-Blessed
+rules_text: Materialize
+When Star enters, exile another target nontoken, nonland permanent you don't control. It's owner may cast it for as long as it remains exiled without paying it's mana cost.
+Whenever a player casts a spell from anywhere other than their hand, put a +1/+1 on Star. => Flash, Materialize
+When Star enters, exile another target nontoken, nonland permanent or spell you don't control. It's owner may cast it during their turn for as long as it remains exiled without paying it's mana cost.
+Whenever a player casts a spell from anywhere other than their hand, put a +1/+1 on Star.
+pt: 1/2 => 1/1
+
+Ignatus Sprocket
+rules_text: At the beginning of your upkeep, target permanent card in your graveyard gains salvage until end of turn. The salvage cost is equal to the mana cost.
+Whenever you sacrifice one or more permanents during your turn, you may create a token that's a copy of one of those permanents. It gains haste. Sacrifice it at the beginning of your next end step. Only do this once each turn. => At the beginning of your upkeep, then target artifact or creature card in your graveyard gains salvage until end of turn. The salvage cost is equal to the mana cost.
+Whenever you sacrifice one or more permanents during your turn, you may create a token that's a copy of one of those permanents. It gains haste. Sacrifice it at the beginning of your next end step. Only do this once each turn.
+
+Skeborax, the Pathfinder
+type: Legendary Creature — Alien Avatar => Legendary Creature — Alien Wizard
+rules_text: When Skeborax enters, put up to one target nonland permanent on top of its owner's library.
+At the beginning of your end step, if a permanent you control left the battlefield this turn, return a creature card at random from your graveyard onto the battlefield with a finality counter. => At the beginning of your end step, you may shuffle another creature you control into its owner's library. If you do, its owner reveals cards from the top of their library until they reveal a nonland card. They may cast it without paying it's mana cost. If they don't, they put it into their hand. Put each card revealed this way onto the bottom of its owner's library in a random order.
+pt: 2/3 => 3/3
+
+Evergreen, the Nurturer
+cost: {1}{G}{W}{U} => {2}{G}{W}{U}
+rules_text: [i]Alliance[/i] — Whenever another creature you control enters, scry 1 if this is the first time this ability has resolved this turn. You draw a card if it's the second time, and you may put a permanent card from your hand onto the battlefield if it's the third time. => [i]Alliance[/i] — Whenever another creature you control enters, put a +1/+1 counter on target creature you control. Draw a card if it's the second time this ability has triggered this turn, and you may put a permanent card from your hand onto the battlefield if it's the third time.
+pt: 3/4 => 5/6
+
+Awakener Herald
+rules_text: When Awakener Herald enters, put a +1/+1 counter on target creature for each permanent that entered under your control this turn.
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i] => When Awakener Herald enters, put a +1/+1 counter on target creature for each permanent that entered under your control this turn. It gains haste and trample until end of turn.
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Shifting Interloper
+rules_text: Shadowstep {W}{U}{B} [i](You may cast this spell for its shadowstep cost. If you do, shuffle it into its owner's library at the beginning of the next end step.)[/i]
+When Shifting Interloper enters, return up to one target nonland permanent to its owner's hand. It's controller loses 3 life unless they discard a card.
+Basiclandcycling {2} => Shadowstep {W}{U}{B} [i](You may cast this spell for its shadowstep cost. If you do, shuffle it into its owner's library at the beginning of the next end step.)[/i]
+When Shifting Interloper enters, return target nonland permanent you don't control to its owner's hand. That player loses 3 life unless they discard a card.
+Basiclandcycling {2}
+
+Kryon of the Eclipse
+type: Legendary Creature — Alien => Legendary Creature — Alien Warrior
+
+Zhihao, Sage of the Summit
+rules_text: If a creature entering under your control would cause an ability of a permanent you control to trigger, it triggers an additional time.
+Whenever another creature you control enters, put a +1/+1 counter on target creature you control. => If a creature entering under your control would cause an ability of a another permanent you control to trigger, it triggers an additional time.
+Whenever another creature you control enters, you may put two +1/+1 counters on target creature you control. Do this only once per turn.
+
+Planar Ambush
+rules_text: {U}: You may put a creature card from your hand onto the battlefield. At the beginning of the next end step, shuffle it into its owner's library. => {U}: You may put a creature card from your hand onto the battlefield. At the beginning of the next end step, shuffle it into your library.
+
+The Onyx Clock
+rules_text: {T}, Sacrifice The Onyx Clock: Until end of turn, nonland permanent cards in your graveyard have salvage. The salvage cost is equal to their mana cost.
+Salvage {2}{B}{G} [i](You may cast this spell from your graveyard by sacrificing a permanent and paying the salvage cost reduced by that permanent's mana value. It enters with a finality counter.)[/i] => {T}, Sacrifice The Onyx Clock: Until end of turn, artifact and creature cards in your graveyard have salvage. The salvage cost is equal to their mana cost.
+Salvage {2}{B}{G} [i](You may cast this spell from your graveyard by sacrificing a permanent and paying the salvage cost reduced by that permanent's mana value. It enters with a finality counter.)[/i]
+
+Musing Bloodboiler
+rules_text: When Musing Bloodboiler enters, you may blight 1. If you do, exile the top card of your library. You may play it until the end of your next turn. [i](To blight 1, put a -1/-1 counter on a creature you control.)[/i]
+{1}{R}: Target creature you control with a -1/-1 counter gains menace until end of turn. => When Musing Bloodboiler enters, you may blight 1. If you do, exile the top card of your library. You may play it until the end of your next turn. [i](To blight 1, put a -1/-1 counter on a creature you control.)[/i]
+{1}{R}: Target creature you control with a -1/-1 counter on it gains menace until end of turn.
+
+Starlight Justiciar
+rules_text: Shadowstep {1}{W} [i](You may cast this spell for its shadowstep cost. If you do, shuffle it into its owner's library at the beginning of the next end step.)[/i]
+Flying, vigilance
+When Starlight Justiciar enters, you may exile up to one target artifact or enchantment. If you don't, you gain 3 life. => Shadowstep {1}{W} [i](You may cast this spell for its shadowstep cost. If you do, shuffle it into its owner's library at the beginning of the next end step.)[/i]
+Flying, vigilance
+When Starlight Justiciar enters, exile target artifact or enchantment you don't control.
+
+Defense of the Glade
+rules_text: At the beginning of your upkeep, if an opponent controls two or more creatures, sacrifice Defense of the Glade. If you do, search your library for up to two artifact and/or enchantment cards, reveal them, put them onto the battlefield, then shuffle. => At the beginning of your upkeep, if an opponent controls two or more creatures, sacrifice Defense of the Glade. If you do, search your library for up to three artifact and/or enchantment cards, reveal them, put them into your hand, then shuffle.
+
+Scrapyard Delvers
+type: Artifact Creature — Artificer => Artifact Creature — Artificer Rogue
+rules_text: Trample
+At the beginning of your end step, if a permanent you controlled left the battlefield this turn, put a +1/+1 counter on Scrapyard Delvers.
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i] => Vigilance
+At the beginning of your end step, if a permanent you control left the battlefield this turn, put a +1/+1 counter on Scrapyard Delvers.
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Zarex, Echo Weaver
+rules_text: Flying
+Whenever Zarex, Echo Weaver attacks, create a token that's a copy of target artifact or creature. Sacrifice that token at the beginning of the next end step.
+When Zarex, Echo Weaver enters, each opponent loses 1 life. Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => Flying
+Whenever Zarex, Echo Weaver attacks, create a token that's a copy of target artifact or creature. Sacrifice that token at the beginning of the next end step.
+When Zarex, Echo Weaver enters, choose one:
+• Each opponent loses 1 life.
+• Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Astral Extractor
+rules_text: Flying
+Shadowstep {1}{B} [i](You may cast this spell for its shadowstep cost. If you do, shuffle it into its owner's library at the beginning of the next end step.)[/i]
+When Astral Extractor enters, target opponent exiles a card from their hand. If Astral Extractor was cast for it's shadowstep cost, that player reveals their hand instead, you choose a nonland card from it, and that player exiles that card. => Flying
+Shadowstep {B}{B}
+When Astral Extractor enters, target opponent exiles a card from their hand. If Astral Extractor was cast for it's shadowstep cost, that player reveals their hand instead, you choose a nonland card from it, and that player exiles that card.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Reckless Tutor added.

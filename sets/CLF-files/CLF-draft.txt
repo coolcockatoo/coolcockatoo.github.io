@@ -5,7 +5,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{W}{B}",
 			"type": "Legendary Creature — Human Avatar",
-			"collector_number": "65",
+			"collector_number": "83",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/0.png"
 			}
@@ -15,7 +15,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}{R}",
 			"type": "Legendary Creature — Vampire Wizard",
-			"collector_number": "58",
+			"collector_number": "75",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/1.png"
 			}
@@ -25,7 +25,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "10",
+			"collector_number": "13",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/2.png"
 			}
@@ -45,7 +45,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Vampire Wizard",
-			"collector_number": "30",
+			"collector_number": "35",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/4.png"
 			}
@@ -55,7 +55,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "71",
+			"collector_number": "89",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/5.png"
 			}
@@ -65,7 +65,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Enchantment",
-			"collector_number": "54",
+			"collector_number": "67",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/6.png"
 			}
@@ -75,7 +75,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human",
-			"collector_number": "46",
+			"collector_number": "53",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/7.png"
 			}
@@ -85,7 +85,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}",
 			"type": "Legendary Artifact",
-			"collector_number": "80",
+			"collector_number": "99",
 			"back": {
 				"name": "",
 				"type": "",
@@ -102,7 +102,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Vampire",
-			"collector_number": "29",
+			"collector_number": "34",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/9.png"
 			}
@@ -112,7 +112,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "41",
+			"collector_number": "46",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/10.png"
 			}
@@ -122,7 +122,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}{G}{W}",
 			"type": "Legendary Creature — Human Wizard Monk",
-			"collector_number": "79",
+			"collector_number": "98",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/11.png"
 			}
@@ -132,7 +132,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{B}{R}",
 			"type": "Legendary Creature — Vampire Noble",
-			"collector_number": "68",
+			"collector_number": "86",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/12.png"
 			}
@@ -142,7 +142,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "32",
+			"collector_number": "37",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/13.png"
 			}
@@ -152,7 +152,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Artifact Creature — Spider Construct",
-			"collector_number": "21",
+			"collector_number": "26",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/14.png"
 			}
@@ -162,7 +162,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{R}{G}",
 			"type": "Legendary Artifact Creature — Artificer",
-			"collector_number": "62",
+			"collector_number": "80",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/15.png"
 			}
@@ -171,8 +171,8 @@
 			"name": "Skeborax, the Pathfinder",
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}{U}{B}",
-			"type": "Legendary Creature — Alien Avatar",
-			"collector_number": "73",
+			"type": "Legendary Creature — Alien Wizard",
+			"collector_number": "91",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/16.png"
 			}
@@ -192,7 +192,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Vampire Wizard",
-			"collector_number": "18",
+			"collector_number": "23",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/18.png"
 			}
@@ -202,7 +202,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Artifact Creature — Dragon Construct",
-			"collector_number": "36",
+			"collector_number": "41",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/19.png"
 			}
@@ -210,9 +210,9 @@
 		{
 			"name": "Evergreen, the Nurturer",
 			"rarity": "mythic",
-			"mana_cost": "{1}{G}{W}{U}",
+			"mana_cost": "{2}{G}{W}{U}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "59",
+			"collector_number": "76",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/20.png"
 			}
@@ -222,7 +222,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Spirit",
-			"collector_number": "47",
+			"collector_number": "54",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/21.png"
 			}
@@ -232,7 +232,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "7",
+			"collector_number": "8",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/22.png"
 			}
@@ -242,7 +242,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "9",
+			"collector_number": "12",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/23.png"
 			}
@@ -252,7 +252,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Spirit Rogue",
-			"collector_number": "15",
+			"collector_number": "19",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/24.png"
 			}
@@ -262,7 +262,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Alien Rogue",
-			"collector_number": "13",
+			"collector_number": "17",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/25.png"
 			}
@@ -272,7 +272,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}{G}{W}",
 			"type": "Creature — Spirit",
-			"collector_number": "53",
+			"collector_number": "65",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/26.png"
 			}
@@ -282,7 +282,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}{U}{B}",
 			"type": "Creature — Alien Wizard",
-			"collector_number": "72",
+			"collector_number": "90",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/27.png"
 			}
@@ -292,7 +292,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Spirit",
-			"collector_number": "38",
+			"collector_number": "43",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/28.png"
 			}
@@ -302,7 +302,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}{W}",
 			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "52",
+			"collector_number": "64",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/29.png"
 			}
@@ -312,7 +312,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Creature — Dragon",
-			"collector_number": "45",
+			"collector_number": "52",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/30.png"
 			}
@@ -332,7 +332,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Sorcery",
-			"collector_number": "57",
+			"collector_number": "74",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/32.png"
 			}
@@ -352,17 +352,17 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Vampire",
-			"collector_number": "23",
+			"collector_number": "28",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/34.png"
 			}
 		},
 		{
-			"name": "Verdant Harvester",
+			"name": "Hollow Harvester",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "51",
+			"collector_number": "58",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/35.png"
 			}
@@ -372,7 +372,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact Creature — Construct Rogue",
-			"collector_number": "34",
+			"collector_number": "39",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/36.png"
 			}
@@ -382,7 +382,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{R}{G}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "63",
+			"collector_number": "81",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/37.png"
 			}
@@ -391,8 +391,8 @@
 			"name": "Kryon of the Eclipse",
 			"rarity": "rare",
 			"mana_cost": "{2/W}{U}{2/B}",
-			"type": "Legendary Creature — Alien",
-			"collector_number": "64",
+			"type": "Legendary Creature — Alien Warrior",
+			"collector_number": "82",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/38.png"
 			}
@@ -402,7 +402,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Alien Warrior",
-			"collector_number": "25",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/39.png"
 			}
@@ -412,7 +412,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment",
-			"collector_number": "31",
+			"collector_number": "36",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/40.png"
 			}
@@ -422,7 +422,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "28",
+			"collector_number": "33",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/41.png"
 			}
@@ -432,7 +432,7 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{B}{R}",
 			"type": "Sorcery",
-			"collector_number": "56",
+			"collector_number": "70",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/42.png"
 			}
@@ -442,7 +442,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "81",
+			"collector_number": "100",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/43.png"
 			}
@@ -452,7 +452,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2/R}{2/G}{W}",
 			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "78",
+			"collector_number": "97",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/44.png"
 			}
@@ -472,7 +472,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "14",
+			"collector_number": "18",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/46.png"
 			}
@@ -482,7 +482,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2/B}{R}{2/G}",
 			"type": "Legendary Creature — Elemental Artificer",
-			"collector_number": "61",
+			"collector_number": "78",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/47.png"
 			}
@@ -492,7 +492,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Artifact Creature — Dragon Construct",
-			"collector_number": "35",
+			"collector_number": "40",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/48.png"
 			}
@@ -502,7 +502,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Artifact Creature — Artificer Rogue",
-			"collector_number": "39",
+			"collector_number": "44",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/49.png"
 			}
@@ -512,7 +512,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Creature — Alien Beast",
-			"collector_number": "17",
+			"collector_number": "22",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/50.png"
 			}
@@ -522,7 +522,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Vampire Warrior",
-			"collector_number": "37",
+			"collector_number": "42",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/51.png"
 			}
@@ -532,7 +532,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2/R}{B}{2/U}",
 			"type": "Legendary Creature — Vampire",
-			"collector_number": "76",
+			"collector_number": "94",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/52.png"
 			}
@@ -542,7 +542,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Creature — Alien Mutant",
-			"collector_number": "60",
+			"collector_number": "77",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/53.png"
 			}
@@ -552,7 +552,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Vampire Spirit",
-			"collector_number": "24",
+			"collector_number": "29",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/54.png"
 			}
@@ -562,7 +562,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Spirit",
-			"collector_number": "27",
+			"collector_number": "32",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/55.png"
 			}
@@ -572,7 +572,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}",
 			"type": "Enchantment",
-			"collector_number": "19",
+			"collector_number": "24",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/56.png"
 			}
@@ -582,7 +582,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Bird Warrior",
-			"collector_number": "8",
+			"collector_number": "11",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/57.png"
 			}
@@ -592,7 +592,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}",
 			"type": "Creature — Human",
-			"collector_number": "75",
+			"collector_number": "93",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/58.png"
 			}
@@ -602,7 +602,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}",
 			"type": "Artifact Creature — Artificer",
-			"collector_number": "44",
+			"collector_number": "51",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/59.png"
 			}
@@ -612,7 +612,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}{B}{R}",
 			"type": "Creature — Vampire",
-			"collector_number": "74",
+			"collector_number": "92",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/60.png"
 			}
@@ -622,7 +622,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "33",
+			"collector_number": "38",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/61.png"
 			}
@@ -632,7 +632,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "49",
+			"collector_number": "61",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/62.png"
 			}
@@ -642,7 +642,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment",
-			"collector_number": "43",
+			"collector_number": "49",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/63.png"
 			}
@@ -652,7 +652,7 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{G}",
 			"type": "Legendary Artifact",
-			"collector_number": "67",
+			"collector_number": "85",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/64.png"
 			}
@@ -662,7 +662,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Artifact Creature — Construct Horror",
-			"collector_number": "26",
+			"collector_number": "31",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/65.png"
 			}
@@ -672,7 +672,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Vampire",
-			"collector_number": "40",
+			"collector_number": "45",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/66.png"
 			}
@@ -682,7 +682,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Creature — Alien Warrior",
-			"collector_number": "11",
+			"collector_number": "14",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/67.png"
 			}
@@ -692,7 +692,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{U}",
 			"type": "Creature — Alien Wizard",
-			"collector_number": "20",
+			"collector_number": "25",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/68.png"
 			}
@@ -702,7 +702,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Sorcery",
-			"collector_number": "12",
+			"collector_number": "16",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/69.png"
 			}
@@ -712,7 +712,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "42",
+			"collector_number": "48",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/70.png"
 			}
@@ -722,7 +722,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{G}",
 			"type": "Enchantment",
-			"collector_number": "48",
+			"collector_number": "59",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/71.png"
 			}
@@ -742,7 +742,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}",
 			"type": "Creature — Vampire Assassin",
-			"collector_number": "66",
+			"collector_number": "84",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/73.png"
 			}
@@ -752,7 +752,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}{G}",
 			"type": "Legendary Creature — Human Artificer",
-			"collector_number": "69",
+			"collector_number": "87",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/74.png"
 			}
@@ -761,8 +761,8 @@
 			"name": "Scrapyard Delvers",
 			"rarity": "common",
 			"mana_cost": "{3}{B}{R}{G}",
-			"type": "Artifact Creature — Artificer",
-			"collector_number": "70",
+			"type": "Artifact Creature — Artificer Rogue",
+			"collector_number": "88",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/75.png"
 			}
@@ -772,7 +772,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Kirin",
-			"collector_number": "50",
+			"collector_number": "62",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/76.png"
 			}
@@ -782,7 +782,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Spirit",
-			"collector_number": "16",
+			"collector_number": "21",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/77.png"
 			}
@@ -792,7 +792,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}{B}",
 			"type": "Legendary Creature — Alien",
-			"collector_number": "77",
+			"collector_number": "96",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/78.png"
 			}
@@ -802,7 +802,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Alien Horror",
-			"collector_number": "22",
+			"collector_number": "27",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/79.png"
 			}
@@ -812,9 +812,199 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{W}{U}",
 			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "55",
+			"collector_number": "69",
 			"image_uris": {
 				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/80.png"
+			}
+		},
+		{
+			"name": "Gleaming Paladin",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Elemental Knight",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/81.png"
+			}
+		},
+		{
+			"name": "Skittering Tank",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/82.png"
+			}
+		},
+		{
+			"name": "Welded Legion",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Artifact Creature — Construct Warrior",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/83.png"
+			}
+		},
+		{
+			"name": "Ceaseless Journey",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/84.png"
+			}
+		},
+		{
+			"name": "Deep-Glade Forger",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact Creature — Artificer Warrior",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/85.png"
+			}
+		},
+		{
+			"name": "Reckless Strike",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/86.png"
+			}
+		},
+		{
+			"name": "Cyros, Mold Breaker",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Legendary Creature — Elemental Artifcer",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/87.png"
+			}
+		},
+		{
+			"name": "The Boundless Enigma",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}{U}{U}",
+			"type": "Legendary Creature — Alien Avatar",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/88.png"
+			}
+		},
+		{
+			"name": "Eclipse Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Instant",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/89.png"
+			}
+		},
+		{
+			"name": "Ignatus Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Instant",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/90.png"
+			}
+		},
+		{
+			"name": "Resolute Light",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Instant",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/91.png"
+			}
+		},
+		{
+			"name": "Resourceful Tinkerer",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/92.png"
+			}
+		},
+		{
+			"name": "District Demolisher",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/93.png"
+			}
+		},
+		{
+			"name": "Revitalizing Repose",
+			"rarity": "common",
+			"mana_cost": "{X}{W}",
+			"type": "Instant",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/94.png"
+			}
+		},
+		{
+			"name": "Mistweaver",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/95.png"
+			}
+		},
+		{
+			"name": "Aurora Dragon",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Dragon",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/96.png"
+			}
+		},
+		{
+			"name": "Stranded Hermit",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/97.png"
+			}
+		},
+		{
+			"name": "Glade Protector",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elemental Druid",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/98.png"
+			}
+		},
+		{
+			"name": "Blightvein Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Instant",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://coolcockatoo.github.io/sets/CLF-files/img/99.png"
 			}
 		}
 	]
@@ -854,6 +1044,8 @@
 	1 Defense of the Glade
 	2 Sanctuary Kirin
 	2 Mystic Warden
+	2 Cyros, Mold Breaker
+	2 The Boundless Enigma
 [uncommon(3)]
 	4 Eryth, Crimson Opus
 	4 Scarlet Hemomancer
@@ -878,6 +1070,14 @@
 	4 Zarex, Echo Weaver
 	4 Astral Extractor
 	4 Bram, Horizon Seeker
+	4 Gleaming Paladin
+	4 Welded Legion
+	4 Ceaseless Journey
+	4 Eclipse Charm
+	4 Ignatus Charm
+	4 Aurora Dragon
+	4 Glade Protector
+	4 Blightvein Charm
 [common(6)]
 	8 Sanguine Piercer
 	8 Reckless Charger
@@ -891,7 +1091,7 @@
 	8 Awakener Herald
 	8 Shifting Interloper
 	8 Blightweaver Sanguine
-	8 Verdant Harvester
+	8 Hollow Harvester
 	8 Clockwork Outlaw
 	8 Eclipse Vanguard
 	8 Perpetual Wilderness
@@ -903,6 +1103,15 @@
 	8 Blitzcrank Automaton
 	8 Musing Bloodboiler
 	8 Scrapyard Delvers
+	8 Skittering Tank
+	8 Deep-Glade Forger
+	8 Reckless Strike
+	8 Resolute Light
+	8 Resourceful Tinkerer
+	8 District Demolisher
+	8 Revitalizing Repose
+	8 Mistweaver
+	8 Stranded Hermit
 [common | masterpiece(1)]
 	8 Sanguine Piercer
 	8 Reckless Charger
@@ -916,7 +1125,7 @@
 	8 Awakener Herald
 	8 Shifting Interloper
 	8 Blightweaver Sanguine
-	8 Verdant Harvester
+	8 Hollow Harvester
 	8 Clockwork Outlaw
 	8 Eclipse Vanguard
 	8 Perpetual Wilderness
@@ -928,6 +1137,15 @@
 	8 Blitzcrank Automaton
 	8 Musing Bloodboiler
 	8 Scrapyard Delvers
+	8 Skittering Tank
+	8 Deep-Glade Forger
+	8 Reckless Strike
+	8 Resolute Light
+	8 Resourceful Tinkerer
+	8 District Demolisher
+	8 Revitalizing Repose
+	8 Mistweaver
+	8 Stranded Hermit
 [foil(1)]
 	1 Lord Ego, Redeemed
 	6 Eryth, Crimson Opus
@@ -964,7 +1182,7 @@
 	2 Equinox Slash
 	2 Cosmos Steward
 	12 Blightweaver Sanguine
-	12 Verdant Harvester
+	12 Hollow Harvester
 	12 Clockwork Outlaw
 	2 Ignatus's Titan
 	2 Kryon of the Eclipse
@@ -1010,6 +1228,25 @@
 	6 Zarex, Echo Weaver
 	6 Astral Extractor
 	6 Bram, Horizon Seeker
+	6 Gleaming Paladin
+	12 Skittering Tank
+	6 Welded Legion
+	6 Ceaseless Journey
+	12 Deep-Glade Forger
+	12 Reckless Strike
+	2 Cyros, Mold Breaker
+	2 The Boundless Enigma
+	6 Eclipse Charm
+	6 Ignatus Charm
+	12 Resolute Light
+	12 Resourceful Tinkerer
+	12 District Demolisher
+	12 Revitalizing Repose
+	12 Mistweaver
+	6 Aurora Dragon
+	12 Stranded Hermit
+	6 Glade Protector
+	6 Blightvein Charm
 [wildcard(1)]
 	4 Lord Ego, Redeemed
 	15 Eryth, Crimson Opus
@@ -1046,7 +1283,7 @@
 	7 Equinox Slash
 	7 Cosmos Steward
 	6 Blightweaver Sanguine
-	6 Verdant Harvester
+	6 Hollow Harvester
 	6 Clockwork Outlaw
 	7 Ignatus's Titan
 	7 Kryon of the Eclipse
@@ -1092,3 +1329,22 @@
 	15 Zarex, Echo Weaver
 	15 Astral Extractor
 	15 Bram, Horizon Seeker
+	15 Gleaming Paladin
+	6 Skittering Tank
+	15 Welded Legion
+	15 Ceaseless Journey
+	6 Deep-Glade Forger
+	6 Reckless Strike
+	7 Cyros, Mold Breaker
+	7 The Boundless Enigma
+	15 Eclipse Charm
+	15 Ignatus Charm
+	6 Resolute Light
+	6 Resourceful Tinkerer
+	6 District Demolisher
+	6 Revitalizing Repose
+	6 Mistweaver
+	15 Aurora Dragon
+	6 Stranded Hermit
+	15 Glade Protector
+	15 Blightvein Charm
